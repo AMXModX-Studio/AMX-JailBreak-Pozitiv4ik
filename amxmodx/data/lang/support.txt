@@ -1,0 +1,21 @@
+[ru]
+HINT_MENU = Дать ответ :
+HINT_CHAT = !yДорогой(ая)!g %s!y вам ответ!
+REPLY_CHAT = !tОтвет : !y%s
+
+INFO_CHAT = !t%s!y - у нас установлена система поддержки, напишите!g /support
+
+MENU_BACK = Назад
+MENU_NEXT = Далее
+MENU_EXIT = Выход
+
+[en]
+HINT_MENU = Post a reply :
+HINT_CHAT = !yDear(th)!g %s!y you the answer!
+REPLY_CHAT = !tReply : !y%s
+
+INFO_CHAT = !t%s!y - we have established support system, write!g /support
+
+MENU_BACK = Back
+MENU_NEXT = Next
+MENU_EXIT = Exit

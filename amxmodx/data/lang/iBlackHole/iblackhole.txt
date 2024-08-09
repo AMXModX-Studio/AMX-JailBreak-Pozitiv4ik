@@ -1,0 +1,53 @@
+[ru]
+iBLACK_HOLE_CHAT_YOU_NOT_HAVE_FLAG_MENU = !t[!giBlackHole!t] !yУ вас нет доступа к '!gМеню карцера!y'.
+
+iBLACK_HOLE_MENU_PLAYERS_TITLE = \r[\diBH\r] \yВыбери игрока:^n\dСтраница: \y%d \dиз \r%d^n^n
+iBLACK_HOLE_MENU_ON_BLOCK = \r[\d#\r] \d%s\r* \w- \rВ карцере^n
+iBLACK_HOLE_MENU_OFF_BLOCK = \r[\d#\r] \d%s\r*^n
+iBLACK_HOLE_MENU_ON_KEY = \y[\w%d\y] \w%s - \rВ карцере^n
+iBLACK_HOLE_MENU_OFF_KEY = \y[\w%d\y] \w%s^n
+
+iBLACK_HOLE_MENU_BACK = ^n^n\y[\w8\y] \wBack^n
+iBLACK_HOLE_MENU_BACK_CLOSE = ^n^n\r[\d#\r] \dBack^n
+iBLACK_HOLE_MENU_BACK_PMENU = ^n^n\y[\w8\y] \wBack \r-> \wИгроки^n
+iBLACK_HOLE_MENU_NEXT = \y[\w9\y] \wNext^n
+iBLACK_HOLE_MENU_NEXT_CLOSE = \r[\d#\r] \dNext^n
+iBLACK_HOLE_MENU_EXIT = \y[\w0\y] \wExit
+
+iBLACK_HOLE_CHAT_CHIEF_CLEAR_BH_PLAYER = !yНачальник !g%s !yвыпустил из карцера !t%s!y.
+iBLACK_HOLE_CHAT_FLAG_CLEAR_BH_PLAYER = !yАдмин !g%s !yвыпустил из карцера !t%s!y.
+iBLACK_HOLE_CHAT_CHIEF_ADD_BH_PLAYER = !yНачальник !g%s !yпосадил в карцер !t%s!y. Причина: !g%s!y.
+iBLACK_HOLE_CHAT_FLAG_ADD_BH_PLAYER = !yАдмин !g%s !yпосадил в карцер !t%s!y. Причина: !g%s!y.
+
+
+iBLACK_HOLE_MENU_REASON_TITLE = \yЗаключённый: \r%s^n\yВыбери причину:^n^n
+iBLACK_HOLE_MENU_KEY = \y[\w%d\y] \w%s^n
+
+iBLACK_HOLE_HUD_REASON = Тебя посадил: %s | Причина: %s^nВы в карцере.
+
+[en]
+iBLACK_HOLE_CHAT_YOU_NOT_HAVE_FLAG_MENU = !t[!giBlackHole!t] !yУ вас нет доступа к '!gМеню карцера!y'.
+
+iBLACK_HOLE_MENU_PLAYERS_TITLE = \r[\diBH\r] \yВыбери игрока:^n\dСтраница: \y%d \dиз \r%d^n^n
+iBLACK_HOLE_MENU_ON_BLOCK = \r[\d#\r] \d%s\r* \w- \rВ карцере^n
+iBLACK_HOLE_MENU_OFF_BLOCK = \r[\d#\r] \d%s\r*^n
+iBLACK_HOLE_MENU_ON_KEY = \y[\w%d\y] \w%s - \rВ карцере^n
+iBLACK_HOLE_MENU_OFF_KEY = \y[\w%d\y] \w%s^n
+
+iBLACK_HOLE_MENU_BACK = ^n^n\y[\w8\y] \wBack^n
+iBLACK_HOLE_MENU_BACK_CLOSE = ^n^n\r[\d#\r] \dBack^n
+iBLACK_HOLE_MENU_BACK_PMENU = ^n^n\y[\w8\y] \wBack \r-> \wИгроки^n
+iBLACK_HOLE_MENU_NEXT = \y[\w9\y] \wNext^n
+iBLACK_HOLE_MENU_NEXT_CLOSE = \r[\d#\r] \dNext^n
+iBLACK_HOLE_MENU_EXIT = \y[\w0\y] \wExit
+
+iBLACK_HOLE_CHAT_CHIEF_CLEAR_BH_PLAYER = !yНачальник !g%s !yвыпустил из карцера !t%s!y.
+iBLACK_HOLE_CHAT_FLAG_CLEAR_BH_PLAYER = !yАдмин !g%s !yвыпустил из карцера !t%s!y.
+iBLACK_HOLE_CHAT_CHIEF_ADD_BH_PLAYER =!yНачальник !g%s !yпосадил в карцер !t%s!y. Причина: !g%s!y.
+iBLACK_HOLE_CHAT_FLAG_ADD_BH_PLAYER = !yАдмин !g%s !yпосадил в карцер !t%s!y. Причина: !g%s!y.
+
+
+iBLACK_HOLE_MENU_REASON_TITLE = \yЗаключённый: \r%s^n\yВыбери причину:^n^n
+iBLACK_HOLE_MENU_KEY = \y[\w%d\y] \w%s^n
+
+iBLACK_HOLE_HUD_REASON = Тебя посадил: %s | Причина: %s^nВы в карцере.

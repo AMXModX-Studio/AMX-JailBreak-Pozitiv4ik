@@ -1,0 +1,37 @@
+L 10/23/2022 - 00:27:56: Log file started (file "cstrike/addons/amxmodx/logs/FB/2022_10_23.log") (game "cstrike") (amx "1.9.0.5263")
+L 10/23/2022 - 00:27:56: [fB 1.4.2b]mySQL is OK! Time difference -20 sec, DB delay 0.275000333 sec
+L 10/23/2022 - 03:20:03: [fB 1.4.2b]mySQL is OK! Time difference -20 sec, DB delay 0.275731325 sec
+L 10/23/2022 - 04:53:18: [fB 1.4.2b]mySQL is OK! Time difference -20 sec, DB delay 0.275654077 sec
+L 10/23/2022 - 05:26:11: [fB 1.4.2b]mySQL is OK! Time difference -20 sec, DB delay 0.025728464 sec
+L 10/23/2022 - 05:39:50: [fB 1.4.2b]mySQL is OK! Time difference -20 sec, DB delay 0.025347948 sec
+L 10/23/2022 - 05:44:09: [fB 1.4.2b]mySQL is OK! Time difference -20 sec, DB delay 0.025617480 sec
+L 10/23/2022 - 05:49:50: [fB 1.4.2b]mySQL is OK! Time difference -20 sec, DB delay 0.025419116 sec
+L 10/23/2022 - 05:51:31: [fB 1.4.2b]mySQL is OK! Time difference -20 sec, DB delay 0.025681972 sec
+L 10/23/2022 - 05:58:08: [fB 1.4.2b]mySQL is OK! Time difference -20 sec, DB delay 0.025427699 sec
+L 10/23/2022 - 06:02:27: [fB 1.4.2b]mySQL is OK! Time difference -20 sec, DB delay 0.025377154 sec
+L 10/23/2022 - 06:03:34: [fB 1.4.2b]mySQL is OK! Time difference -20 sec, DB delay 0.275583267 sec
+L 10/23/2022 - 06:05:54: [fB 1.4.2b]mySQL is OK! Time difference -20 sec, DB delay 0.025243759 sec
+L 10/23/2022 - 06:13:19: [fB 1.4.2b]mySQL is OK! Time difference -20 sec, DB delay 0.275102376 sec
+L 10/23/2022 - 08:13:20: [fB 1.4.2b]mySQL is OK! Time difference -20 sec, DB delay 0.275251388 sec
+L 10/23/2022 - 09:07:00: [fB 1.4.2b]mySQL is OK! Time difference -20 sec, DB delay 0.275815963 sec
+L 10/23/2022 - 09:45:31: [fB 1.4.2b]mySQL is OK! Time difference -20 sec, DB delay 0.275400638 sec
+L 10/23/2022 - 11:03:14: [fB 1.4.2b]mySQL is OK! Time difference -20 sec, DB delay 0.275190591 sec
+L 10/23/2022 - 11:51:01: [fB 1.4.2b]mySQL is OK! Time difference -21 sec, DB delay 0.275516033 sec
+L 10/23/2022 - 12:49:13: [fB 1.4.2b]mySQL is OK! Time difference -20 sec, DB delay 0.298281431 sec
+L 10/23/2022 - 13:10:10: [fB 1.4.2b]mySQL is OK! Time difference -20 sec, DB delay 0.275129556 sec
+L 10/23/2022 - 14:15:13: [fB 1.4.2b]mySQL is OK! Time difference -21 sec, DB delay 0.275420665 sec
+L 10/23/2022 - 15:18:16: [FB]Ban Player [mark_a(LsD)] [88.85.196.100] [STEAM_2:1:1483645440] on 30 минут for Убийство без причины by Player from 185.177.125.90
+L 10/23/2022 - 15:20:43: [fB 1.4.2b]mySQL is OK! Time difference -20 sec, DB delay 0.275340318 sec
+L 10/23/2022 - 16:34:30: [fB 1.4.2b]mySQL is OK! Time difference -20 sec, DB delay 0.275561809 sec
+L 10/23/2022 - 17:32:22: [fB 1.4.2b]mySQL is OK! Time difference -21 sec, DB delay 0.275798082 sec
+L 10/23/2022 - 17:48:41: [FB]Ban Player [CS-16 | Player] [37.212.58.71] [STEAM_2:0:47603752] on 30 минут for Упоминание родных. by Любитель from 178.214.188.86
+L 10/23/2022 - 18:27:07: [fB 1.4.2b]mySQL is OK! Time difference -21 sec, DB delay 0.275483369 sec
+L 10/23/2022 - 18:46:02: [FB]Ban Player [(1)K P A C U B O] [79.126.57.79] [STEAM_1:1:21310253] on 30 минут for Отдохни(оск админа) by thienlaoyu from 176.52.112.144
+L 10/23/2022 - 19:16:14: [fB 1.4.2b]mySQL is OK! Time difference -20 sec, DB delay 0.275842428 sec
+L 10/23/2022 - 20:02:09: [fB 1.4.2b]mySQL delay is not good =(! Time difference -21 sec, DB delay 1.089394807 sec
+L 10/23/2022 - 21:41:41: [fB 1.4.2b]mySQL is OK! Time difference -21 sec, DB delay 0.275055170 sec
+L 10/23/2022 - 22:02:10: [FB]Ban Player [yohansson] [213.108.223.146] [STEAM_0:0:562999537] on 3 часов for Читы by hOLA from 89.64.43.115
+L 10/23/2022 - 22:02:31: [FB][UNBAN] Ban id 31 set expired by [Player] [194.44.57.111] [STEAM_0:0:632569382]
+L 10/23/2022 - 22:13:59: [fB 1.4.2b]mySQL is OK! Time difference -21 sec, DB delay 0.275743246 sec
+L 10/23/2022 - 22:26:28: USE: amx_ban <time in mins> <steamID or nickname or #authid or IP> <reason>
+L 10/23/2022 - 22:47:32: [fB 1.4.2b]mySQL is OK! Time difference -21 sec, DB delay 0.275045394 sec

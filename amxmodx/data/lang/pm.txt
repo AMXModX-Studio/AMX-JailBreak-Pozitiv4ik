@@ -1,0 +1,45 @@
+﻿[en]
+PM_MAINMENU_TITLE = Приватные сообщение игроку^n\dВыберите действие!
+PM_MAINMENU_ITEM_1 = Написать \rЛичное сообщение
+PM_MAINMENU_ITEM_2 = Записная книжка
+
+PM_PLAYERMENU_TITLE = Выберите игрока:
+PM_PLAYERMENU_BLOCKED = %s \d( \rБлокировка \d)
+
+PM_BLOCKMENU_TITLE = Выберите вариант блокировки!
+PM_BLOCKMENU_ITEM_1 = Заблокировать всех^n
+PM_BLOCKMENU_ITEM_1_1 = Заблокировать всех\d[ \rВключено \d]^n
+
+PM_NOPLAYER = !y[ !gПМ !y]Игрок !gне найден!
+PM_NOPLAYER_CONNECT = !y[ !gПМ !y]Игрок !gотсоеденился от !tсервера
+
+PM_SEND_INFO = !y[ !gПМ !y]Введите !tтекст !gсообщение !yвыше
+PM_SEND = !y[ !gПМ !y]( !t%s !y) %s
+
+PM_BLOCK_ALL = !y[ !gПМ !y]!tВы !gзаблокировали !yвсех !tна отправку
+PM_UNBLOCK_ALL = !y[ !gПМ !y]!tВы !gразблокировали !yвсех !tна отправку
+PM_BLOCK_PLAYER = !y[ !gПМ !y]!tВы !gзаблокировали !yигрока !t%s !gна отправку
+PM_UNBLOCK_PLAYER = !y[ !gПМ !y]!tВы !gразблокировали !yигрока !t%s !gна отправку
+
+[ru]
+PM_MAINMENU_TITLE = Приватные сообщение игроку^n\dВыберите действие!
+PM_MAINMENU_ITEM_1 = Написать \rЛичное сообщение
+PM_MAINMENU_ITEM_2 = Записная книжка
+
+PM_PLAYERMENU_TITLE = Выберите игрока:
+PM_PLAYERMENU_BLOCKED = %s \d( \rБлокировка \d)
+
+PM_BLOCKMENU_TITLE = Выберите вариант блокировки!
+PM_BLOCKMENU_ITEM_1 = Заблокировать всех^n
+PM_BLOCKMENU_ITEM_1_1 = Заблокировать всех\d[ \rВключено \d]^n
+
+PM_NOPLAYER = !y[ !gПМ !y]Игрок !gне найден!
+PM_NOPLAYER_CONNECT = !y[ !gПМ !y]Игрок !gотсоеденился от !tсервера
+
+PM_SEND_INFO = !y[ !gПМ !y]Введите !tтекст !gсообщение !yвыше
+PM_SEND = !y[ !gПМ !y]( !t%s !y) %s
+
+PM_BLOCK_ALL = !y[ !gПМ !y]!tВы !gзаблокировали !yвсех !tна отправку
+PM_UNBLOCK_ALL = !y[ !gПМ !y]!tВы !gразблокировали !yвсех !tна отправку
+PM_BLOCK_PLAYER = !y[ !gПМ !y]!tВы !gзаблокировали !yигрока !t%s !gна отправку
+PM_UNBLOCK_PLAYER = !y[ !gПМ !y]!tВы !gразблокировали !yигрока !t%s !gна отправку

@@ -1,0 +1,42 @@
+[en]
+GRAB_MENU_FREEZE = Freeze
+GRAB_MENU_FREEZE_UNSET = Unfreeze
+GRAB_MENU_FREEZE_MSG = ^4* ^4%n ^1killed ^3%n ^1with grab
+
+GRAB_MENU_FREEZE_CVAR_TEAM = Show item only if grabber is in that team^na - T^nb - CT^nc - SPECTATOR
+GRAB_MENU_FREEZE_CVAR_TARGET_TEAM = Show item only if target is in that team^n1 - T^n2 - CT^n3 - SPECTATOR
+GRAB_MENU_FREEZE_CVAR_ACCESS = Access to item^nIf it's not specified, access to +grab command is used
+GRAB_MENU_FREEZE_CVAR_UNSET_TYPE = Type of unfreeze^n1 - on grabbing^n2 - on selecting item
+GRAB_MENU_FREEZE_CVAR_COLOR_RED = Red color of glow (RGB)
+GRAB_MENU_FREEZE_CVAR_COLOR_GREEN = Green color of glow (RGB)
+GRAB_MENU_FREEZE_CVAR_COLOR_BLUE = Blue color of glow (RGB)
+GRAB_MENU_FREEZE_CVAR_AMOUNT = Glow amount
+
+[es]
+GRAB_MENU_FREEZE = Congelar
+GRAB_MENU_FREEZE_UNSET = Descongelar
+GRAB_MENU_FREEZE_MSG = ^4* ^4%n ^1ha matado a ^3%n ^1con el grab
+
+GRAB_MENU_FREEZE_CVAR_TEAM = Mostrar el elemento si el que sujeta es de este equipo^na - T^nb - CT^nc - SPECTATOR
+GRAB_MENU_FREEZE_CVAR_TARGET_TEAM = Mostrar el elemento si al que se sujeta es de este eqipo^n1 - T^n2 - CT^n3 - SPECTATOR
+GRAB_MENU_FREEZE_CVAR_ACCESS = Acceso al elemento^nSi no está indicado se usa el acceso del comando +grab
+GRAB_MENU_FREEZE_CVAR_UNSET_TYPE = Cómo descongelar^n1 - al coger con el grab^n2 - al seleccionar el elemento
+GRAB_MENU_FREEZE_CVAR_COLOR_RED = Color rojo del brillo (RGB)
+GRAB_MENU_FREEZE_CVAR_COLOR_GREEN = Color verde del brillo (RGB)
+GRAB_MENU_FREEZE_CVAR_COLOR_BLUE = Color azul del brillo (RGB)
+GRAB_MENU_FREEZE_CVAR_AMOUNT = El tamaño del brillo
+
+[ru]
+GRAB_MENU_FREEZE = Заморозить
+GRAB_MENU_FREEZE_UNSET = Разморозить
+GRAB_MENU_FREEZE_MSG = ^4* ^4%n ^1заморозил(а) ^3%n ^1грабом
+GRAB_MENU_FREEZE_UNSET_MSG = ^4* ^4%n ^1разморозил(а) ^3%n ^1грабом
+
+GRAB_MENU_FREEZE_CVAR_TEAM = Показывать пункт если кто держит грабом этой команды^na - T^nb - CT^nc - SPECTATOR
+GRAB_MENU_FREEZE_CVAR_TARGET_TEAM = Показывать пункт если цель этой команды^n1 - T^n2 - CT^n3 - SPECTATOR
+GRAB_MENU_FREEZE_CVAR_ACCESS = Доступ к пункту^nЕсли не указано то используется доступ к команде +grab
+GRAB_MENU_FREEZE_CVAR_UNSET_TYPE = Тип разморозки^n1 - при взятии грабом^n2 - при нажатии на пункт
+GRAB_MENU_FREEZE_CVAR_COLOR_RED = Красный цвет свечения (RGB)
+GRAB_MENU_FREEZE_CVAR_COLOR_GREEN = Зелёный цвет свечения (RGB)
+GRAB_MENU_FREEZE_CVAR_COLOR_BLUE = Синий цвет свечения (RGB)
+GRAB_MENU_FREEZE_CVAR_AMOUNT = Размер свечения

@@ -1,0 +1,235 @@
+L 11/07/2022 - 00:44:07: -------- Mapchange to jail_sebastian --------
+L 11/07/2022 - 00:44:09: [gamecms_api.amxx] Reading GameCMS settings file... OK
+L 11/07/2022 - 00:44:09: [AMXX] Failed to open dictionary file: cstrike/addons/amxmodx/data/lang/jb_blockct.txt
+L 11/07/2022 - 00:44:09: [AdminsOnline.amxx] Файл addons/amxmodx/configs/AO/AO_07_11_2022.txt успешно создан!
+L 11/07/2022 - 00:44:09: [gamecms_api.amxx] Connection to the GameCMS database is established
+L 11/07/2022 - 00:44:09: [gamecms_api.amxx] "55" services was 'Loaded' from database. Total on server: "55" services.
+L 11/07/2022 - 00:44:10: [pluginmenu.amxx] Can't add menu item "Plugin Cvars" from plugin "pluginmenu.amxx" to menu set because the Menus Front-End plugin itself is not loaded!
+L 11/07/2022 - 00:44:10: [pluginmenu.amxx] Can't add menu item "Plugin Commands" from plugin "pluginmenu.amxx" to menu set because the Menus Front-End plugin itself is not loaded!
+L 11/07/2022 - 01:40:49: -------- Mapchange to jail_buyukmekan_fix --------
+L 11/07/2022 - 01:40:50: [gamecms_api.amxx] Reading GameCMS settings file... OK
+L 11/07/2022 - 01:40:50: [AMXX] Failed to open dictionary file: cstrike/addons/amxmodx/data/lang/jb_blockct.txt
+L 11/07/2022 - 01:40:50: [gamecms_api.amxx] Connection to the GameCMS database is established
+L 11/07/2022 - 01:40:51: [gamecms_api.amxx] "55" services was 'Loaded' from database. Total on server: "55" services.
+L 11/07/2022 - 01:40:51: [pluginmenu.amxx] Can't add menu item "Plugin Cvars" from plugin "pluginmenu.amxx" to menu set because the Menus Front-End plugin itself is not loaded!
+L 11/07/2022 - 01:40:51: [pluginmenu.amxx] Can't add menu item "Plugin Commands" from plugin "pluginmenu.amxx" to menu set because the Menus Front-End plugin itself is not loaded!
+L 11/07/2022 - 02:12:31: [lite_mapchooser.amxx] Vote: Voting for the nextmap started
+L 11/07/2022 - 02:12:41: [lite_mapchooser.amxx] [End VoteMap] Voting for the nextmap finished. The nextmap will be jail_reset_v2
+L 11/07/2022 - 02:12:44: -------- Mapchange to jail_reset_v2 --------
+L 11/07/2022 - 02:12:45: [gamecms_api.amxx] Reading GameCMS settings file... OK
+L 11/07/2022 - 02:12:45: [AMXX] Failed to open dictionary file: cstrike/addons/amxmodx/data/lang/jb_blockct.txt
+L 11/07/2022 - 02:12:45: [gamecms_api.amxx] Connection to the GameCMS database is established
+L 11/07/2022 - 02:12:45: [gamecms_api.amxx] "55" services was 'Loaded' from database. Total on server: "55" services.
+L 11/07/2022 - 02:12:46: [pluginmenu.amxx] Can't add menu item "Plugin Cvars" from plugin "pluginmenu.amxx" to menu set because the Menus Front-End plugin itself is not loaded!
+L 11/07/2022 - 02:12:46: [pluginmenu.amxx] Can't add menu item "Plugin Commands" from plugin "pluginmenu.amxx" to menu set because the Menus Front-End plugin itself is not loaded!
+L 11/07/2022 - 03:40:41: -------- Mapchange to jail_buyukinfaz --------
+L 11/07/2022 - 03:40:43: [gamecms_api.amxx] Reading GameCMS settings file... OK
+L 11/07/2022 - 03:40:43: [AMXX] Failed to open dictionary file: cstrike/addons/amxmodx/data/lang/jb_blockct.txt
+L 11/07/2022 - 03:40:43: [gamecms_api.amxx] Connection to the GameCMS database is established
+L 11/07/2022 - 03:40:44: [gamecms_api.amxx] "55" services was 'Loaded' from database. Total on server: "55" services.
+L 11/07/2022 - 03:40:44: [pluginmenu.amxx] Can't add menu item "Plugin Cvars" from plugin "pluginmenu.amxx" to menu set because the Menus Front-End plugin itself is not loaded!
+L 11/07/2022 - 03:40:44: [pluginmenu.amxx] Can't add menu item "Plugin Commands" from plugin "pluginmenu.amxx" to menu set because the Menus Front-End plugin itself is not loaded!
+L 11/07/2022 - 05:08:40: -------- Mapchange to jail_alayinaisyan_b5 --------
+L 11/07/2022 - 05:08:41: [gamecms_api.amxx] Reading GameCMS settings file... OK
+L 11/07/2022 - 05:08:41: [AMXX] Failed to open dictionary file: cstrike/addons/amxmodx/data/lang/jb_blockct.txt
+L 11/07/2022 - 05:08:41: [gamecms_api.amxx] Connection to the GameCMS database is established
+L 11/07/2022 - 05:08:41: [gamecms_api.amxx] "55" services was 'Loaded' from database. Total on server: "55" services.
+L 11/07/2022 - 05:08:42: [pluginmenu.amxx] Can't add menu item "Plugin Cvars" from plugin "pluginmenu.amxx" to menu set because the Menus Front-End plugin itself is not loaded!
+L 11/07/2022 - 05:08:42: [pluginmenu.amxx] Can't add menu item "Plugin Commands" from plugin "pluginmenu.amxx" to menu set because the Menus Front-End plugin itself is not loaded!
+L 11/07/2022 - 05:45:17: [lite_mapchooser.amxx] Vote: Voting for the nextmap started
+L 11/07/2022 - 05:45:27: [lite_mapchooser.amxx] [End VoteMap] Voting for the nextmap finished. The nextmap will be jail_reset_v2
+L 11/07/2022 - 05:45:30: -------- Mapchange to jail_reset_v2 --------
+L 11/07/2022 - 05:45:32: [gamecms_api.amxx] Reading GameCMS settings file... OK
+L 11/07/2022 - 05:45:32: [AMXX] Failed to open dictionary file: cstrike/addons/amxmodx/data/lang/jb_blockct.txt
+L 11/07/2022 - 05:45:32: [gamecms_api.amxx] Connection to the GameCMS database is established
+L 11/07/2022 - 05:45:32: [gamecms_api.amxx] "55" services was 'Loaded' from database. Total on server: "55" services.
+L 11/07/2022 - 05:45:32: [pluginmenu.amxx] Can't add menu item "Plugin Cvars" from plugin "pluginmenu.amxx" to menu set because the Menus Front-End plugin itself is not loaded!
+L 11/07/2022 - 05:45:32: [pluginmenu.amxx] Can't add menu item "Plugin Commands" from plugin "pluginmenu.amxx" to menu set because the Menus Front-End plugin itself is not loaded!
+L 11/07/2022 - 06:06:26: [lite_mapchooser.amxx] Vote: Voting for the nextmap started
+L 11/07/2022 - 06:06:36: [lite_mapchooser.amxx] [End VoteMap] Nobody voted for the nextmap. Random map jail_west_v2
+L 11/07/2022 - 06:06:39: -------- Mapchange to jail_west_v2 --------
+L 11/07/2022 - 06:06:41: [gamecms_api.amxx] Reading GameCMS settings file... OK
+L 11/07/2022 - 06:06:41: [AMXX] Failed to open dictionary file: cstrike/addons/amxmodx/data/lang/jb_blockct.txt
+L 11/07/2022 - 06:06:41: [gamecms_api.amxx] Connection to the GameCMS database is established
+L 11/07/2022 - 06:06:41: [gamecms_api.amxx] "55" services was 'Loaded' from database. Total on server: "55" services.
+L 11/07/2022 - 06:06:41: [pluginmenu.amxx] Can't add menu item "Plugin Cvars" from plugin "pluginmenu.amxx" to menu set because the Menus Front-End plugin itself is not loaded!
+L 11/07/2022 - 06:06:41: [pluginmenu.amxx] Can't add menu item "Plugin Commands" from plugin "pluginmenu.amxx" to menu set because the Menus Front-End plugin itself is not loaded!
+L 11/07/2022 - 06:51:30: [lite_mapchooser.amxx] Vote: Voting for the nextmap started
+L 11/07/2022 - 06:51:40: [lite_mapchooser.amxx] [End VoteMap] Voting for the nextmap finished. Map jail_west_v2 extended by 15 minutes
+L 11/07/2022 - 07:30:33: [lite_mapchooser.amxx] Vote: Voting for the nextmap started
+L 11/07/2022 - 07:30:43: [lite_mapchooser.amxx] [End VoteMap] Voting for the nextmap finished. The nextmap will be jail_buyukmekan_fix
+L 11/07/2022 - 07:30:46: -------- Mapchange to jail_buyukmekan_fix --------
+L 11/07/2022 - 07:30:47: [gamecms_api.amxx] Reading GameCMS settings file... OK
+L 11/07/2022 - 07:30:47: [AMXX] Failed to open dictionary file: cstrike/addons/amxmodx/data/lang/jb_blockct.txt
+L 11/07/2022 - 07:30:47: [gamecms_api.amxx] Connection to the GameCMS database is established
+L 11/07/2022 - 07:30:48: [gamecms_api.amxx] "55" services was 'Loaded' from database. Total on server: "55" services.
+L 11/07/2022 - 07:30:48: [pluginmenu.amxx] Can't add menu item "Plugin Cvars" from plugin "pluginmenu.amxx" to menu set because the Menus Front-End plugin itself is not loaded!
+L 11/07/2022 - 07:30:48: [pluginmenu.amxx] Can't add menu item "Plugin Commands" from plugin "pluginmenu.amxx" to menu set because the Menus Front-End plugin itself is not loaded!
+L 11/07/2022 - 08:27:38: -------- Mapchange to jail_reset_v2 --------
+L 11/07/2022 - 08:27:40: [gamecms_api.amxx] Reading GameCMS settings file... OK
+L 11/07/2022 - 08:27:40: [AMXX] Failed to open dictionary file: cstrike/addons/amxmodx/data/lang/jb_blockct.txt
+L 11/07/2022 - 08:27:40: [gamecms_api.amxx] Connection to the GameCMS database is established
+L 11/07/2022 - 08:27:40: [gamecms_api.amxx] "55" services was 'Loaded' from database. Total on server: "55" services.
+L 11/07/2022 - 08:27:41: [pluginmenu.amxx] Can't add menu item "Plugin Cvars" from plugin "pluginmenu.amxx" to menu set because the Menus Front-End plugin itself is not loaded!
+L 11/07/2022 - 08:27:41: [pluginmenu.amxx] Can't add menu item "Plugin Commands" from plugin "pluginmenu.amxx" to menu set because the Menus Front-End plugin itself is not loaded!
+L 11/07/2022 - 09:24:31: -------- Mapchange to jail_west_v2 --------
+L 11/07/2022 - 09:24:32: [gamecms_api.amxx] Reading GameCMS settings file... OK
+L 11/07/2022 - 09:24:32: [AMXX] Failed to open dictionary file: cstrike/addons/amxmodx/data/lang/jb_blockct.txt
+L 11/07/2022 - 09:24:32: [gamecms_api.amxx] Connection to the GameCMS database is established
+L 11/07/2022 - 09:24:32: [gamecms_api.amxx] "55" services was 'Loaded' from database. Total on server: "55" services.
+L 11/07/2022 - 09:24:33: [pluginmenu.amxx] Can't add menu item "Plugin Cvars" from plugin "pluginmenu.amxx" to menu set because the Menus Front-End plugin itself is not loaded!
+L 11/07/2022 - 09:24:33: [pluginmenu.amxx] Can't add menu item "Plugin Commands" from plugin "pluginmenu.amxx" to menu set because the Menus Front-End plugin itself is not loaded!
+L 11/07/2022 - 10:21:23: -------- Mapchange to jail_czone --------
+L 11/07/2022 - 10:21:25: [gamecms_api.amxx] Reading GameCMS settings file... OK
+L 11/07/2022 - 10:21:25: [AMXX] Failed to open dictionary file: cstrike/addons/amxmodx/data/lang/jb_blockct.txt
+L 11/07/2022 - 10:21:25: [gamecms_api.amxx] Connection to the GameCMS database is established
+L 11/07/2022 - 10:21:25: [gamecms_api.amxx] "55" services was 'Loaded' from database. Total on server: "55" services.
+L 11/07/2022 - 10:21:25: [pluginmenu.amxx] Can't add menu item "Plugin Cvars" from plugin "pluginmenu.amxx" to menu set because the Menus Front-End plugin itself is not loaded!
+L 11/07/2022 - 10:21:25: [pluginmenu.amxx] Can't add menu item "Plugin Commands" from plugin "pluginmenu.amxx" to menu set because the Menus Front-End plugin itself is not loaded!
+L 11/07/2022 - 11:22:27: -------- Mapchange to jb_mini --------
+L 11/07/2022 - 11:22:28: [gamecms_api.amxx] Reading GameCMS settings file... OK
+L 11/07/2022 - 11:22:28: [AMXX] Failed to open dictionary file: cstrike/addons/amxmodx/data/lang/jb_blockct.txt
+L 11/07/2022 - 11:22:28: [gamecms_api.amxx] Connection to the GameCMS database is established
+L 11/07/2022 - 11:22:28: [gamecms_api.amxx] "55" services was 'Loaded' from database. Total on server: "55" services.
+L 11/07/2022 - 11:22:29: [pluginmenu.amxx] Can't add menu item "Plugin Cvars" from plugin "pluginmenu.amxx" to menu set because the Menus Front-End plugin itself is not loaded!
+L 11/07/2022 - 11:22:29: [pluginmenu.amxx] Can't add menu item "Plugin Commands" from plugin "pluginmenu.amxx" to menu set because the Menus Front-End plugin itself is not loaded!
+L 11/07/2022 - 12:23:30: -------- Mapchange to jail_buyuklise --------
+L 11/07/2022 - 12:23:32: [gamecms_api.amxx] Reading GameCMS settings file... OK
+L 11/07/2022 - 12:23:32: [AMXX] Failed to open dictionary file: cstrike/addons/amxmodx/data/lang/jb_blockct.txt
+L 11/07/2022 - 12:23:32: [gamecms_api.amxx] Connection to the GameCMS database is established
+L 11/07/2022 - 12:23:32: [gamecms_api.amxx] "55" services was 'Loaded' from database. Total on server: "55" services.
+L 11/07/2022 - 12:23:33: [pluginmenu.amxx] Can't add menu item "Plugin Cvars" from plugin "pluginmenu.amxx" to menu set because the Menus Front-End plugin itself is not loaded!
+L 11/07/2022 - 12:23:33: [pluginmenu.amxx] Can't add menu item "Plugin Commands" from plugin "pluginmenu.amxx" to menu set because the Menus Front-End plugin itself is not loaded!
+L 11/07/2022 - 12:49:49: [lite_mapchooser.amxx] Vote: Voting for the nextmap started
+L 11/07/2022 - 12:49:59: [lite_mapchooser.amxx] [End VoteMap] Voting for the nextmap finished. The nextmap will be jb_mini
+L 11/07/2022 - 12:50:02: -------- Mapchange to jb_mini --------
+L 11/07/2022 - 12:50:04: [gamecms_api.amxx] Reading GameCMS settings file... OK
+L 11/07/2022 - 12:50:04: [AMXX] Failed to open dictionary file: cstrike/addons/amxmodx/data/lang/jb_blockct.txt
+L 11/07/2022 - 12:50:04: [gamecms_api.amxx] Connection to the GameCMS database is established
+L 11/07/2022 - 12:50:04: [gamecms_api.amxx] "55" services was 'Loaded' from database. Total on server: "55" services.
+L 11/07/2022 - 12:50:05: [pluginmenu.amxx] Can't add menu item "Plugin Cvars" from plugin "pluginmenu.amxx" to menu set because the Menus Front-End plugin itself is not loaded!
+L 11/07/2022 - 12:50:05: [pluginmenu.amxx] Can't add menu item "Plugin Commands" from plugin "pluginmenu.amxx" to menu set because the Menus Front-End plugin itself is not loaded!
+L 11/07/2022 - 13:46:40: -------- Mapchange to jail_sebastian --------
+L 11/07/2022 - 13:46:42: [gamecms_api.amxx] Reading GameCMS settings file... OK
+L 11/07/2022 - 13:46:42: [AMXX] Failed to open dictionary file: cstrike/addons/amxmodx/data/lang/jb_blockct.txt
+L 11/07/2022 - 13:46:42: [gamecms_api.amxx] Connection to the GameCMS database is established
+L 11/07/2022 - 13:46:42: [gamecms_api.amxx] "55" services was 'Loaded' from database. Total on server: "55" services.
+L 11/07/2022 - 13:46:43: [pluginmenu.amxx] Can't add menu item "Plugin Cvars" from plugin "pluginmenu.amxx" to menu set because the Menus Front-End plugin itself is not loaded!
+L 11/07/2022 - 13:46:43: [pluginmenu.amxx] Can't add menu item "Plugin Commands" from plugin "pluginmenu.amxx" to menu set because the Menus Front-End plugin itself is not loaded!
+L 11/07/2022 - 14:43:18: -------- Mapchange to jail_buyukmekan_fix --------
+L 11/07/2022 - 14:43:19: [gamecms_api.amxx] Reading GameCMS settings file... OK
+L 11/07/2022 - 14:43:19: [AMXX] Failed to open dictionary file: cstrike/addons/amxmodx/data/lang/jb_blockct.txt
+L 11/07/2022 - 14:43:19: [gamecms_api.amxx] Connection to the GameCMS database is established
+L 11/07/2022 - 14:43:20: [gamecms_api.amxx] "55" services was 'Loaded' from database. Total on server: "55" services.
+L 11/07/2022 - 14:43:20: [pluginmenu.amxx] Can't add menu item "Plugin Cvars" from plugin "pluginmenu.amxx" to menu set because the Menus Front-End plugin itself is not loaded!
+L 11/07/2022 - 14:43:20: [pluginmenu.amxx] Can't add menu item "Plugin Commands" from plugin "pluginmenu.amxx" to menu set because the Menus Front-End plugin itself is not loaded!
+L 11/07/2022 - 15:44:21: [lite_mapchooser.amxx] Vote: Voting for the nextmap started
+L 11/07/2022 - 15:44:32: [lite_mapchooser.amxx] [End VoteMap] Voting for the nextmap finished. Map jail_buyukmekan_fix extended by 15 minutes
+L 11/07/2022 - 15:44:46: -------- Mapchange to jail_buyukinfaz --------
+L 11/07/2022 - 15:44:48: [gamecms_api.amxx] Reading GameCMS settings file... OK
+L 11/07/2022 - 15:44:48: [AMXX] Failed to open dictionary file: cstrike/addons/amxmodx/data/lang/jb_blockct.txt
+L 11/07/2022 - 15:44:48: [gamecms_api.amxx] Connection to the GameCMS database is established
+L 11/07/2022 - 15:44:48: [gamecms_api.amxx] "55" services was 'Loaded' from database. Total on server: "55" services.
+L 11/07/2022 - 15:44:49: [pluginmenu.amxx] Can't add menu item "Plugin Cvars" from plugin "pluginmenu.amxx" to menu set because the Menus Front-End plugin itself is not loaded!
+L 11/07/2022 - 15:44:49: [pluginmenu.amxx] Can't add menu item "Plugin Commands" from plugin "pluginmenu.amxx" to menu set because the Menus Front-End plugin itself is not loaded!
+L 11/07/2022 - 16:12:26: [lite_mapchooser.amxx] Vote: Voting for the nextmap started
+L 11/07/2022 - 16:12:36: [lite_mapchooser.amxx] [End VoteMap] Voting for the nextmap finished. The nextmap will be jail_czone
+L 11/07/2022 - 16:12:39: -------- Mapchange to jail_czone --------
+L 11/07/2022 - 16:12:41: [gamecms_api.amxx] Reading GameCMS settings file... OK
+L 11/07/2022 - 16:12:41: [AMXX] Failed to open dictionary file: cstrike/addons/amxmodx/data/lang/jb_blockct.txt
+L 11/07/2022 - 16:12:41: [gamecms_api.amxx] Connection to the GameCMS database is established
+L 11/07/2022 - 16:12:41: [gamecms_api.amxx] "55" services was 'Loaded' from database. Total on server: "55" services.
+L 11/07/2022 - 16:12:42: [pluginmenu.amxx] Can't add menu item "Plugin Cvars" from plugin "pluginmenu.amxx" to menu set because the Menus Front-End plugin itself is not loaded!
+L 11/07/2022 - 16:12:42: [pluginmenu.amxx] Can't add menu item "Plugin Commands" from plugin "pluginmenu.amxx" to menu set because the Menus Front-End plugin itself is not loaded!
+L 11/07/2022 - 16:33:59: [lite_mapchooser.amxx] Vote: Voting for the nextmap started
+L 11/07/2022 - 16:34:09: [lite_mapchooser.amxx] [End VoteMap] Nobody voted for the nextmap. Random map jail_buyukmekan_fix
+L 11/07/2022 - 16:34:12: -------- Mapchange to jail_buyukmekan_fix --------
+L 11/07/2022 - 16:34:14: [gamecms_api.amxx] Reading GameCMS settings file... OK
+L 11/07/2022 - 16:34:14: [AMXX] Failed to open dictionary file: cstrike/addons/amxmodx/data/lang/jb_blockct.txt
+L 11/07/2022 - 16:34:14: [gamecms_api.amxx] Connection to the GameCMS database is established
+L 11/07/2022 - 16:34:14: [gamecms_api.amxx] "55" services was 'Loaded' from database. Total on server: "55" services.
+L 11/07/2022 - 16:34:15: [pluginmenu.amxx] Can't add menu item "Plugin Cvars" from plugin "pluginmenu.amxx" to menu set because the Menus Front-End plugin itself is not loaded!
+L 11/07/2022 - 16:34:15: [pluginmenu.amxx] Can't add menu item "Plugin Commands" from plugin "pluginmenu.amxx" to menu set because the Menus Front-End plugin itself is not loaded!
+L 11/07/2022 - 17:26:32: [lite_mapchooser.amxx] Vote: Voting for the nextmap started
+L 11/07/2022 - 17:26:42: [lite_mapchooser.amxx] [End VoteMap] Voting for the nextmap finished. Map jail_buyukmekan_fix extended by 15 minutes
+L 11/07/2022 - 17:27:06: -------- Mapchange to jail_alayinaisyan_b5 --------
+L 11/07/2022 - 17:27:07: [gamecms_api.amxx] Reading GameCMS settings file... OK
+L 11/07/2022 - 17:27:07: [AMXX] Failed to open dictionary file: cstrike/addons/amxmodx/data/lang/jb_blockct.txt
+L 11/07/2022 - 17:27:07: [gamecms_api.amxx] Connection to the GameCMS database is established
+L 11/07/2022 - 17:27:07: [gamecms_api.amxx] "55" services was 'Loaded' from database. Total on server: "55" services.
+L 11/07/2022 - 17:27:08: [pluginmenu.amxx] Can't add menu item "Plugin Cvars" from plugin "pluginmenu.amxx" to menu set because the Menus Front-End plugin itself is not loaded!
+L 11/07/2022 - 17:27:08: [pluginmenu.amxx] Can't add menu item "Plugin Commands" from plugin "pluginmenu.amxx" to menu set because the Menus Front-End plugin itself is not loaded!
+L 11/07/2022 - 17:46:44: [gamecms_api.amxx] Authentication... "<HyPe><STEAM_1:0:312021417>" (Account name "STEAM_1:0:312021417" / Admin index "10") (Service flags "stmcphufeqojwdt") (Service name "Интеллектуал + Админ*")
+L 11/07/2022 - 17:46:46: [gamecms_api.amxx] Authentication... "<HyPe><STEAM_1:0:312021417>" (Account name "STEAM_1:0:312021417" / Admin index "10") (Service flags "stmcphufeqojwdt") (Service name "Интеллектуал + Админ*")
+L 11/07/2022 - 17:46:49: [gamecms_api.amxx] Authentication... "<HyPe><STEAM_1:0:312021417>" (Account name "STEAM_1:0:312021417" / Admin index "10") (Service flags "stmcphufeqojwdt") (Service name "Интеллектуал + Админ*")
+L 11/07/2022 - 17:52:17: [gamecms_api.amxx] Authentication... "<Sueta 142 rus><STEAM_1:1:904648311>" (Account name "Sueta 142 rus" / Admin index "7") (Service flags "tdsmcphufeqojwt") (Service name "Админ* + Интеллектуал")
+L 11/07/2022 - 17:52:26: [gamecms_api.amxx] Authentication... "<Sueta 142 rus><STEAM_1:1:904648311>" (Account name "Sueta 142 rus" / Admin index "7") (Service flags "tdsmcphufeqojwt") (Service name "Админ* + Интеллектуал")
+L 11/07/2022 - 18:08:38: [lite_mapchooser.amxx] Vote: Voting for the nextmap started
+L 11/07/2022 - 18:08:48: [lite_mapchooser.amxx] [End VoteMap] Voting for the nextmap finished. The nextmap will be jail_west_v2
+L 11/07/2022 - 18:08:52: -------- Mapchange to jail_west_v2 --------
+L 11/07/2022 - 18:08:53: [gamecms_api.amxx] Reading GameCMS settings file... OK
+L 11/07/2022 - 18:08:53: [AMXX] Failed to open dictionary file: cstrike/addons/amxmodx/data/lang/jb_blockct.txt
+L 11/07/2022 - 18:08:53: [gamecms_api.amxx] Connection to the GameCMS database is established
+L 11/07/2022 - 18:08:53: [gamecms_api.amxx] "55" services was 'Loaded' from database. Total on server: "55" services.
+L 11/07/2022 - 18:08:54: [pluginmenu.amxx] Can't add menu item "Plugin Cvars" from plugin "pluginmenu.amxx" to menu set because the Menus Front-End plugin itself is not loaded!
+L 11/07/2022 - 18:08:54: [pluginmenu.amxx] Can't add menu item "Plugin Commands" from plugin "pluginmenu.amxx" to menu set because the Menus Front-End plugin itself is not loaded!
+L 11/07/2022 - 18:08:54: [gamecms_api.amxx] Authentication... "<Sueta 142 rus><STEAM_1:1:904648311>" (Account name "Sueta 142 rus" / Admin index "7") (Service flags "tdsmcphufeqojwt") (Service name "Админ* + Интеллектуал")
+L 11/07/2022 - 18:09:00: [gamecms_api.amxx] Authentication... "<Sueta 142 rus><STEAM_1:1:904648311>" (Account name "Sueta 142 rus" / Admin index "7") (Service flags "tdsmcphufeqojwt") (Service name "Админ* + Интеллектуал")
+L 11/07/2022 - 18:37:24: [amx_gag.amxx] Gag: "Sueta 142 rus<STEAM_1:1:904648311>" has gagged "H E A D S H O T<STEAM_1:0:361849621>" for 1 minute. (say / say_team / voicecomm)
+L 11/07/2022 - 18:39:45: [plmenu.amxx] Kick: "Sueta 142 rus<522><STEAM_1:1:904648311><>" kick "H E A D S H O T<527><STEAM_1:0:361849621><>"
+L 11/07/2022 - 18:47:26: [gamecms_api.amxx] Authentication... "<HyPe><STEAM_1:0:312021417>" (Account name "STEAM_1:0:312021417" / Admin index "10") (Service flags "stmcphufeqojwdt") (Service name "Интеллектуал + Админ*")
+L 11/07/2022 - 18:47:27: [gamecms_api.amxx] Authentication... "<HyPe><STEAM_1:0:312021417>" (Account name "STEAM_1:0:312021417" / Admin index "10") (Service flags "stmcphufeqojwdt") (Service name "Интеллектуал + Админ*")
+L 11/07/2022 - 18:47:30: [gamecms_api.amxx] Authentication... "<HyPe><STEAM_1:0:312021417>" (Account name "STEAM_1:0:312021417" / Admin index "10") (Service flags "stmcphufeqojwdt") (Service name "Интеллектуал + Админ*")
+L 11/07/2022 - 19:09:15: [lite_mapchooser.amxx] Vote: Voting for the nextmap started
+L 11/07/2022 - 19:09:25: [lite_mapchooser.amxx] [End VoteMap] Voting for the nextmap finished. The nextmap will be jail_reset_v2
+L 11/07/2022 - 19:09:28: -------- Mapchange to jail_reset_v2 --------
+L 11/07/2022 - 19:09:29: [gamecms_api.amxx] Reading GameCMS settings file... OK
+L 11/07/2022 - 19:09:29: [AMXX] Failed to open dictionary file: cstrike/addons/amxmodx/data/lang/jb_blockct.txt
+L 11/07/2022 - 19:09:29: [gamecms_api.amxx] Connection to the GameCMS database is established
+L 11/07/2022 - 19:09:30: [gamecms_api.amxx] "55" services was 'Loaded' from database. Total on server: "55" services.
+L 11/07/2022 - 19:09:30: [pluginmenu.amxx] Can't add menu item "Plugin Cvars" from plugin "pluginmenu.amxx" to menu set because the Menus Front-End plugin itself is not loaded!
+L 11/07/2022 - 19:09:30: [pluginmenu.amxx] Can't add menu item "Plugin Commands" from plugin "pluginmenu.amxx" to menu set because the Menus Front-End plugin itself is not loaded!
+L 11/07/2022 - 19:09:30: [gamecms_api.amxx] Authentication... "<HyPe><STEAM_1:0:312021417>" (Account name "STEAM_1:0:312021417" / Admin index "10") (Service flags "stmcphufeqojwdt") (Service name "Интеллектуал + Админ*")
+L 11/07/2022 - 19:09:32: [gamecms_api.amxx] Authentication... "<HyPe><STEAM_1:0:312021417>" (Account name "STEAM_1:0:312021417" / Admin index "10") (Service flags "stmcphufeqojwdt") (Service name "Интеллектуал + Админ*")
+L 11/07/2022 - 19:09:34: [gamecms_api.amxx] Authentication... "<HyPe><STEAM_1:0:312021417>" (Account name "STEAM_1:0:312021417" / Admin index "10") (Service flags "stmcphufeqojwdt") (Service name "Интеллектуал + Админ*")
+L 11/07/2022 - 19:33:43: [lite_mapchooser.amxx] Vote: Voting for the nextmap started
+L 11/07/2022 - 19:33:53: [lite_mapchooser.amxx] [End VoteMap] Nobody voted for the nextmap. Random map jail_czone
+L 11/07/2022 - 19:33:56: -------- Mapchange to jail_czone --------
+L 11/07/2022 - 19:33:57: [gamecms_api.amxx] Reading GameCMS settings file... OK
+L 11/07/2022 - 19:33:57: [AMXX] Failed to open dictionary file: cstrike/addons/amxmodx/data/lang/jb_blockct.txt
+L 11/07/2022 - 19:33:58: [gamecms_api.amxx] Connection to the GameCMS database is established
+L 11/07/2022 - 19:33:58: [gamecms_api.amxx] "55" services was 'Loaded' from database. Total on server: "55" services.
+L 11/07/2022 - 19:33:58: [pluginmenu.amxx] Can't add menu item "Plugin Cvars" from plugin "pluginmenu.amxx" to menu set because the Menus Front-End plugin itself is not loaded!
+L 11/07/2022 - 19:33:58: [pluginmenu.amxx] Can't add menu item "Plugin Commands" from plugin "pluginmenu.amxx" to menu set because the Menus Front-End plugin itself is not loaded!
+L 11/07/2022 - 20:07:07: [lite_mapchooser.amxx] Vote: Voting for the nextmap started
+L 11/07/2022 - 20:07:17: [lite_mapchooser.amxx] [End VoteMap] Voting for the nextmap finished. The nextmap will be jaiI_xmf_v2
+L 11/07/2022 - 20:07:21: -------- Mapchange to jaiI_xmf_v2 --------
+L 11/07/2022 - 20:07:22: [gamecms_api.amxx] Reading GameCMS settings file... OK
+L 11/07/2022 - 20:07:22: [AMXX] Failed to open dictionary file: cstrike/addons/amxmodx/data/lang/jb_blockct.txt
+L 11/07/2022 - 20:07:22: [gamecms_api.amxx] Connection to the GameCMS database is established
+L 11/07/2022 - 20:07:23: [gamecms_api.amxx] "55" services was 'Loaded' from database. Total on server: "55" services.
+L 11/07/2022 - 20:07:23: [pluginmenu.amxx] Can't add menu item "Plugin Cvars" from plugin "pluginmenu.amxx" to menu set because the Menus Front-End plugin itself is not loaded!
+L 11/07/2022 - 20:07:23: [pluginmenu.amxx] Can't add menu item "Plugin Commands" from plugin "pluginmenu.amxx" to menu set because the Menus Front-End plugin itself is not loaded!
+L 11/07/2022 - 21:03:58: -------- Mapchange to jail_reset_v2 --------
+L 11/07/2022 - 21:04:00: [gamecms_api.amxx] Reading GameCMS settings file... OK
+L 11/07/2022 - 21:04:00: [AMXX] Failed to open dictionary file: cstrike/addons/amxmodx/data/lang/jb_blockct.txt
+L 11/07/2022 - 21:04:00: [gamecms_api.amxx] Connection to the GameCMS database is established
+L 11/07/2022 - 21:04:00: [gamecms_api.amxx] "55" services was 'Loaded' from database. Total on server: "55" services.
+L 11/07/2022 - 21:04:00: [pluginmenu.amxx] Can't add menu item "Plugin Cvars" from plugin "pluginmenu.amxx" to menu set because the Menus Front-End plugin itself is not loaded!
+L 11/07/2022 - 21:04:00: [pluginmenu.amxx] Can't add menu item "Plugin Commands" from plugin "pluginmenu.amxx" to menu set because the Menus Front-End plugin itself is not loaded!
+L 11/07/2022 - 21:25:35: [lite_mapchooser.amxx] Vote: Voting for the nextmap started
+L 11/07/2022 - 21:25:45: [lite_mapchooser.amxx] [End VoteMap] Nobody voted for the nextmap. Random map jail_sebastian
+L 11/07/2022 - 21:25:48: -------- Mapchange to jail_sebastian --------
+L 11/07/2022 - 21:25:50: [gamecms_api.amxx] Reading GameCMS settings file... OK
+L 11/07/2022 - 21:25:50: [AMXX] Failed to open dictionary file: cstrike/addons/amxmodx/data/lang/jb_blockct.txt
+L 11/07/2022 - 21:25:50: [gamecms_api.amxx] Connection to the GameCMS database is established
+L 11/07/2022 - 21:25:50: [gamecms_api.amxx] "55" services was 'Loaded' from database. Total on server: "55" services.
+L 11/07/2022 - 21:25:51: [pluginmenu.amxx] Can't add menu item "Plugin Cvars" from plugin "pluginmenu.amxx" to menu set because the Menus Front-End plugin itself is not loaded!
+L 11/07/2022 - 21:25:51: [pluginmenu.amxx] Can't add menu item "Plugin Commands" from plugin "pluginmenu.amxx" to menu set because the Menus Front-End plugin itself is not loaded!
+L 11/07/2022 - 22:43:42: -------- Mapchange to jail_west_v2 --------
+L 11/07/2022 - 22:43:43: [gamecms_api.amxx] Reading GameCMS settings file... OK
+L 11/07/2022 - 22:43:43: [AMXX] Failed to open dictionary file: cstrike/addons/amxmodx/data/lang/jb_blockct.txt
+L 11/07/2022 - 22:43:43: [gamecms_api.amxx] Connection to the GameCMS database is established
+L 11/07/2022 - 22:43:43: [gamecms_api.amxx] "55" services was 'Loaded' from database. Total on server: "55" services.
+L 11/07/2022 - 22:43:44: [pluginmenu.amxx] Can't add menu item "Plugin Cvars" from plugin "pluginmenu.amxx" to menu set because the Menus Front-End plugin itself is not loaded!
+L 11/07/2022 - 22:43:44: [pluginmenu.amxx] Can't add menu item "Plugin Commands" from plugin "pluginmenu.amxx" to menu set because the Menus Front-End plugin itself is not loaded!

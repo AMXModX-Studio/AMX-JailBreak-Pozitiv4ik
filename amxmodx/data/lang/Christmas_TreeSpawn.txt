@@ -1,0 +1,21 @@
+[ru]
+TR_TITLE = \yНастройка ёлок^nКол-во: \y%i\w.^n^n
+TR_ADD = \r1. \wДобавить^n
+TR_DELETE = \r2. \wУдалить^n^n
+TR_SAVE = \r4. \yСохранить^n
+TR_DELETE_ALL = \r5. \yУдалить все^n^n
+TR_EXIT = ^n\r 0. \wВыход
+
+TR_ALL_SAVED = Все ёлки (%i) сохранены в файл:'%s'
+TR_ALL_REMOVED = Все ёлки удалены!
+
+[en]
+TR_TITLE = \yTrees Settings^nCount: \y%i\w.^n^n
+TR_ADD = \r1. \wAdd tree^n
+TR_DELETE = \r2. \wRemove^n^n
+TR_SAVE = \r4. \ySave current trees^n
+TR_DELETE_ALL = \r5. \yErase all trees^n^n
+TR_EXIT = ^n\r0. \wExit
+
+TR_ALL_SAVED = All trees (%i) will be saved to :'%s'
+TR_ALL_REMOVED = All trees will be removed from map!

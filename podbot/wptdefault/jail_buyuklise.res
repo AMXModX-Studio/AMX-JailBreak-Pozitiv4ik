@@ -1,0 +1,10 @@
+cstrike.wad
+halflife.wad
+gfx/env/backalleyup.tga
+gfx/env/backalleydn.tga
+gfx/env/backalleylf.tga
+gfx/env/backalleyrt.tga
+gfx/env/backalleyft.tga
+gfx/env/backalleybk.tga
+sound/skrillex_new.wav
+sprites/laserbeam.spr

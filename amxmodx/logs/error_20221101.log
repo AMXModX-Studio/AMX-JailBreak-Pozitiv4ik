@@ -1,0 +1,1838 @@
+L 11/01/2022 - 16:31:39: Start of error session.
+L 11/01/2022 - 16:31:39: Info (map "jaiI_xmf_v2") (file "addons/amxmodx/logs/error_20221101.log")
+L 11/01/2022 - 16:31:39: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 16:31:39: [AMXX] Run time error 5: memory access 
+L 11/01/2022 - 16:31:39: [AMXX]    [0] jbe_core.sma::SQL_Handler (line 2335)
+L 11/01/2022 - 17:23:38: Start of error session.
+L 11/01/2022 - 17:23:38: Info (map "jail_buyukmekan_fix") (file "addons/amxmodx/logs/error_20221101.log")
+L 11/01/2022 - 17:23:38: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 17:23:38: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 17:23:38: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 17:23:38: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 17:23:38: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 17:23:38: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 17:23:38: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 17:23:38: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 17:23:38: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 17:23:38: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 17:23:38: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 17:23:38: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 17:23:38: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 17:23:38: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 17:23:38: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 17:23:38: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 17:23:38: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 17:23:38: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 17:23:38: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 17:23:38: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 17:23:38: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 17:23:38: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 17:23:38: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 17:23:38: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 17:23:38: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 17:23:38: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 17:23:38: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 17:23:38: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 17:23:38: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 17:23:38: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 17:23:38: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 17:23:38: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 17:23:38: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 17:23:38: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 17:23:38: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 17:23:38: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 17:23:39: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 17:23:39: [AMXX] Run time error 5: memory access 
+L 11/01/2022 - 17:23:39: [AMXX]    [0] jbe_core.sma::SQL_Handler (line 2335)
+L 11/01/2022 - 18:00:10: [MySQL] No result set in this query!
+L 11/01/2022 - 18:00:10: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:00:10: [AMXX] Run time error 10: native error (native "SQL_ReadResult")
+L 11/01/2022 - 18:00:10: [AMXX]    [0] jbe_core.sma::SQL_Handler (line 2416)
+L 11/01/2022 - 18:23:57: Start of error session.
+L 11/01/2022 - 18:23:57: Info (map "jail_west_v2") (file "addons/amxmodx/logs/error_20221101.log")
+L 11/01/2022 - 18:23:57: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:23:57: [AMXX] Run time error 5: memory access 
+L 11/01/2022 - 18:23:57: [AMXX]    [0] jbe_core.sma::SQL_Handler (line 2335)
+L 11/01/2022 - 18:32:50: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:32:50: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:32:50: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 18:32:50: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:32:50: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:32:50: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 18:32:50: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:32:50: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:32:50: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 18:32:50: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:32:50: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:32:50: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 18:32:50: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:32:50: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:32:50: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 18:32:50: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:32:50: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:32:50: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 18:32:50: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:32:50: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:32:50: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 18:32:50: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:32:50: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:32:50: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 18:32:50: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:32:50: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:32:50: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 18:32:50: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:32:50: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:32:50: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 18:32:50: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:32:50: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:32:50: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 18:32:50: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:32:50: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:32:50: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 18:32:50: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:32:50: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:32:50: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 18:32:50: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:32:50: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:32:50: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 18:32:50: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:32:50: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:32:50: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 18:32:50: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:32:50: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:32:50: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 18:32:50: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:32:50: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:32:50: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 18:32:50: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:32:50: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:32:50: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 18:32:50: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:32:50: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:32:50: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 18:32:50: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:32:50: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:32:50: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 18:32:50: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:32:50: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:32:50: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 18:32:50: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:32:50: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:32:50: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 18:32:50: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:32:50: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:32:50: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 18:32:50: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:32:50: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:32:50: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 18:32:50: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:32:50: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:32:50: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 18:32:50: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:32:50: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:32:50: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 18:32:50: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:32:50: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:32:50: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 18:32:50: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:32:50: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:32:50: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 18:32:50: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:32:50: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:32:50: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 18:32:50: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:32:50: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:32:50: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 18:32:50: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:32:50: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:32:50: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 18:32:50: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:32:50: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:32:50: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 18:32:50: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:32:50: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:32:50: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 18:32:50: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:32:50: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:32:50: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 18:32:50: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:32:50: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:32:50: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 18:32:50: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:32:50: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:32:50: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 18:32:50: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:32:50: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:32:50: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 18:32:50: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:32:50: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:32:50: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 18:32:50: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:32:50: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:32:50: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 18:32:50: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:32:50: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:32:50: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 18:32:50: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:32:50: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:32:50: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 18:32:50: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:32:50: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:32:50: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 18:32:50: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:32:50: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:32:50: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 18:32:50: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:32:50: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:32:50: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 18:32:50: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:32:50: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:32:50: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 18:32:50: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:32:50: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:32:50: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 18:32:50: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:32:50: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:32:50: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 18:32:50: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:32:50: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:32:50: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 18:32:50: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:32:50: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:32:50: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 18:33:22: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:33:22: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:33:22: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 18:33:22: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:33:22: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:33:22: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 18:33:22: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:33:22: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:33:22: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 18:33:22: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:33:22: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:33:22: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 18:33:22: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:33:22: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:33:22: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 18:33:22: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:33:22: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:33:22: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 18:33:22: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:33:22: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:33:22: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 18:33:22: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:33:22: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:33:22: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 18:33:22: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:33:22: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:33:22: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 18:33:22: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:33:22: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:33:22: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 18:33:22: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:33:22: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:33:22: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 18:33:22: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:33:22: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:33:22: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 18:33:22: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:33:22: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:33:22: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 18:33:22: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:33:22: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:33:22: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 18:33:22: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:33:22: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:33:22: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 18:33:22: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:33:22: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:33:22: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 18:33:22: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:33:22: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:33:22: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 18:33:22: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:33:22: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:33:22: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 18:33:22: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:33:22: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:33:22: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 18:33:22: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:33:22: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:33:22: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 18:33:22: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:33:22: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:33:22: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 18:33:22: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:33:22: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:33:22: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 18:33:22: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:33:22: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:33:22: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 18:33:22: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:33:22: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:33:22: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 18:33:22: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:33:22: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:33:22: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 18:33:22: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:33:22: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:33:22: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 18:33:22: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:33:22: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:33:22: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 18:33:22: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:33:22: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:33:22: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 18:33:22: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:33:22: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:33:22: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 18:33:22: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:33:22: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:33:22: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 18:33:22: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:33:22: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:33:22: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 18:33:22: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:33:22: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:33:22: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 18:33:22: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:33:22: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:33:22: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 18:33:22: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:33:22: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:33:22: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 18:33:22: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:33:22: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:33:22: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 18:33:22: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:33:22: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:33:22: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 18:33:22: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:33:22: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:33:22: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 18:33:22: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:33:22: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:33:22: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 18:33:22: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:33:22: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:33:22: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 18:33:22: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:33:22: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:33:22: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 18:33:22: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:33:22: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:33:22: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 18:33:22: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:33:22: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:33:22: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 18:33:22: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:33:22: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:33:22: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 18:33:22: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:33:22: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:33:22: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 18:33:22: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:33:22: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:33:22: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 18:33:22: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:33:22: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:33:22: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 18:33:22: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:33:22: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:33:22: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 18:33:22: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:33:22: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:33:22: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 18:33:22: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:33:22: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:33:22: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 18:33:22: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:33:22: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:33:22: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 18:33:22: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:33:22: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:33:22: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 18:33:22: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:33:22: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:33:22: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 18:33:22: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:33:22: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:33:22: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 18:33:22: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:33:22: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:33:22: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 18:33:22: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:33:22: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:33:22: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 18:33:22: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:33:22: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:33:22: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 18:33:22: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:33:22: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:33:22: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 18:33:22: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:33:22: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:33:22: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 18:33:22: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:33:22: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:33:22: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 18:33:22: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:33:22: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:33:22: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 18:33:22: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:33:22: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:33:22: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 18:33:22: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:33:22: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:33:22: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 18:33:22: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:33:22: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:33:22: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 18:33:22: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:33:22: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:33:22: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 18:33:22: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:33:22: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:33:22: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 18:33:22: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:33:22: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:33:22: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 18:33:22: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:33:22: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:33:22: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 18:33:22: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:33:22: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:33:22: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 18:33:22: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:33:22: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:33:22: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 18:33:22: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:33:22: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:33:22: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 18:33:22: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:33:22: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:33:22: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 18:33:22: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:33:22: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:33:22: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 18:33:22: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:33:22: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:33:22: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 18:33:22: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:33:22: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:33:22: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 18:33:22: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:33:22: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:33:22: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 18:33:22: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:33:22: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:33:22: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 18:33:22: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:33:22: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:33:22: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 18:33:22: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:33:22: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:33:22: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 18:33:22: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:33:22: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:33:22: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 18:33:22: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:33:22: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:33:22: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 18:33:22: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:33:22: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:33:22: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 18:33:22: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:33:22: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:33:22: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 18:33:25: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:33:25: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:33:25: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 18:33:25: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:33:25: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:33:25: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 18:33:25: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:33:25: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:33:25: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 18:33:25: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:33:25: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:33:25: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 18:33:25: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:33:25: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:33:25: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 18:33:25: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:33:25: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:33:25: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 18:33:25: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:33:25: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:33:25: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 18:33:25: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:33:25: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:33:25: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 18:33:25: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:33:25: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:33:25: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 18:33:25: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:33:25: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:33:25: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 18:33:25: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:33:25: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:33:25: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 18:33:25: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:33:25: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:33:25: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 18:33:25: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:33:25: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:33:25: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 18:33:25: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:33:25: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:33:25: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 18:33:25: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:33:25: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:33:25: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 18:33:25: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:33:25: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:33:25: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 18:33:25: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:33:25: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:33:25: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 18:33:25: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:33:25: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:33:25: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 18:33:25: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:33:25: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:33:25: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 18:33:25: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:33:25: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:33:25: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 18:33:25: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:33:25: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:33:25: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 18:33:25: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:33:25: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:33:25: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 18:33:25: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:33:25: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:33:25: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 18:33:25: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:33:25: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:33:25: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 18:33:25: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:33:25: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:33:25: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 18:33:25: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:33:25: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:33:25: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 18:33:25: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:33:25: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:33:25: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 18:33:25: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:33:25: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:33:25: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 18:33:25: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:33:25: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:33:25: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 18:33:25: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:33:25: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:33:25: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 18:33:25: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:33:25: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:33:25: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 18:33:25: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:33:25: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:33:25: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 18:33:25: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:33:25: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:33:25: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 18:33:25: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:33:25: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:33:25: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 18:33:25: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:33:25: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:33:25: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 18:33:25: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:33:25: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:33:25: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 18:33:25: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:33:25: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:33:25: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 18:33:25: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:33:25: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:33:25: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 18:33:25: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:33:25: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:33:25: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 18:33:25: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:33:25: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:33:25: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 18:33:25: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:33:25: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:33:25: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 18:33:25: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:33:25: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:33:25: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 18:33:25: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:33:25: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:33:25: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 18:33:25: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:33:25: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:33:25: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 18:33:25: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:33:25: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:33:25: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 18:33:25: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:33:25: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:33:25: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 18:33:25: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:33:25: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:33:25: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 18:33:25: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:33:25: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:33:25: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 18:33:25: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:33:25: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:33:25: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 18:33:25: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:33:25: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:33:25: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 18:33:25: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:33:25: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:33:25: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 18:33:25: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:33:25: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:33:25: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 18:33:25: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:33:25: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:33:25: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 18:33:25: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:33:25: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:33:25: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 18:33:25: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:33:25: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:33:25: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 18:33:25: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:33:25: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:33:25: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 18:33:25: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:33:25: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:33:25: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 18:33:25: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:33:25: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:33:25: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 18:33:25: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:33:25: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:33:25: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 18:33:25: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:33:25: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:33:25: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 18:33:25: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:33:25: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:33:25: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 18:33:25: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:33:25: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:33:25: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 18:33:25: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:33:25: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:33:25: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 18:33:25: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:33:25: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:33:25: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 18:33:25: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:33:25: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:33:25: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 18:33:25: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:33:25: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:33:25: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 18:33:25: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:33:25: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:33:25: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 18:33:25: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:33:25: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:33:25: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 18:33:25: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:33:25: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:33:25: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 18:33:25: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:33:25: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:33:25: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 18:33:25: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:33:25: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:33:25: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 18:33:25: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:33:25: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:33:25: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 18:33:25: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:33:25: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:33:25: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 18:33:25: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:33:25: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:33:25: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 18:33:25: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:33:25: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:33:25: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 18:33:25: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:33:25: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:33:25: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 18:33:25: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:33:25: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:33:25: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 18:33:25: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:33:25: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:33:25: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 18:33:25: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:33:25: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:33:25: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 18:33:25: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:33:25: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:33:25: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 18:33:25: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:33:25: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:33:25: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 18:33:25: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:33:25: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:33:25: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 18:33:25: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:33:25: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:33:25: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 18:33:25: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:33:25: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:33:25: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 18:33:25: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:33:25: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:33:25: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 18:33:25: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:33:25: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:33:25: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 18:33:25: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:33:25: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:33:25: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 18:33:25: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:33:25: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:33:25: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 18:33:25: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:33:25: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:33:25: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 18:33:25: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:33:25: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:33:25: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 18:33:25: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:33:25: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:33:25: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 18:33:25: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:33:25: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:33:25: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 18:33:25: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:33:25: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:33:25: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 18:33:25: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:33:25: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:33:25: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 18:33:25: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:33:25: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:33:25: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 18:33:25: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:33:25: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:33:25: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 18:33:25: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:33:25: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:33:25: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 18:33:25: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:33:25: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:33:25: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 18:33:25: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:33:25: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:33:25: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 18:33:25: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:33:25: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:33:25: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 18:33:25: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:33:25: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:33:25: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 18:33:25: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:33:25: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:33:25: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 18:33:25: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:33:25: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:33:25: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 18:33:25: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:33:25: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:33:25: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 18:33:25: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:33:25: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:33:25: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 18:33:25: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:33:25: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:33:25: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 18:33:25: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:33:25: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:33:25: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 18:33:25: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:33:25: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:33:25: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 18:33:25: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:33:25: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:33:25: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 18:33:25: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:33:25: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:33:25: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 18:33:25: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:33:25: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:33:25: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 18:33:25: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:33:25: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:33:25: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 18:33:25: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:33:25: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:33:25: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 18:33:25: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:33:25: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:33:25: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 18:33:25: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:33:25: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:33:25: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 18:33:25: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:33:25: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:33:25: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 18:33:25: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:33:25: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:33:25: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 18:33:25: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:33:25: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:33:25: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 18:33:25: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:33:25: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:33:25: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 18:33:25: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:33:25: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:33:25: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 18:33:25: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:33:25: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:33:25: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 18:33:25: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:33:25: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:33:25: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 18:33:25: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:33:25: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:33:25: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 18:33:25: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:33:25: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:33:25: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 18:33:25: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:33:25: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:33:25: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 18:33:25: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:33:25: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:33:25: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 18:33:25: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:33:25: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:33:25: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 18:33:25: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:33:25: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:33:25: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 18:33:25: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:33:25: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:33:25: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 18:33:25: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:33:25: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:33:25: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 18:33:25: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:33:25: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:33:25: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 18:33:25: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:33:25: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:33:25: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 18:33:25: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:33:25: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:33:25: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 18:33:25: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:33:25: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:33:25: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 18:33:25: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:33:25: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:33:25: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 18:33:25: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:33:25: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:33:25: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 18:33:25: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:33:25: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:33:25: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 18:33:25: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:33:25: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:33:25: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 18:33:25: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:33:25: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:33:25: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 18:33:25: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:33:25: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:33:25: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 18:33:25: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:33:25: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:33:25: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 18:33:25: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:33:25: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:33:25: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 18:33:25: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:33:25: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:33:25: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 18:33:25: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:33:25: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:33:25: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 18:33:25: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:33:25: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:33:25: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 18:33:25: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:33:25: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:33:25: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 18:33:25: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:33:25: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:33:25: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 18:33:25: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:33:25: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:33:25: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 18:33:25: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:33:25: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:33:25: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 18:33:25: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:33:25: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:33:25: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 18:33:25: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:33:25: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:33:25: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 18:33:25: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:33:25: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:33:25: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 18:33:25: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:33:25: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:33:25: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 18:33:25: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:33:25: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:33:25: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 18:33:25: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:33:25: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:33:25: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 18:33:25: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:33:25: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:33:25: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 18:33:25: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:33:25: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:33:25: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 18:33:25: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:33:25: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:33:25: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 18:33:25: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:33:25: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:33:25: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 18:33:25: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:33:25: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:33:25: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 18:33:25: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:33:25: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:33:25: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 18:33:25: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:33:25: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:33:25: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 18:33:25: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:33:25: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:33:25: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 18:33:25: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:33:25: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:33:25: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 18:33:25: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:33:25: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:33:25: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 18:33:25: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:33:25: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:33:25: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 18:33:25: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:33:25: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:33:25: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 18:33:25: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:33:25: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:33:25: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 18:33:25: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:33:25: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:33:25: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 18:33:25: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:33:25: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:33:25: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 18:33:25: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:33:25: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:33:25: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 18:33:25: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:33:25: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:33:25: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 18:33:25: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:33:25: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:33:25: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 18:33:25: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:33:25: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:33:25: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 18:33:25: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:33:25: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:33:25: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 18:33:25: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:33:25: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:33:25: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 18:33:25: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:33:25: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:33:25: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 18:33:25: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:33:25: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:33:25: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 18:33:25: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:33:25: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:33:25: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 18:33:25: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:33:25: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:33:25: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 18:33:25: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:33:25: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:33:25: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 18:33:25: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:33:25: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:33:25: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 18:33:25: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:33:25: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:33:25: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 18:33:25: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:33:25: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:33:25: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 18:33:25: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:33:25: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:33:25: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 18:33:25: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:33:25: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:33:25: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 18:33:25: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:33:25: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:33:25: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 18:33:25: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:33:25: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:33:25: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 18:33:25: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:33:25: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:33:25: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 18:33:25: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:33:25: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:33:25: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 18:33:25: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:33:25: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:33:25: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 18:33:25: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:33:25: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:33:25: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 18:33:25: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:33:25: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:33:25: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 18:33:25: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:33:25: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:33:25: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 18:33:25: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:33:25: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:33:25: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 18:33:25: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:33:25: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:33:25: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 18:33:25: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:33:25: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:33:25: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 18:33:25: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:33:25: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:33:25: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 18:33:25: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:33:25: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:33:25: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 18:33:25: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:33:25: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:33:25: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 18:33:25: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:33:25: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:33:25: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 18:33:25: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:33:25: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:33:25: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 18:33:25: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:33:25: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:33:25: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 18:33:25: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:33:25: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:33:25: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 18:33:25: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:33:25: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:33:25: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 18:33:25: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:33:25: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:33:25: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 18:33:25: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:33:25: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:33:25: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 18:33:25: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:33:25: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:33:25: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 18:33:25: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:33:25: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:33:25: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 18:33:25: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:33:25: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:33:25: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 18:33:25: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:33:25: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:33:25: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 18:33:25: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:33:25: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:33:25: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 18:33:25: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:33:25: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:33:25: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 18:33:25: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:33:25: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:33:25: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 18:33:25: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:33:25: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:33:25: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 18:33:25: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:33:25: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:33:25: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 18:33:25: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:33:25: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:33:25: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 18:33:25: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:33:25: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:33:25: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 18:33:25: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:33:25: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:33:25: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 18:33:25: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:33:25: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:33:25: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 18:33:25: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:33:25: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:33:25: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 18:33:25: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:33:25: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:33:25: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 18:33:25: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:33:25: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:33:25: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 18:33:25: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:33:25: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:33:25: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 18:33:25: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:33:25: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:33:25: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 18:33:25: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:33:25: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:33:25: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 18:33:25: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:33:25: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:33:25: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 18:33:25: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:33:25: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:33:25: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 18:33:25: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:33:25: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:33:25: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 18:33:25: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:33:25: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:33:25: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 18:33:25: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:33:25: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:33:25: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 18:33:25: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:33:25: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:33:25: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 18:33:25: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:33:25: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:33:25: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 18:33:25: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:33:25: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:33:25: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 18:33:25: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:33:25: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:33:25: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 18:33:25: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:33:25: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:33:25: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 18:33:25: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:33:25: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:33:25: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 18:33:25: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:33:25: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:33:25: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 18:33:25: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:33:25: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:33:25: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 18:33:25: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:33:25: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:33:25: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 18:33:25: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:33:25: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:33:25: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 18:33:25: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:33:25: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:33:25: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 18:33:25: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:33:25: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:33:25: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 18:33:25: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:33:25: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:33:25: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 18:33:25: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:33:25: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:33:25: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 18:33:25: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:33:25: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:33:25: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 18:33:25: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:33:25: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:33:25: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 18:33:25: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:33:25: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:33:25: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 18:33:25: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:33:25: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:33:25: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 18:33:25: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:33:25: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:33:25: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 18:33:25: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:33:25: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:33:25: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 18:33:25: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:33:25: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:33:25: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 18:33:25: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:33:25: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:33:25: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 18:33:25: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:33:25: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:33:25: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 18:33:25: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:33:25: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:33:25: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 18:33:25: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:33:25: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:33:25: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 18:33:25: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:33:25: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:33:25: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 18:33:25: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:33:25: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:33:25: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 18:33:25: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:33:25: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:33:25: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 18:33:25: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:33:25: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:33:25: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 18:33:25: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:33:25: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:33:25: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 18:33:25: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:33:25: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:33:25: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 18:33:25: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:33:25: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:33:25: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 18:33:25: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:33:25: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:33:25: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 18:33:25: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:33:25: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:33:25: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 18:33:25: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:33:25: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:33:25: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 18:33:25: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:33:25: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:33:25: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 18:33:25: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:33:25: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:33:25: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 18:33:25: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:33:25: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:33:25: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 18:33:25: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:33:25: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:33:25: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 18:33:25: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:33:25: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:33:25: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 18:33:25: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:33:25: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:33:25: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 18:33:25: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:33:25: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:33:25: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 18:33:25: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:33:25: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:33:25: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 18:33:25: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:33:25: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:33:25: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 18:33:25: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:33:25: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:33:25: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 18:33:25: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:33:25: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:33:25: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 18:33:25: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:33:25: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:33:25: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 18:33:25: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:33:25: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:33:25: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 18:33:25: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:33:25: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:33:25: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 18:33:25: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:33:25: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:33:25: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 18:33:25: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:33:25: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:33:25: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 18:33:25: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:33:25: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:33:25: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 18:33:25: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:33:25: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:33:25: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 18:33:25: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:33:25: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:33:25: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 18:33:25: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:33:25: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:33:25: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 18:33:25: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:33:25: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:33:25: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 18:33:25: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:33:25: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:33:25: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 18:33:25: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:33:25: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:33:25: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 18:33:25: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:33:25: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:33:25: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 18:33:25: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:33:25: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:33:25: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 18:33:25: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:33:25: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:33:25: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 18:33:25: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:33:25: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:33:25: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 18:33:25: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:33:25: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:33:25: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 18:33:25: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:33:25: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:33:25: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 18:33:25: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:33:25: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:33:25: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 18:33:25: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:33:25: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:33:25: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 18:33:25: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:33:25: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:33:25: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 18:33:25: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:33:25: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:33:25: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 18:33:25: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:33:25: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:33:25: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 18:33:25: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:33:25: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:33:25: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 18:33:25: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:33:25: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:33:25: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 18:33:25: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:33:25: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:33:25: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 18:33:25: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:33:25: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:33:25: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 18:33:25: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:33:25: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:33:25: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 18:33:25: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:33:25: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:33:25: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 18:33:25: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:33:25: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:33:25: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 18:33:25: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:33:25: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:33:25: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 18:33:25: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:33:25: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:33:25: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 18:33:25: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:33:25: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:33:25: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 18:33:25: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:33:25: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:33:25: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 18:33:25: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:33:25: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:33:25: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 18:33:25: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:33:25: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:33:25: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 18:33:25: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:33:25: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:33:25: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 18:33:25: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:33:25: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:33:25: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 18:33:25: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:33:25: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:33:25: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 18:33:25: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:33:25: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:33:25: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 18:33:25: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:33:25: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:33:25: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 18:33:25: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:33:25: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:33:25: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 18:33:25: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:33:25: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:33:25: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 18:33:25: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:33:25: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:33:25: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 18:33:25: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:33:25: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:33:25: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 18:33:25: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:33:25: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:33:25: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 18:33:25: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:33:25: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:33:25: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 18:33:25: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:33:25: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:33:25: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 18:33:25: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:33:25: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:33:25: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 18:33:25: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:33:25: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:33:25: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 18:33:25: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:33:25: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:33:25: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 18:33:25: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:33:25: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:33:25: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 18:33:25: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:33:25: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:33:25: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 18:33:25: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:33:25: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:33:25: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 18:33:25: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:33:25: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:33:25: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 18:33:25: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:33:25: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:33:25: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 18:33:25: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:33:25: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:33:25: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 18:33:25: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:33:25: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:33:25: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 18:33:25: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:33:25: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:33:25: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 18:33:25: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:33:25: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:33:25: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 18:33:25: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:33:25: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:33:25: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 18:33:25: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:33:25: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:33:25: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 18:33:25: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:33:25: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:33:25: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 18:33:25: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:33:25: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:33:25: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 18:33:25: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:33:25: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:33:25: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 18:33:25: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:33:25: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:33:25: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 18:33:25: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:33:25: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:33:25: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 18:33:25: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:33:25: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:33:25: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 18:33:25: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:33:25: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:33:25: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 18:33:25: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:33:25: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:33:25: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 18:33:25: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:33:25: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:33:25: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 18:33:25: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:33:25: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:33:25: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 18:33:25: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:33:25: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:33:25: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 18:33:25: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:33:25: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:33:25: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 18:33:25: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:33:25: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:33:25: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 18:33:25: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:33:25: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:33:25: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 18:33:25: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:33:25: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:33:25: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 18:33:25: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:33:25: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:33:25: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 18:33:25: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:33:25: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:33:25: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 18:33:25: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:33:25: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:33:25: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 18:33:25: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:33:25: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:33:25: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 18:33:25: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:33:25: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:33:25: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 18:33:25: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:33:25: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:33:25: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 18:33:25: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:33:25: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:33:25: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 18:33:25: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:33:25: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:33:25: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 18:33:25: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:33:25: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:33:25: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 18:33:25: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:33:25: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:33:25: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 18:33:25: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:33:25: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:33:25: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 18:33:25: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:33:25: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:33:25: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 18:33:25: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:33:25: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:33:25: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 18:33:25: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:33:25: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:33:25: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 18:33:25: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:33:25: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:33:25: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 18:33:25: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:33:25: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:33:25: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 18:33:25: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:33:25: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:33:25: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 18:33:25: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:33:25: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:33:25: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 18:33:25: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:33:25: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:33:25: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 18:33:25: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:33:25: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:33:25: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 18:33:25: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:33:25: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:33:25: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 18:33:25: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:33:25: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:33:25: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 18:33:25: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:33:25: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:33:25: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 18:33:25: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:33:25: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:33:25: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 18:33:25: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:33:25: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:33:25: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 18:33:25: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:33:25: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:33:25: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 18:33:25: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:33:25: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:33:25: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 18:33:25: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:33:25: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:33:25: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 18:33:25: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:33:25: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:33:25: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 18:33:25: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:33:25: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:33:25: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 18:33:25: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:33:25: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:33:25: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 18:33:25: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:33:25: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:33:25: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 18:33:25: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:33:25: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:33:25: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 18:33:25: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:33:25: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:33:25: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 18:33:25: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:33:25: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:33:25: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 18:33:25: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:33:25: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:33:25: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 18:33:25: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:33:25: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:33:25: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 18:33:25: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:33:25: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:33:25: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 18:33:25: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:33:25: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:33:25: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 18:33:25: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:33:25: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:33:25: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 18:33:25: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:33:25: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:33:25: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 18:33:25: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:33:25: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:33:25: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 18:33:25: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:33:25: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:33:25: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 18:33:25: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:33:25: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:33:25: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 18:33:25: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:33:25: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:33:25: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 18:33:25: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:33:25: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:33:25: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 18:33:25: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:33:25: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:33:25: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 18:33:25: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:33:25: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:33:25: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 18:33:25: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:33:25: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:33:25: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 18:33:25: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:33:25: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:33:25: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 18:33:25: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:33:25: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:33:25: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 18:33:25: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:33:25: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:33:25: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 18:33:25: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:33:25: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:33:25: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 18:33:25: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:33:25: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:33:25: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 18:33:25: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:33:25: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:33:25: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 18:33:25: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:33:25: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:33:25: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 18:33:25: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:33:25: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:33:25: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 18:33:25: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:33:25: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:33:25: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 18:33:25: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:33:25: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:33:25: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 18:33:25: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:33:25: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:33:25: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 18:33:25: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:33:25: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:33:25: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 18:33:25: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:33:25: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:33:25: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 18:33:25: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:33:25: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:33:25: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 18:33:25: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:33:25: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:33:25: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 18:34:44: [AMXX] Run time error 4 (plugin "skill_updater.amxx") - debug not enabled!
+L 11/01/2022 - 18:34:44: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 11/01/2022 - 18:34:44: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:34:44: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:34:44: [AMXX]    [0] jbe_core.sma::Ham_TakeDamage_Player (line 15416)
+L 11/01/2022 - 18:34:44: [AMXX] Displaying debug trace (plugin "jbe_legend.amxx", version "1.0")
+L 11/01/2022 - 18:34:44: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:34:44: [AMXX]    [0] jbe_legend.sma::func_TakeDamage (line 697)
+L 11/01/2022 - 18:34:44: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:34:44: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:34:44: [AMXX]    [0] jbe_core.sma::ReasonKill (line 9878)
+L 11/01/2022 - 18:34:44: [AMXX]    [1] jbe_core.sma::Ham_PlayerKilled_Post (line 15130)
+L 11/01/2022 - 18:35:04: [AMXX] Run time error 4 (plugin "skill_updater.amxx") - debug not enabled!
+L 11/01/2022 - 18:35:04: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 11/01/2022 - 18:35:04: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 18:35:04: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:35:04: [AMXX]    [0] jbe_core.sma::Ham_TakeDamage_Player (line 15416)
+L 11/01/2022 - 18:35:04: [AMXX] Displaying debug trace (plugin "jbe_legend.amxx", version "1.0")
+L 11/01/2022 - 18:35:04: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 18:35:04: [AMXX]    [0] jbe_legend.sma::func_TakeDamage (line 697)
+L 11/01/2022 - 19:32:29: Start of error session.
+L 11/01/2022 - 19:32:29: Info (map "jail_alayinaisyan_b5") (file "addons/amxmodx/logs/error_20221101.log")
+L 11/01/2022 - 19:32:29: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 19:32:29: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 19:32:29: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 19:32:29: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 19:32:29: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 19:32:29: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 19:32:30: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 19:32:30: [AMXX] Run time error 5: memory access 
+L 11/01/2022 - 19:32:30: [AMXX]    [0] jbe_core.sma::SQL_Handler (line 2335)
+L 11/01/2022 - 20:10:51: Start of error session.
+L 11/01/2022 - 20:10:51: Info (map "jail_west_v2") (file "addons/amxmodx/logs/error_20221101.log")
+L 11/01/2022 - 20:10:51: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 20:10:51: [AMXX] Run time error 5: memory access 
+L 11/01/2022 - 20:10:51: [AMXX]    [0] jbe_core.sma::SQL_Handler (line 2335)
+L 11/01/2022 - 20:12:32: [AMXX] Run time error 4 (plugin "skill_updater.amxx") - debug not enabled!
+L 11/01/2022 - 20:12:32: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 11/01/2022 - 20:12:32: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 20:12:32: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 20:12:32: [AMXX]    [0] jbe_core.sma::Ham_TakeDamage_Player (line 15416)
+L 11/01/2022 - 20:12:32: [AMXX] Displaying debug trace (plugin "jbe_legend.amxx", version "1.0")
+L 11/01/2022 - 20:12:32: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 20:12:32: [AMXX]    [0] jbe_legend.sma::func_TakeDamage (line 697)
+L 11/01/2022 - 20:22:34: [AMXX] Run time error 4 (plugin "skill_updater.amxx") - debug not enabled!
+L 11/01/2022 - 20:22:34: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 11/01/2022 - 20:22:34: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 20:22:34: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 20:22:34: [AMXX]    [0] jbe_core.sma::Ham_TakeDamage_Player (line 15416)
+L 11/01/2022 - 20:22:34: [AMXX] Displaying debug trace (plugin "jbe_legend.amxx", version "1.0")
+L 11/01/2022 - 20:22:34: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 20:22:34: [AMXX]    [0] jbe_legend.sma::func_TakeDamage (line 697)
+L 11/01/2022 - 20:22:34: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 20:22:34: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 20:22:34: [AMXX]    [0] jbe_core.sma::ReasonKill (line 9878)
+L 11/01/2022 - 20:22:34: [AMXX]    [1] jbe_core.sma::Ham_PlayerKilled_Post (line 15130)
+L 11/01/2022 - 20:24:25: [AMXX] Run time error 4 (plugin "skill_updater.amxx") - debug not enabled!
+L 11/01/2022 - 20:24:25: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 11/01/2022 - 20:24:25: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 20:24:25: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 20:24:25: [AMXX]    [0] jbe_core.sma::Ham_TakeDamage_Player (line 15416)
+L 11/01/2022 - 20:24:25: [AMXX] Displaying debug trace (plugin "jbe_legend.amxx", version "1.0")
+L 11/01/2022 - 20:24:25: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 20:24:25: [AMXX]    [0] jbe_legend.sma::func_TakeDamage (line 697)
+L 11/01/2022 - 20:24:26: [AMXX] Run time error 4 (plugin "skill_updater.amxx") - debug not enabled!
+L 11/01/2022 - 20:24:26: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 11/01/2022 - 20:24:26: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 20:24:26: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 20:24:26: [AMXX]    [0] jbe_core.sma::Ham_TakeDamage_Player (line 15416)
+L 11/01/2022 - 20:24:26: [AMXX] Displaying debug trace (plugin "jbe_legend.amxx", version "1.0")
+L 11/01/2022 - 20:24:26: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 20:24:26: [AMXX]    [0] jbe_legend.sma::func_TakeDamage (line 697)
+L 11/01/2022 - 20:24:26: [AMXX] Run time error 4 (plugin "skill_updater.amxx") - debug not enabled!
+L 11/01/2022 - 20:24:26: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 11/01/2022 - 20:24:26: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 20:24:26: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 20:24:26: [AMXX]    [0] jbe_core.sma::Ham_TakeDamage_Player (line 15416)
+L 11/01/2022 - 20:24:26: [AMXX] Displaying debug trace (plugin "jbe_legend.amxx", version "1.0")
+L 11/01/2022 - 20:24:26: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 20:24:26: [AMXX]    [0] jbe_legend.sma::func_TakeDamage (line 697)
+L 11/01/2022 - 20:24:26: [AMXX] Run time error 4 (plugin "skill_updater.amxx") - debug not enabled!
+L 11/01/2022 - 20:24:26: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 11/01/2022 - 20:24:26: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 20:24:26: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 20:24:26: [AMXX]    [0] jbe_core.sma::Ham_TakeDamage_Player (line 15416)
+L 11/01/2022 - 20:24:26: [AMXX] Displaying debug trace (plugin "jbe_legend.amxx", version "1.0")
+L 11/01/2022 - 20:24:26: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 20:24:26: [AMXX]    [0] jbe_legend.sma::func_TakeDamage (line 697)
+L 11/01/2022 - 20:24:28: [AMXX] Run time error 4 (plugin "skill_updater.amxx") - debug not enabled!
+L 11/01/2022 - 20:24:28: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 11/01/2022 - 20:24:28: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 20:24:28: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 20:24:28: [AMXX]    [0] jbe_core.sma::Ham_TakeDamage_Player (line 15416)
+L 11/01/2022 - 20:24:28: [AMXX] Displaying debug trace (plugin "jbe_legend.amxx", version "1.0")
+L 11/01/2022 - 20:24:28: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 20:24:28: [AMXX]    [0] jbe_legend.sma::func_TakeDamage (line 697)
+L 11/01/2022 - 20:24:28: [AMXX] Run time error 4 (plugin "skill_updater.amxx") - debug not enabled!
+L 11/01/2022 - 20:24:28: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 11/01/2022 - 20:24:28: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 20:24:28: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 20:24:28: [AMXX]    [0] jbe_core.sma::Ham_TakeDamage_Player (line 15416)
+L 11/01/2022 - 20:24:28: [AMXX] Displaying debug trace (plugin "jbe_legend.amxx", version "1.0")
+L 11/01/2022 - 20:24:28: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 20:24:28: [AMXX]    [0] jbe_legend.sma::func_TakeDamage (line 697)
+L 11/01/2022 - 20:24:29: [AMXX] Run time error 4 (plugin "skill_updater.amxx") - debug not enabled!
+L 11/01/2022 - 20:24:29: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 11/01/2022 - 20:24:29: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 20:24:29: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 20:24:29: [AMXX]    [0] jbe_core.sma::Ham_TakeDamage_Player (line 15416)
+L 11/01/2022 - 20:24:29: [AMXX] Displaying debug trace (plugin "jbe_legend.amxx", version "1.0")
+L 11/01/2022 - 20:24:29: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 20:24:29: [AMXX]    [0] jbe_legend.sma::func_TakeDamage (line 697)
+L 11/01/2022 - 21:02:02: Start of error session.
+L 11/01/2022 - 21:02:02: Info (map "jail_czone") (file "addons/amxmodx/logs/error_20221101.log")
+L 11/01/2022 - 21:02:02: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 21:02:02: [AMXX] Run time error 5: memory access 
+L 11/01/2022 - 21:02:02: [AMXX]    [0] jbe_core.sma::SQL_Handler (line 2335)
+L 11/01/2022 - 21:29:31: Start of error session.
+L 11/01/2022 - 21:29:31: Info (map "jaiI_xmf_v2") (file "addons/amxmodx/logs/error_20221101.log")
+L 11/01/2022 - 21:29:31: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 21:29:31: [AMXX] Run time error 5: memory access 
+L 11/01/2022 - 21:29:31: [AMXX]    [0] jbe_core.sma::SQL_Handler (line 2335)
+L 11/01/2022 - 23:26:41: Start of error session.
+L 11/01/2022 - 23:26:41: Info (map "jail_sebastian") (file "addons/amxmodx/logs/error_20221101.log")
+L 11/01/2022 - 23:26:41: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 23:26:41: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 23:26:41: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 23:26:41: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 23:26:41: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 23:26:41: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 23:26:41: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 23:26:41: [AMXX] Run time error 4: index out of bounds 
+L 11/01/2022 - 23:26:41: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/01/2022 - 23:26:42: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/01/2022 - 23:26:42: [AMXX] Run time error 5: memory access 
+L 11/01/2022 - 23:26:42: [AMXX]    [0] jbe_core.sma::SQL_Handler (line 2335)

@@ -1,0 +1,55 @@
+[ru]
+
+ROUND_SHOP_TITLE = Покупка на карту\R\rЦена
+ROUND_SHOP_PREFIX = Личный префикс
+ROUND_SHOP_MODEL = Модель игрока
+ROUND_SHOP_VIP = %s привилегия
+ROUND_SHOP_REGEN = Регенерация жизней
+ROUND_SHOP_HEALTH = Увеличенное здоровье
+ROUND_SHOP_EXIT = Выход
+
+PLAYER_BUY_PREFIX = !yИгрок !t%s!y, купил префикс !g'%s' !yна карту
+PLAYER_BUY_MODEL = !yИгрок !t%s!y, купил !gмодель !yна карту
+PLAYER_BUY_VIP = !yИгрок !t%s!y, купил !g'%s' !yпривилегию на карту
+PLAYER_BUY_REGEN = !yИгрок !t%s!y, купил !gрегенерацию !yна карту
+PLAYER_BUY_HEALTH = !yИгрок !t%s!y, купил !gувеличенное кол-во жизней до %dHP !yна карту
+PLAYER_BUY_MAX_HEALTH = !yВы увеличили HP до максимального значения!
+
+PLAYER_LOW_MONEY = !yУ вас недостаточно средств!
+
+BUTTON_1 = \y[1]
+BUTTON_2 = \y[2]
+BUTTON_3 = \y[3]
+BUTTON_4 = \y[4]
+BUTTON_5 = \y[5]
+BUTTON_0 = \y[0]
+
+BUTTON_BLOCK = \d[\r#\d]
+
+[en]
+
+ROUND_SHOP_TITLE = Покупка на карту\R\rЦена
+ROUND_SHOP_PREFIX = Личный префикс
+ROUND_SHOP_MODEL = Модель игрока
+ROUND_SHOP_VIP = %s привилегия
+ROUND_SHOP_REGEN = Регенерация жизней
+ROUND_SHOP_HEALTH = Увеличенное здоровье
+ROUND_SHOP_EXIT = Выход
+
+PLAYER_BUY_PREFIX = !yИгрок !t%s!y, купил префикс !g'%s' !yна карту
+PLAYER_BUY_MODEL = !yИгрок !t%s!y, купил !gмодель !yна карту
+PLAYER_BUY_VIP = !yИгрок !t%s!y, купил !g'%s' !yпривилегию на карту
+PLAYER_BUY_REGEN = !yИгрок !t%s!y, купил !gрегенерацию !yна карту
+PLAYER_BUY_HEALTH = !yИгрок !t%s!y, купил !gувеличенное кол-во жизней до %dHP !yна карту
+PLAYER_BUY_MAX_HEALTH = !yВы увеличили HP до максимального значения!
+
+PLAYER_LOW_MONEY = !yУ вас недостаточно средств!
+
+BUTTON_1 = \y[1]
+BUTTON_2 = \y[2]
+BUTTON_3 = \y[3]
+BUTTON_4 = \y[4]
+BUTTON_5 = \y[5]
+BUTTON_0 = \y[0]
+
+BUTTON_BLOCK = \d[\r#\d]

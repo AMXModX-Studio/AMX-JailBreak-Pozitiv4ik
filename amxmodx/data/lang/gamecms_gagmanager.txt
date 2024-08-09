@@ -1,0 +1,103 @@
+[ru]
+CMSGAG_CHAT_PREFIX				= ^1[^4Chat^1]
+CMSGAG_MENU_REASON_HEADER		= \yУкажите причину
+CMSGAG_MENU_REASON_CUSTOM		= Своя причина
+CMSGAG_MENU_TIME_HEADER			= \yВыбрать время
+CMSGAG_MENU_TYPE_HEADER			= \yТип блокировки
+CMSGAG_MENU_INFO_HEADER			= \yИнформация^n\wВыберите пункт для изменения
+CMSGAG_ITEM_BLOCKED_BY_ADMIN	= \r[Blocked by Admin]
+CMSGAG_ITEM_PLAYER_MUTED		= \r[Muted]
+CMSGAG_ITEM_PLAYER_BLOCKED		= \r[Blocked]
+CMSGAG_ITEM_PLAYER_INFO_NAME	= \yНик:\w
+CMSGAG_ITEM_PLAYER_INFO_TIME	= \yВремя:\w
+CMSGAG_ITEM_PLAYER_INFO_REASON	= \yПричина:\w
+CMSGAG_ITEM_PLAYER_INFO_TYPE	= \yТип блокировки:\w
+CMSGAG_ITEM_PLAYER_INFO_EXPIRED	= \rИстекает:\w
+CMSGAG_ITEM_PLAYER_INFO_ADMIN_1	= \rВыдал:\w
+CMSGAG_ITEM_PLAYER_INFO_ADMIN_2	= \rИзменил:\w
+CMSGAG_ITEM_PLAYER_INFO_SET		= Заблокировать
+CMSGAG_ITEM_PLAYER_INFO_SAVE	= Сохранить
+CMSGAG_ITEM_PLAYER_INFO_REMOVE	= Снять блокировку
+
+CMSGAG_MENU_MUTE_HEADER			= \yЗаглушить игрока
+CMSGAG_MENU_BLOCK_HEADER		= \yВыбрать игрока
+
+CMSGAG_CHAT_NOPLAYER			= Игрок вышел с сервера
+CMSGAG_CHAT_ALREADY_BLOCKED		= Ошибка! Вероятно, игрок уже заблокирован администратором.
+CMSGAG_CHAT_SET_MUTE			= Вы установили ^4mute ^1на игрока ^3%n
+CMSGAG_CHAT_RESET_MUTE			= Вы сняли ^4mute ^1с игрока ^3%n
+CMSGAG_CHAT_EDIT_ERROR			= Ошибка! Возможно, игрок редактируется другим администратором.
+CMSGAG_CHAT_BLOCK_REASON		= Причина: ^3[%s]
+CMSGAG_CHAT_BLOCK_VOICE			= Ваш чат заблокирован на ^4[%s]^1.
+CMSGAG_CHAT_BLOCK_CHAT			= Ваш голосовой чат заблокирован на ^4[%s]^1.
+CMSGAG_CHAT_BLOCK_ADMIN_ACT		= Админ ^3[%s] ^1заблокировал ^4[%s] ^1игроку ^3[%s] ^1на ^4[%s]^1.
+CMSGAG_CHAT_BLOCK_ADMIN			= Игроку ^3[%s] ^1заблокирован ^4[%s] ^1на ^4[%s]^1.
+CMSGAG_CHAT_BLOCK_EDIT_ADMIN	= Админ ^3[%s] ^1изменил блокировку игроку ^3[%s]^1: ^4[%s] ^1на ^4[%s]
+CMSGAG_CHAT_BLOCK_EDIT			= Игроку ^4[%s] ^1изменена блокировка: ^4[%s] ^1на ^4[%s]
+CMSGAG_CHAT_BLOCK_REMOVE_ADMIN	= Админ ^3[%s] ^1снял блокировку ^4[%s] ^1игроку ^3[%s]
+CMSGAG_CHAT_BLOCK_REMOVE		= С игрока ^4%s ^1снята блокировка ^4[%s]
+
+CMSGAG_HUD_INFO_TIME			= Живые товарищи по команде Вас больше не слышат
+CMSGAG_TIME_LENGTH_1			= На карту
+CMSGAG_TIME_LENGTH_2			= В конце карты
+CMSGAG_TIME_NON_EXPIRED_1		= Навсегда
+CMSGAG_TIME_NON_EXPIRED_2		= Никогда
+CMSGAG_BLOCK_TYPE_0				= Чат + голос
+CMSGAG_BLOCK_TYPE_1				= Чат
+CMSGAG_BLOCK_TYPE_2				= Голос
+CMSGAG_CHAT_WILL_BE_BLOCKED		= *** Микрофон будет заблокирован через %.0f секунд ***
+CMSGAG_CHAT_BLOCKED				= *** Микрофон заблокирован на %s за флуд ***
+CMSGAG_CHAT_UNBLOCKED			= *** Микрофон разблокирован ***
+CMSGAG_CHAT_SOON_BE_UNBLOCKED	= ^1Микрофон будет разблокирован через ^4%s
+
+[en]
+CMSGAG_CHAT_PREFIX				= ^1[^4Chat^1]
+CMSGAG_MENU_REASON_HEADER		= \yУкажите причину
+CMSGAG_MENU_REASON_CUSTOM		= Своя причина
+CMSGAG_MENU_TIME_HEADER			= \yВыбрать время
+CMSGAG_MENU_TYPE_HEADER			= \yТип блокировки
+CMSGAG_MENU_INFO_HEADER			= \yИнформация^n\wВыберите пункт для изменения
+CMSGAG_ITEM_BLOCKED_BY_ADMIN	= \r[Blocked by Admin]
+CMSGAG_ITEM_PLAYER_MUTED		= \r[Muted]
+CMSGAG_ITEM_PLAYER_BLOCKED		= \r[Blocked]
+CMSGAG_ITEM_PLAYER_INFO_NAME	= \yНик:\w
+CMSGAG_ITEM_PLAYER_INFO_TIME	= \yВремя:\w
+CMSGAG_ITEM_PLAYER_INFO_REASON	= \yПричина:\w
+CMSGAG_ITEM_PLAYER_INFO_TYPE	= \yТип блокировки:\w
+CMSGAG_ITEM_PLAYER_INFO_EXPIRED	= \rИстекает:\w
+CMSGAG_ITEM_PLAYER_INFO_ADMIN_1	= \rВыдал:\w
+CMSGAG_ITEM_PLAYER_INFO_ADMIN_2	= \rИзменил:\w
+CMSGAG_ITEM_PLAYER_INFO_SET		= Заблокировать
+CMSGAG_ITEM_PLAYER_INFO_SAVE	= Сохранить
+CMSGAG_ITEM_PLAYER_INFO_REMOVE	= Снять блокировку
+
+CMSGAG_MENU_MUTE_HEADER			= \yЗаглушить игрока
+CMSGAG_MENU_BLOCK_HEADER		= \yВыбрать игрока
+
+CMSGAG_CHAT_NOPLAYER			= Игрок вышел с сервера
+CMSGAG_CHAT_ALREADY_BLOCKED		= Ошибка! Вероятно, игрок уже заблокирован администратором.
+CMSGAG_CHAT_SET_MUTE			= Вы установили ^4mute ^1на игрока ^3%n
+CMSGAG_CHAT_RESET_MUTE			= Вы сняли ^4mute ^1с игрока ^3%n
+CMSGAG_CHAT_EDIT_ERROR			= Ошибка! Возможно, игрок редактируется другим администратором.
+CMSGAG_CHAT_BLOCK_REASON		= Причина: ^3[%s]
+CMSGAG_CHAT_BLOCK_VOICE			= Ваш чат заблокирован на ^4[%s]^1.
+CMSGAG_CHAT_BLOCK_CHAT			= Ваш голосовой чат заблокирован на ^4[%s]^1.
+CMSGAG_CHAT_BLOCK_ADMIN_ACT		= Админ ^3[%s] ^1заблокировал ^4[%s] ^1игроку ^3[%s] ^1на ^4[%s]^1.
+CMSGAG_CHAT_BLOCK_ADMIN			= Игроку ^3[%s] ^1заблокирован ^4[%s] ^1на ^4[%s]^1.
+CMSGAG_CHAT_BLOCK_EDIT_ADMIN	= Админ ^3[%s] ^1изменил блокировку игроку ^3[%s]^1: ^4[%s] ^1на ^4[%s]
+CMSGAG_CHAT_BLOCK_EDIT			= Игроку ^4[%s] ^1изменена блокировка: ^4[%s] ^1на ^4[%s]
+CMSGAG_CHAT_BLOCK_REMOVE_ADMIN	= Админ ^3[%s] ^1снял блокировку ^4[%s] ^1игроку ^3[%s]
+CMSGAG_CHAT_BLOCK_REMOVE		= С игрока ^4%s ^1снята блокировка ^4[%s]
+
+CMSGAG_HUD_INFO_TIME			= Живые товарищи по команде Вас больше не слышат
+CMSGAG_TIME_LENGTH_1			= На карту
+CMSGAG_TIME_LENGTH_2			= В конце карты
+CMSGAG_TIME_NON_EXPIRED_1		= Навсегда
+CMSGAG_TIME_NON_EXPIRED_2		= Никогда
+CMSGAG_BLOCK_TYPE_0				= Чат + голос
+CMSGAG_BLOCK_TYPE_1				= Чат
+CMSGAG_BLOCK_TYPE_2				= Голос
+CMSGAG_CHAT_WILL_BE_BLOCKED		= *** Микрофон будет заблокирован через %.0f секунд ***
+CMSGAG_CHAT_BLOCKED				= *** Микрофон заблокирован на %s за флуд ***
+CMSGAG_CHAT_UNBLOCKED			= *** Микрофон разблокирован ***
+CMSGAG_CHAT_SOON_BE_UNBLOCKED	= ^1Микрофон будет разблокирован через ^4%s

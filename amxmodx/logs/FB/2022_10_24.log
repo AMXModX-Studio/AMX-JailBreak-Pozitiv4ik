@@ -1,0 +1,34 @@
+L 10/24/2022 - 00:43:34: Log file started (file "cstrike/addons/amxmodx/logs/FB/2022_10_24.log") (game "cstrike") (amx "1.9.0.5263")
+L 10/24/2022 - 00:43:34: [fB 1.4.2b]mySQL is OK! Time difference -21 sec, DB delay 0.275762081 sec
+L 10/24/2022 - 02:06:15: [fB 1.4.2b]mySQL is OK! Time difference -22 sec, DB delay 0.275665044 sec
+L 10/24/2022 - 03:37:18: [fB 1.4.2b]mySQL is OK! Time difference -22 sec, DB delay 0.275033473 sec
+L 10/24/2022 - 05:44:21: [fB 1.4.2b]mySQL is OK! Time difference -22 sec, DB delay 0.275672674 sec
+L 10/24/2022 - 07:21:34: [fB 1.4.2b]mySQL is OK! Time difference -21 sec, DB delay 0.275379896 sec
+L 10/24/2022 - 08:12:03: [fB 1.4.2b]mySQL is OK! Time difference -22 sec, DB delay 0.275407552 sec
+L 10/24/2022 - 09:08:34: [fB 1.4.2b]mySQL is OK! Time difference -21 sec, DB delay 0.275513887 sec
+L 10/24/2022 - 10:08:04: [fB 1.4.2b]mySQL is OK! Time difference -21 sec, DB delay 0.275249004 sec
+L 10/24/2022 - 11:35:29: [fB 1.4.2b]mySQL is OK! Time difference -22 sec, DB delay 0.275275230 sec
+L 10/24/2022 - 12:15:34: [fB 1.4.2b]mySQL is OK! Time difference -22 sec, DB delay 0.329698324 sec
+L 10/24/2022 - 13:11:54: [fB 1.4.2b]mySQL is OK! Time difference -22 sec, DB delay 0.275245666 sec
+L 10/24/2022 - 14:56:25: [fB 1.4.2b]mySQL is OK! Time difference -22 sec, DB delay 0.275822639 sec
+L 10/24/2022 - 15:58:37: [fB 1.4.2b]mySQL is OK! Time difference -22 sec, DB delay 0.275467872 sec
+L 10/24/2022 - 16:11:07: [FB]Ban Player [KaRiGlAzKa] [79.98.9.17] [STEAM_1:1:2003138667] on 30 минут for Оскорбление администрации. by Любитель from 178.214.188.86
+L 10/24/2022 - 16:49:36: [fB 1.4.2b]mySQL is OK! Time difference -22 sec, DB delay 0.275715112 sec
+L 10/24/2022 - 17:08:59: [fB 1.4.2b]mySQL is OK! Time difference -22 sec, DB delay 0.307920932 sec
+L 10/24/2022 - 19:15:47: [fB 1.4.2b]mySQL is OK! Time difference -22 sec, DB delay 0.275719881 sec
+L 10/24/2022 - 19:47:15: [fB 1.4.2b]mySQL is OK! Time difference -22 sec, DB delay 0.275800704 sec
+L 10/24/2022 - 21:11:46: [FB]Ban Player [Любитель] [178.214.188.86] [STEAM_2:0:1539558626] on Навсегда for РЕКЛАМА! by server from 37.230.137.4
+L 10/24/2022 - 21:11:56: [FB][ERROR] Can't locate a player Любитель
+L 10/24/2022 - 21:14:09: [FB][TRY TO UNBAN] [178.214.188.86] set expired by [Server]
+L 10/24/2022 - 21:26:38: [fB 1.4.2b]mySQL is OK! Time difference -23 sec, DB delay 0.275902748 sec
+L 10/24/2022 - 21:40:35: [FB]Ban Player [ZXCghoul] [178.214.188.86] [STEAM_2:0:1539558626] on 6 дней, 22 часов и 39 минут for 123 by server from 37.230.137.4
+L 10/24/2022 - 21:40:43: [FB]Ban Player [Test] [178.168.189.27] [STEAM_1:1:970794075] on 16 часов и 39 минут for 123 by server from 37.230.137.4
+L 10/24/2022 - 21:47:58: [FB]Ban Player [Test] [62.210.127.130] [STEAM_2:0:1054137065] on 16 часов и 39 минут for 123 by server from 37.230.137.4
+L 10/24/2022 - 21:55:20: USE: amx_ban <time in mins> <steamID or nickname or #authid or IP> <reason>
+L 10/24/2022 - 21:55:42: USE: amx_ban <time in mins> <steamID or nickname or #authid or IP> <reason>
+L 10/24/2022 - 21:56:14: [FB]Ban Player [SmAiL] [185.150.15.129] [STEAM_2:1:1977962769] on Навсегда for 123 by server from 37.230.137.4
+L 10/24/2022 - 22:23:42: [FB]Ban Player [Dio] [178.214.188.86] [STEAM_2:0:1539558626] on 16 часов и 39 минут for 123 by server from 37.230.137.4
+L 10/24/2022 - 22:24:01: [FB][ERROR] Can't locate a player Dio
+L 10/24/2022 - 22:33:31: [FB]Ban Player [Ужас] [178.168.189.27] [STEAM_2:0:1940995826] on Навсегда for OGP by server from 37.230.137.4
+L 10/24/2022 - 22:33:35: [FB]Ban Player [Dio] [178.214.188.86] [STEAM_2:0:1539558626] on Навсегда for OGP by server from 37.230.137.4
+L 10/24/2022 - 22:37:01: [fB 1.4.2b]mySQL is OK! Time difference -22 sec, DB delay 0.275221586 sec

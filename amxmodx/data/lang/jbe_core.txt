@@ -1,0 +1,696 @@
+[en]
+JBE_PREFIX = !y~!t
+JBE_KEY = \r[%d]
+
+JBE_HUD_DAY_WEEK_0 =  Начало
+JBE_HUD_DAY_WEEK_1 =  Понедельник
+JBE_HUD_DAY_WEEK_2 =  Вторник
+JBE_HUD_DAY_WEEK_3 =  Среда
+JBE_HUD_DAY_WEEK_4 =  Четверг
+JBE_HUD_DAY_WEEK_5 =  Пятница
+JBE_HUD_DAY_WEEK_6 =  Суббота
+JBE_HUD_DAY_WEEK_7 =  Воскресенье
+
+JBE_HG_WEAPON_AK47 = AK47
+JBE_HG_WEAPON_M4A1 = M4A1
+JBE_HG_WEAPON_AWP = AWP
+JBE_HG_WEAPON_DEAGLE = DEAGLE
+JBE_HG_WEAPON_KNIFE = Нож
+
+JBE_HUD_GAME_MODE = %L
+JBE_HUD_GAME_MODE_0 = Рестарт
+JBE_HUD_GAME_MODE_1 = Обычный день
+JBE_HUD_GAME_MODE_2 = Свободный день
+JBE_HUD_GAME_MODE_3 = Игровой день
+
+JBE_HUD_HAS_FREE = Ты освобождённый
+JBE_HUD_HAS_WANTED = Ты разыскиваемый!
+
+JBE_CHAT_ID_HOOK_NOT_AVAILABLE = Хук недоступен в данный момент.
+JBE_CHAT_ID_FLY_NOT_AVAILABLE = Полёт недоступен в данный момент.
+JBE_CHAT_ID_FLY_ROUND = Полёт недоступен в первые 10 секунд раунда.
+JBE_CHAT_ID_HOOK_ROUND = Хук недоступен в первые 10 секунд раунда.
+JBE_CHAT_ID_FLY_NO_ACCESS = У вас нет доступа к Полёту.
+JBE_CHAT_ID_HOOK_NO_ACCESS = У вас нет доступа к Паутинке.
+
+JBE_HUD_CHIEF =  Начальник: %L %s
+JBE_HUD_CHIEF_NOT = Отсутствует
+JBE_HUD_CHIEF_ALIVE =
+JBE_HUD_CHIEF_DEAD = Погиб
+JBE_HUD_CHIEF_DISCONNECT = Отключился
+JBE_HUD_CHIEF_FREE = Освобождён
+
+JBE_HUD_PRISONERS =  Зеки: %d / %d
+JBE_HUD_GUARD =  Менты: %d / %d ^n^n Наш сайт » csescape.ru
+
+JBE_CHAT_ID_DEMO_START = !tЗапись демо: jb_escapes.dem !y| Время: !g%s
+
+JBE_CHAT_ALL_CHIEF_START = Мент !g%s !tНазначен !gНачальником!
+JBE_CHAT_ALL_FD_START = !gСвободный день начался!
+JBE_CHAT_ALL_FD_END = !tСвободный день окончен!
+JBE_CHAT_ID_PLAYERS_NO_WEAPONS = Ты уже выбирал оружие!
+JBE_CHAT_ID_PLAYERS_NO_WEAPONS_GAME = Сейчас не время выбирать оружие!
+JBE_CHAT_ALL_ZEK_DEAD = Последний Зек умер, не выбрав желание.
+JBE_CHAT_ALL_FD_PN = !tЗеки освобождены на 120 секунд!y!
+JBE_CHAT_ALL_GOLODKI = Нет Мента! Включена игра '!gОгонь по своим!t'
+
+JBE_CHAT_ALL_KILL_FD = !g%s !tубил освобожденного !g%s
+JBE_CHAT_ALL_KILL_BUNT = !g%s !tубил бунтующего !g%s
+JBE_CHAT_ALL_KILL_ZEK = !g%s !tубил Зека !g%s
+JBE_CHAT_ALL_FD_PLAYER = g%s !tподарил освобождение !g%s
+JBE_CHAT_ALL_FD_NO_KT = Менты отсутствует, поэтому брать нельзя !g>_<
+JBE_CHAT_ALL_FD_YES = !g%s !tвыбрал освобождение
+JBE_CHAT_ALL_WEAPONS_NO = У кого оружие отбирать-то собрался? !g:з
+JBE_CHAT_ALL_WEAPONS_YES = !g%s !tВыбрал убить !gМентов
+JBE_CHAT_ALL_GOLOS = !g%s !tвыбрал голос на раунд
+JBE_CHAT_ALL_MONEY = !g%s !tвыбрал деньги
+JBE_CHAT_ALL_TAKE_WANTED = !g%s !tснял с розыска !g%s
+JBE_CHAT_ALL_GIVE_M3_TT = Зеки получили M3, так как нет !gначальника
+
+JBE_MENU_MARKER_COLOR_MENU = Цвет маркера
+JBE_MENU_COLOR_MARKER_RANDOM = Рандомный
+JBE_MENU_COLOR_MARKER_YELLOW = Жёлтый 
+JBE_MENU_COLOR_MARKER_BLUE = Синий 
+JBE_MENU_COLOR_MARKER_RED = Красный
+JBE_MENU_COLOR_MARKER_GREEN = Зелёный
+JBE_MENU_COLOR_MARKER_WHITE = Белый
+JBE_MENU_COLOR_MARKER_PURPLE = Фиолетовый
+JBE_MENU_COLOR_MARKER_ORANGE = Оранжевый 
+
+JBE_MENU_MARKER_MENU = Меню маркера
+JBE_MENU_SETTING_INF = Настройки:
+JBE_MENU_SPRITE_MODE_0_END = Нету
+JBE_MENU_SPRITE_MODE_1_END = 1
+JBE_MENU_SPRITE_MODE_2_END = 2
+
+JBE_MENU_SIZE_MODE_0_SIZE = Обычный маркер
+JBE_MENU_SIZE_MODE_1_SIZE = Тонкий маркер
+JBE_MENU_SIZE_MODE_2_SIZE = Средний маркер
+JBE_MENU_SIZE_MODE_3_SIZE = Большой маркер
+
+JBE_MENU_NARUCH_TITLE = Меню наручников
+JBE_MENU_NARUCH_ON = Надеть наручники
+JBE_MENU_NARUCH_OFF = Снять наручники
+JBE_MENU_NARUCH_PLAYERS_NUM = Игроки с наручниками
+
+JBE_ALL_CHAT_NARUCH_PLIZ = Нужно стать вплотную к игроку и смотреть на него
+JBE_ALL_CHAT_NARUCH_PLAYES = Президент !g%s !tснял наручники с !g%s
+JBE_ALL_CHAT_NARUCH_PLAYES_NO = На Зэке нет наручников
+JBE_ALL_CHAT_NARUCH_PLAYES_GO = Президент !g%s !tнадел наручники на !g%s
+JBE_ALL_CHAT_NARUCH_NO_FOOTBALER = Нельзя надевать наручники на футболистов
+JBE_ALL_CHAT_NARUCH_NO_BOXING = Нельзя надевать наручники на боксёров
+JBE_ALL_CHAT_NARUCH_YES = На Зека уже надеты наручники
+JBE_ALL_CHAT_NARUCH_WANTED_NO = На бунтующих нельзя надевать наручники
+JBE_ALL_CHAT_NARUCH_FD_NO = На освобожденных нельзя надевать наручники
+JBE_CHAT_ID_LATCHKEY_DOOR = Вы открыли клетку отмычкой
+JBE_CHAT_ID_LATCHKEY_NARUCH = Вы выбрались с наручников
+
+JBE_SHOP_ID_CHAT_BALISONG = Вы купили !gнож-бабочку
+JBE_SHOP_ID_CHAT_MACHETE = Вы купили !gМачете
+JBE_SHOP_ID_CHAT_SERP = Вы купили !gСерп
+JBE_SHOP_ID_CHAT_FLASHBANG = Вы купили !g2 светошумовые гранаты
+JBE_SHOP_ID_CHAT_GRAVITI = Вы купили !gгравитацию
+JBE_SHOP_ID_CHAT_FAST_RUN = Вы купили !gскрость
+JBE_SHOP_ID_CHAT_FROSTNADE = Вы купили !gгранату-заморозку
+JBE_SHOP_ID_CHAT_STIMYLATOR = Вы купили !g120 хп
+JBE_SHOP_ID_CHAT_STIMYLATORS = Вы купили !g250 хп
+JBE_SHOP_ID_CHAT_CLOSE_CASE = Вы купили !gснятие розыска
+JBE_SHOP_ID_CHAT_HEGGRENADE = Вы купили !gосколочную гранату
+JBE_SHOP_ID_CHAT_DOUBLE_JUMP = Вы купили !gдвойной прыжок
+JBE_SHOP_ID_CHAT_AUTO_BHOP = Вы купили !gавтораспрыг
+JBE_SHOP_ID_CHAT_KOKAIN_GR = Вы купили !gдозу кокаина
+JBE_SHOP_ID_CHAT_AWP = Вы купили !gawp
+
+JBE_MENU_TEAM_TITLE = \wВыбор команды^n\dБаланс: 3 зека, 1 мент^n
+JBE_MENU_TEAM_PRISONERS = Зеки \w[\r%d\w]
+JBE_MENU_TEAM_GUARDS = Менти \w[\y14+\w] \w[\r%d\w]
+JBE_MENU_TEAM_RANDOM = Случайный выбор
+JBE_MENU_TEAM_SPECTATOR = Наблюдатель ^n^n \y » За  \rмента \yможно играть с \w14 лет.^n \y » Наша  \rГруппа \y[В]контакте: \wvk.com/csescape.
+
+JBE_MENU_WEAPONS_GUARD_TITLE = Основное оружие
+JBE_MENU_WEAPONS_GUARD_AK47 = Калаш
+JBE_MENU_WEAPONS_GUARD_M4A1 = Эмка
+JBE_MENU_WEAPONS_GUARD_XM1014 = Дробовик
+JBE_MENU_WEAPONS_GUARD_AKKNIFE = Ак47knife \rВип
+JBE_MENU_WEAPONS_GUARD_AKS = Ak47Bist \rДемон
+
+JBE_MENU_MAIN_TITLE = Меню Зеков^n\rНаш сайт: \wcsescape.ru^n\rМы [В]контакте: \wvk.com/csescape
+JBE_MENU_MAIN_KT_TITLE = Меню Мента^n\rНаш сайт: \wcsescape.ru^n\rМы [В]контакте: \wvk.com/csescape
+JBE_MENU_MAIN_SHOP = Магазин
+JBE_MENU_MAIN_GIVE_WEAPONS = Оружейка
+JBE_MENU_MAIN_COSTUMES = Шляпы
+JBE_MENU_MAIN_LAST_PN = Я - один
+JBE_MENU_MAIN_CHIEF = Меню начальника
+JBE_MENU_MAIN_TAKE_CHIEF = Стать начальником
+JBE_MENU_MAIN_TEAM = Выбор команды
+JBE_MENU_MAIN_PRIVIGELES = Меню Привилегий
+JBE_MENU_MAIN_SETTINGS = Настройки
+
+JBE_MENU_COSTUMES_TITLE = Шляпы
+JBE_CHAT_ID_SET_COSTUMES = Вы надели шляпу: !g%s
+
+JBE_MENU_MAIN_PRIVILEGES_TITLE = Меню привилегий [1/3]^n\rНаш сайт: \wcsescape.ru^n\rМы [В]контакте: \wvk.com/csescape
+JBE_MENU_MAIN_VIP = Вип 
+JBE_MENU_MAIN_ADMIN = Админ 
+JBE_MENU_MAIN_PREMIUM = Ультра
+JBE_MENU_MAIN_ALPHA = Альфа
+JBE_MENU_MAIN_STRAJ = Стражник
+JBE_MENU_MAIN_DELTA = Дельта
+
+JBE_MENU_MAIN_PRIVILEG_TITLE = Меню привилегий [2/3]^n\rНаш сайт: \wcsescape.ru^n\rМы [В]контакте: \wvk.com/csescape
+JBE_MENU_MAIN_PREZIDENT = Президент
+JBE_MENU_MAIN_DEMON = Демон
+JBE_MENU_MAIN_CLOUN = Клоун :3
+
+JBE_MENU_SHOP_PN_TITLE = Магазин зеков [1/2]
+JBE_MENU_SHOP_WEAPONS = Магазин ножей
+JBE_MENU_SHOP_PN_HEGRENADE = Осколочная граната
+JBE_MENU_SHOP_PN_STIMULATOR = 120 хп
+JBE_MENU_SHOP_PN_CLOSE_CASE = Снять розыск
+JBE_MENU_SHOP_PN_FROST_GRENADE = Граната-заморозка
+JBE_MENU_SHOP_PN_FLASHBANG = Светошумовая граната
+JBE_MENU_SHOP_PN_FAST_RUN = Быстрый бег
+JBE_MENU_SHOP_PN_LOW_GRAVITY = Низкая гравитация
+
+JBE_MENU_SHOP_PN_TITTLES = Магазин зеков [2/2]
+JBE_MENU_SHOP_PN_DOUBLE_JUMP = Двойной прыжок
+JBE_MENU_SHOP_PN_AUTO_BHOP = Автораспрыг
+
+JBE_MENU_SHOP_PNW_TITLE = Магазин ножей 
+JBE_MENU_SHOP_PNW_BALISONG = Нож-Бабочка
+JBE_MENU_SHOP_PNW_MACHETE = Мачете
+JBE_MENU_SHOP_PNW_SERP = Серп
+JBE_MENU_SHOP_PNW_BENZOPIL = Бензопила
+
+JBE_CHAT_ID_SHOP_WEAPON_HELP = !t(!tБинд на нож !t-> !gbind x radio2!t)
+JBE_CHAT_ID_SHOCKER_WEAPON_HELP = !t(!tБинд на шокер !t-> !gbind x radio2!t)
+JBE_CHAT_ID_SHOP_WEAPON_BLOCKED = Использование оружия запрещено во время проведения игр.
+
+JBE_MENU_ID_LATCHKEY_USE = Чтобы использовать !tотмычку!t, подойдите к двери и нажмите !g'c'!t.
+JBE_MENU_ID_KOKAIN = Побочные эффекты кокаина: !gполучаете в два раза меньше урона.
+JBE_MENU_ID_INVISIBLE_HAT_HELP = Вы одели 'Шапка-невидимка', вы будете невидимы в течении !g10 секунд!t!
+JBE_MENU_ID_INVISIBLE_HAT_REMOVE = Действие предмета !t'Шапка-невидимка'!t закончилось, вы снова видимы!
+JBE_CHAT_ID_CLOHING_GUARD_HELP = Чтобы одеть !tодежду Мента !tнажмите !g'z' !tчтобы снять одежду, нажмите ещё раз !g'z'!t.
+JBE_CHAT_ID_DRESSED_CLOTHING_GUARD = Вы !tодели !tодежду Мента.
+JBE_CHAT_ID_REMOVE_CLOTHING_GUARD = Вы !tсняли !tодежду Мента.
+JBE_CHAT_ID_BLOCKED_CLOTHING_GUARD = Одежда Мента заблокирована во время проведения игр.
+
+JBE_CHAT_ID_LOTTERY_WIN = Поздравляем! Вы выиграли в лотереи !g%d$!t.
+JBE_CHAT_ID_LOTTERY_LOSS = К сожалению ваш билет оказался проигрышный.
+JBE_MENU_PRANK_PRISONER_TITLE = Выберите кого подставить
+
+
+JBE_MENU_SHOP_GUARD_TITLE = Магазин Мента [1/1]
+JBE_MENU_SHOP_GUARD_STIMULATOR = 250 хп
+JBE_MENU_SHOP_GUARD_KOKAIN = Доза кокаина
+JBE_MENU_SHOP_GUARD_DOUBLE_JUMP = Двойной прыжок
+JBE_MENU_SHOP_GUARD_FAST_RUN = Скорость
+JBE_MENU_SHOP_GUARD_LOW_GRAVITY = Гравитация
+JBE_MENU_SHOP_GUARD_AWP = AWP
+
+JBE_MENU_MONEY_TRANSFER_TITLE = Выберите кому переводить
+JBE_MENU_MONEY_YOU_AMOUNT = На Вашем счету: %d$
+JBE_MENU_MONEY_AMOUNT_TITLE = Выберете сумму перевода
+JBE_MENU_MONEY_SPECIFY_AMOUNT = Указать сумму
+JBE_CHAT_ID_ERROR_PARAMETERS = !tВы ввели !tневерные параметры !tоперации, попробуйте ещё раз.
+JBE_CHAT_ID_UNKNOWN_PLAYER = !tНедействительный индекс !tполучателя, попробуйте ещё раз.
+JBE_CHAT_ID_MIN_AMOUNT_TRANSFER = !tМинимальная !tсумма для перевода !g1$!t.
+JBE_CHAT_ID_SUFFICIENT_FUNDS = !tНа вашем счету !tнедостаточно средств !tдля перевода.
+JBE_CHAT_ALL_MONEY_TRANSFER = !g%s !tперевёл !g%d$ !tна счёт !g%s!t.
+
+JBE_MENU_CHIEF_TITLE = Меню начальника [1/2]
+JBE_MENU_CHIEF_DOOR_OPEN = Открыть клетки
+JBE_MENU_CHIEF_DOOR_CLOSE = Закрыть клетки
+JBE_MENU_CHIEF_GOLOS = дать голос
+JBE_MENU_CHIEF_COUNTDOWN = Обратный отсчёт
+JBE_MENU_CHIEF_FREE_DAY = \y%s \wсвободный день
+JBE_MENU_CHIEF_MINI_GAME = Игры Начальника
+JBE_MENU_CHIEF_TREAT_WANTED = Отобрать розыск
+JBE_MENU_CHIEF_TRANSFER_CHIEF = Передать начальника
+JBE_MENU_CHIEF_TREAT_PRISONER = Вылечить Зека
+
+JBE_MENU_COUNT_DOWN_TITLE = Обратный отсчёт
+JBE_MENU_COUNT_DOWN_3 = 3 секунды
+JBE_MENU_COUNT_DOWN_5 = 5 секунд
+JBE_MENU_COUNT_DOWN_10 = 10 секунд
+JBE_MENU_COUNT_DOWN_15 = 15 секунд
+JBE_MENU_COUNT_DOWN_30 = 30 секунд
+
+JBE_MENU_FREE_DAY_CONTROL_TITLE = Выдача освобождения
+JBE_MENU_FREE_DAY_CONTROL_GIVE = дать
+JBE_MENU_FREE_DAY_CONTROL_TAKE = отобрать
+JBE_CHAT_ALL_CHIEF_TAKE_FREE_DAY = Начальник !g%s !tотобрал освобождение у !g%s!t.
+JBE_CHAT_ALL_CHIEF_GIVE_FREE_DAY = Начальник !g%s !tДал освобождение !g%s!t.
+
+JBE_MENU_PUNISH_GUARD_TITLE = Выберите кого наказать
+JBE_CHAT_ALL_PUNISH_GUARD = Начальник !g%s !tнаказал Мента !g%s!t.
+
+JBE_MENU_TRANSFER_CHIEF_TITLE = Выберите кому передать
+JBE_CHAT_ALL_TRANSFER_CHIEF = Начальник !g%s !tпередал полномочия !g%s!t.
+
+JBE_MENU_TREAT_PRISONER_TITLE = Выберите кого лечить
+JBE_CHAT_ALL_CHIEF_TREAT_PRISONER = Начальник !g%s !tвылечил Зека !g%s!t.
+
+JBE_MENU_CHIEF_TITTLE = Меню начальника [2/2]
+JBE_MENU_CHIEF_PUNISH_GUARD = Наказать Мента
+JBE_MENU_MAIN_SUPER_SIMON = Меню Супер-Саймона
+JBE_MENU_MAIN_PORTAL = Меню порталов
+
+JBE_MENU_VOICE_CONTROL_TITLE = Выдача голоса
+JBE_MENU_CHIEF_VOICE_CONTROL_GIVE = дать
+JBE_MENU_CHIEF_VOICE_CONTROL_TAKE = отобрать
+JBE_CHAT_ALL_CHIEF_GIVE_VOICE = Начальник !g%s !tвыдал голос !g%s!t.
+JBE_CHAT_ALL_CHIEF_TAKE_VOICE = Начальник !g%s !tзабрал голос у !g%s!t.
+
+JBE_MENU_PRISONERS_DIVIDE_COLOR_TITLE = Выберите количество команд
+JBE_MENU_PRISONERS_DIVIDE_COLOR_2 = Две
+JBE_MENU_PRISONERS_DIVIDE_COLOR_3 = Три
+JBE_MENU_PRISONERS_DIVIDE_COLOR_4 = Четыре
+
+JBE_HUD_ID_YOU_TEAM_ORANGE = Вы в команде !gоранжевых!t.
+JBE_HUD_ID_YOU_TEAM_GRAY = Вы в команде !gсерых!t.
+JBE_HUD_ID_YOU_TEAM_YELLOW = Вы в команде !gжёлтых!t.
+JBE_HUD_ID_YOU_TEAM_BLUE = Вы в команде !gсиних!t.
+JBE_HUD_ID_YOU_TEAM_RED = Вы в команде !gкрасных!t.
+
+JBE_MENU_MINI_GAME_TITLE = Игры начальника [1/2]
+JBE_MENU_MINI_GAME_SOCCER = Футбол
+JBE_MENU_MINI_GAME_BOXING = Бокс
+JBE_MENU_MINI_GAME_SPRAY = Обновить лого
+JBE_MENU_MINI_GAME_DISTANCE_DROP = Пустые диглы
+JBE_MENU_MINI_GAME_FRIENDLY_FIRE = Огонь по своим
+JBE_MENU_MINI_GAME_RANDOM_SLOVO = Random слово
+JBE_MENU_MINI_GAME_OTTALKIV = Отталкивание
+JBE_MENU_MINI_GAME_CHICKEN = Курочка
+JBE_MENU_MINI_GAME_SVETOFOR = Светофор
+JBE_MENU_MINI_GAME_MAFIA = Мафия
+
+JBE_CHAT_MINI_GAME_OTTALKIV_OFF = Начальник отключил !y'!tотталкивание зеков!y'
+JBE_CHAT_MINI_GAME_OTTALKIV_ON = Начальник включил !y'!tотталкивание зеков!y'
+JBE_CHAT_MINI_GAME_FIRE_OFF = Начальник отключил !y'!tогонь по своим!y'
+JBE_CHAT_MINI_GAME_FIRE_ON = Начальник включил !y'!tогонь по своим!y'
+JBE_CHAT_MINI_GAME_SVETOFOR_RED = Цвет светофора: !gКрасный
+JBE_CHAT_MINI_GAME_SVETOFOR_YELLOW = Цвет светофора: !gЖёлтый
+JBE_CHAT_MINI_GAME_SVETOFOR_GREEN = Цвет светофора: !gЗелёный
+JBE_CHAT_MINI_GAME_SVETOFOR_RANDOM = Цвет светофора: !gРандомный
+
+JBE_MENU_SOCCER_TITLE = Управление футболом
+JBE_MENU_SOCCER_ENABLE = Включить футбол
+JBE_MENU_SOCCER_DISABLE = Выключить футбол
+JBE_MENU_SOCCER_ADD_BALL = Поставить мяч
+JBE_MENU_SOCCER_SUB_BALL = Убрать мяч
+JBE_MENU_SOCCER_UPDATE_BALL = Вернуть мяч на место
+JBE_MENU_SOCCER_WHISTLE = Дать свисток
+JBE_MENU_SOCCER_GAME_START = Начать матч
+JBE_MENU_SOCCER_GAME_END = Завершить матч
+JBE_MENU_SOCCER_TEAMS = Управление командами
+JBE_MENU_SOCCER_SCORE = Управление счётом
+
+JBE_MENU_SOCCER_TEAM_TITLE = Управление командами
+JBE_MENU_SOCCER_TEAM_DIVIDE_PRISONERS = Поделить Зеков
+JBE_MENU_SOCCER_TEAM_DIVIDE_ALL = Поделить всех
+JBE_MENU_SOCCER_TEAM_DESCRIPTION = Наведите прицел на игрока,^nи нажмите соответствующею кнопку^nчтобы добавить или удалить игрока.
+JBE_MENU_SOCCER_TEAM_ADD_RED = Добавить за красных
+JBE_MENU_SOCCER_TEAM_ADD_BLUE = Добавить за синих
+JBE_MENU_SOCCER_TEAM_SUB = Удалить
+
+JBE_MENU_SOCCER_SCORE_TITLE = Управление счётом
+JBE_MENU_SOCCER_SCORE_RED_ADD = Добавить гол красным
+JBE_MENU_SOCCER_SCORE_RED_SUB = отобрать гол у красных
+JBE_MENU_SOCCER_SCORE_BLUE_ADD = Добавить гол синим
+JBE_MENU_SOCCER_SCORE_BLUE_SUB = отобрать гол у синих
+JBE_MENU_SOCCER_SCORE_RESET = Обнулить счёт
+
+JBE_CHAT_ID_SOCCER_INSUFFICIENTLY_PLAYERS = Недостаточно игроков для начала матча.
+JBE_HUD_ID_SOCCER_SCORE_RED = КРАСНЫЕ
+JBE_HUD_ID_SOCCER_SCORE_BLUE = СИНИЕ
+
+JBE_MENU_BOXING_TITLE = Управление боксом
+JBE_MENU_BOXING_ENABLE = Включить бокс
+JBE_MENU_BOXING_DISABLE = Выключить бокс
+JBE_MENU_BOXING_GAME_START = Начать бой
+JBE_MENU_BOXING_GAME_END = Завершить бой
+JBE_MENU_BOXING_GAME_TEAM_START = Начать командный бой
+JBE_MENU_BOXING_GAME_TEAM_END = Завершить командный бой
+JBE_MENU_BOXING_TEAMS = Управление командами
+
+JBE_MENU_BOXING_TEAM_TITLE = Управление командами
+JBE_MENU_BOXING_TEAM_DIVIDE = Поделить всех Зеков
+JBE_MENU_BOXING_TEAM_DESCRIPTION = Наведите прицел на игрока,^nи нажмите соответствующею кнопку^nчтобы добавить или удалить игрока.
+JBE_MENU_BOXING_TEAM_ADD_RED = Добавить за красных
+JBE_MENU_BOXING_TEAM_ADD_BLUE = Добавить за синих
+JBE_MENU_BOXING_TEAM_SUB = Удалить
+
+JBE_CHAT_ID_BOXING_INSUFFICIENTLY_PLAYERS = Недостаточно игроков для начала боя.
+
+JBE_CHAT_ID_MINI_GAME_SPRAY = Начальник обновил лого
+JBE_CHAT_ID_MINI_GAME_DISTANCE_DROP = Начальник выдал пустые диглы
+JBE_CHAT_ALL_MINI_GAME_GOLODKI_ON = Начальник включил !t'!tОгонь по своим!t'
+JBE_CHAT_ALL_MINI_GAME_GOLODKI_OFF = Начальник выключил !t'!tОгонь по своим!t'
+JBE_CHAT_ID_MINI_GAME_RANDOM_SKIN = Начальник переодел Зеков
+
+JBE_MENU_KILL_REASON_TITLE = Причина убийства: \r%s
+JBE_MENU_KILL_REASON_0 = Не выполнил приказ
+JBE_MENU_KILL_REASON_1 = Проиграл в игру
+JBE_MENU_KILL_REASON_2 = Попытка нападения
+JBE_MENU_KILL_REASON_3 = Ношение оружия
+JBE_MENU_KILL_REASON_4 = Был в розыске
+JBE_MENU_KILL_REASON_5 = Зашёл в оружейную
+JBE_MENU_KILL_REASON_6 = Залез в нычку
+JBE_MENU_KILL_REASON_7 = Случайно
+JBE_CHAT_ALL_KILL_REASON = !g%s !tубил !g%s!t. Причина: !g%L!t.
+JBE_CHAT_ID_KILLED_USER_DISCONNECT = Убитый игрок !tвышел!t с сервера.
+JBE_MENU_KILLED_USERS_TITLE = Список убитых игроков
+
+JBE_MENU_VOTE_DAY_MODE_TITLE = Голосование за режим игры
+JBE_VOTE_PRISONER = Голосуют Зеки^n
+JBE_VOTE_GUARD = Голосует Менты^n
+JBE_MENU_VOTE_DAY_MODE_TIME_END = Окончание через: %d сек^n
+JBE_MENU_VOTE_DAY_MODE_BLOCKED = \r[\yБлок %d игры\r]
+
+JBE_DAY_MODE_GHOSTS = Призраки
+JBE_DAY_MODE_RINGOLEVIO = Чай чай выручай
+JBE_DAY_MODE_HIDE_ADN_SEEK = Прятки
+JBE_DAY_MODE_GALAXY = Галактика
+JBE_DAY_MODE_HOT_POTATO = Горячая картошка
+JBE_DAY_MODE_GARRY_GUN = День магии
+JBE_DAY_MODE_SNOWBALL = Снежки
+JBE_DAY_MODE_BOUNCERS = Вышибала
+JBE_DAY_MODE_WITCH = Охотники на ведьм
+JBE_DAY_MODE_JETPACK = JetPack
+JBE_DAY_MODE_ONE_HP = 1 хп
+
+JBE_CHAT_ID_PLAYERS_NOT_VALID = Подходящие игроки не найдены.
+JBE_CHAT_ALL_AUTO_FREE_DAY = Зек !g%s !tполучит свободный день в следующем раунде.
+
+JBE_MENU_CHOICE_DUEL_TITLE = Выберите дуэль
+JBE_MENU_CHOICE_DUEL_DEAGLE = Дуэль на 'Диглах'
+JBE_MENU_CHOICE_DUEL_M3 = Дуэль на 'Дробовиках'
+JBE_MENU_CHOICE_DUEL_SCOUT = Дуэль на 'Скаутах'
+JBE_MENU_CHOICE_DUEL_AK47 = Дуэль на 'Калашах'
+JBE_MENU_CHOICE_DUEL_HE = Дуэль на 'Гранатах'
+JBE_MENU_CHOICE_DUEL_M249 = Дуэль на 'Гранатах'
+JBE_MENU_CHOICE_DUEL_AWP = Дуэль на 'AWP'
+JBE_MENU_CHOICE_DUEL_KNIFE = Дуэль на 'Кулаках'
+JBE_MENU_CHOICE_DUEL_MAC10 = Дуэль на 'Маках'
+JBE_MENU_CHOICE_DUEL_GLOCK = Дуэль на 'Глоках'
+JBE_MENU_CHOICE_DUEL_MP5 = Дуэль на 'Морковках'
+
+JBE_MENU_DUEL_USERS = Выберите противника
+
+JBE_ALL_HUD_DUEL_START_READY = %L^n%s против %s^nДо начала %d сек.
+JBE_ALL_HUD_DUEL_TIMER_ATTACK = Очередь %s^nДо автовыстрела %d сек.
+JBE_ALL_HUD_DUEL_DEAGLE = Дуэль на 'Диглах'
+JBE_ALL_HUD_DUEL_M3 = Дуэль на 'Дробовиках'
+JBE_ALL_HUD_DUEL_SCOUT = Дуэль на 'Скаутах'
+JBE_ALL_HUD_DUEL_AK47 = Дуэль на 'Калашах'
+JBE_ALL_HUD_DUEL_HE = Дуэль на 'Гранатах'
+JBE_ALL_HUD_DUEL_M249 = Дуэль на 'Гранатах'
+JBE_ALL_HUD_DUEL_AWP = Дуэль на 'AWP'
+JBE_ALL_HUD_DUEL_KNIFE = Дуэль на 'Кулаках'
+JBE_ALL_HUD_DUEL_MAC10 = Дуэль на 'Маках'
+JBE_ALL_HUD_DUEL_GLOCK = Дуэль на 'Глоках'
+JBE_ALL_HUD_DUEL_MP5 = Дуэль на 'Морковках'
+
+JBE_MENU_SVETOFOR_TITLE = Светофор^n\dФлуд запрещён
+JBE_MENU_SVETOFOR_INFO = Цвета:
+JBE_MENU_SVETOFOR_COLOR_RED = Красный
+JBE_MENU_SVETOFOR_COLOR_YELLOW = Жёлтый
+JBE_MENU_SVETOFOR_COLOR_GREEN = Зелёный
+JBE_MENU_SVETOFOR_COLOR_RANDOM = Рандом
+JBE_MENU_SVETOFOR_INF = Настройки:
+JBE_MENU_SVETOFOR_CHIEF_COLOR = Отоброжать цвет вам:
+JBE_MENU_SVETOFOR_SOUND = Звук светофора:
+
+JBE_MENU_MANAGE_SOUND_TITLE = Управление звуками
+JBE_MENU_MANAGE_SOUND_STOP_MP3 = Остановить музыку
+JBE_MENU_MANAGE_SOUND_STOP_ALL = Остановить все звуки
+JBE_MENU_MANAGE_SOUND_ROUND_SOUND = Музыка в конце раунда
+JBE_CHAT_ID_NOW_PLAYING = Сейчас играет: !g%s
+
+JBE_MENU_VIP_TITLE = Вип
+JBE_MENU_VIP_RESPAWN = Возродиться
+JBE_MENU_VIP_HEALTH = Подлечиться \r[%d]
+JBE_MENU_VIP_MONEY = $%d
+JBE_MENU_SMOTR_MONEY = %d HP/AP
+JBE_MENU_VIP_VOICE = Голос на раунд
+JBE_MENU_VIP_SPEED = Скорость
+
+JBE_CHAT_ALL_VIP_RESPAWN = Вип !g%s !tвышел из мёртвых!
+JBE_CHAT_ALL_VIP_HEALTH = Вип !g%s !tвосстановил !g100HP
+JBE_CHAT_ALL_VIP_MONEY = Вип !g%s !tпопросил !g$400
+JBE_CHAT_ALL_VIP_VOICE = Вип !g%s !tвзял !gГолос на раунд
+JBE_CHAT_ALL_VIP_SPEED = Вип !g%s !tвзял !gСкорость
+
+JBE_MENU_ADMIN_TITLE = Админ 
+JBE_MENU_ADMIN_KICK = Кикнуть игрока
+JBE_MENU_ADMIN_BAN = Забанить игрока
+JBE_MENU_ADMIN_SLAP = Убить игрока
+JBE_MENU_ADMIN_TEAM = Перевести игрока
+JBE_MENU_ADMIN_KT = Входить за Ментов %s
+JBE_MENU_ADMIN_GIVE_GOLOS = дать голос
+JBE_MENU_ADMIN_HOOK = Настройки \rHook'a
+
+JBE_SETTING_FLY_TITLE = Настройки \rПолёта
+JBE_FLY_INF = Скорость:
+JBE_FLY_SPEED_1 = Быстрая
+JBE_FLY_SPEED_2 = Средняя
+JBE_FLY_SPEED_3 = Низкая
+JBE_FLY_INF1 = Остальное:
+JBE_FLY_SPRITES = Линия за спиной: %s
+JBE_FLY_SOUND = Звук: \r%s
+
+JBE_MENU_COUNT_TWO_TIME = Секундомер: %s 
+
+JBE_MENU_HOOK_TITLE = Настройки \rHook'a
+JBE_MENU_HOOK_SOUND = Звук: \r%s
+JBE_MENU_HOOK_SPRITE = Спрайт: \r%s
+JBE_MENU_HOOK_END = Окончание: \r%s
+JBE_MENU_HOOK_SPEED = Скорость: \r%s
+JBE_MENU_HOOK_COLOR = Цвет: \r%s
+JBE_MENU_HOOK_SIZE = Размер: \r%s
+JBE_MENU_HOOK_TYPE = Тип: \r%s
+
+JBE_CHAT_ALL_ADMIN_KT_OFF = Админ !g%s !tзаблокировал вход за !gМентов.
+JBE_CHAT_ALL_ADMIN_KT_ON = Админ !g%s !tразблокировал вход за !gМентов.
+
+JBE_CHAT_ALL_ADMIN_TAKE_GOL = Создатель !g%s !tзабрал голос у !g%s!t.
+JBE_CHAT_ALL_ADMIN_GIVE_GOL = Создатель !g%s !tвыдал голос !g%s!t.
+
+JBE_MENU_PREMIUM_TITLE = Ультра
+JBE_MENU_PREMIUM_RESPAWN = Возродиться 
+JBE_MENU_PREMIUM_HP = +20хп 
+JBE_MENU_PREMIUM_MONEY = $%d 
+JBE_MENU_PREMIUM_SPEED = Скорость 
+JBE_MENU_PREMIUM_GRAV = Гравитация 
+
+JBE_CHAT_ALL_PREMIUM_RES = Ультра !g%s !tвышел из мёртвых!
+JBE_CHAT_ALL_PREMIUM_HP = Ультра !g%s !tсъел булочку !g+20хп
+JBE_CHAT_ALL_PREMIUM_MONEY = Ультра !g%s !tпопросил !g$500
+JBE_CHAT_ALL_PREMIUM_SPEED = Ультра !g%s !tвзял !gСкорость
+JBE_CHAT_ALL_PREMIUM_GRAV = Ультра !g%s !tвзял !gГравитацию
+
+JBE_MENU_SPEED_TITLE = Выдача скорости
+JBE_MENU_GRAVITI_TITLE = Выдача гравитаций
+JBE_MENU_HEALTH_TITLE = Вылечить игрока
+JBE_MENU_FREEDAY_TITLE = Выдача освобождения
+
+JBE_MENU_ALPHA_TITLE = Альфа
+JBE_MENU_ALPHA_MONEY = $%d 
+JBE_MENU_ALPHA_SPEED = Скорость 
+JBE_MENU_ALPHA_GRAV = Гравитация 
+JBE_MENU_ALPHA_NOJ = Нож 
+JBE_MENU_ALPHA_FD = Освобождение 
+JBE_MENU_ALPHA_JUMP = Двойной прыжок 
+JBE_MENU_ALPHA_BLOCK = Меню блока
+
+JBE_CHAT_ALL_ALHPA_MONEY = Альфа !g%s !tпопросил !t$400
+JBE_CHAT_ALL_ALPHA_SPEED = Альфа !g%s !tвзял !gСкорость
+JBE_CHAT_ALL_ALPHA_GRAV = Альфа !g%s !tвзял !gГравитацию
+JBE_CHAT_ALL_ALPHA_NOJ = Альфа !g%s !tвзял !gНож
+JBE_CHAT_ALL_ALPHA_FD = Альфа !g%s !tвзял !gОсвобождение
+JBE_CHAT_ALL_ALPHA_JUMP = Альфа !g%s !tвзял !gДвойной прыжок
+JBE_CHAT_ALL_ALPHA_JUMP = Альфа !g%s !tвзял !gДвойной прыжок
+JBE_CHAT_ALL_ALPHA_KLETKI_ON = Альфа !g%s !tОткрыл клетки
+JBE_CHAT_ALL_ALPHA_KLETKI_OFF = Альфа !g%s !tЗакрыл клетки
+
+JBE_MENU_STRAJ_TITLE = Стражник
+JBE_MENU_STRAJ_SKIN = Взять скин 
+JBE_MENU_STRAJ_HP = +50хп
+JBE_MENU_STRAJ_MONEY = $%d 
+JBE_MENU_STRAJ_GOD = Бессмертие 
+JBE_MENU_STRAJ_FOOT = Бесшумные шаги 
+JBE_MENU_STRAJ_NOJ = Ультра-Кулаки 
+
+JBE_CHAT_ALL_STRAJ_SKIN = Стражник !g%s !tвзял !gСкин
+JBE_CHAT_ALL_STRAJ_HP = Стражник !g%s !tвзял !g+50хп
+JBE_CHAT_ALL_STRAJ_MONEY = Стражник !g%s !tвзял !g$300
+JBE_CHAT_ALL_STRAJ_GOD = Стражник !g%s !tвзял !gБессмертие
+JBE_CHAT_ALL_STRAJ_FOOT = Стражник !g%s !tвзял !gБесшумные шаги
+JBE_CHAT_ALL_STRAJ_NOJ = Стражник !g%s !tвзял !gУльтра-Кулаки
+
+JBE_MENU_DELTA_TITLE = Дельта
+JBE_MENU_DELTA_RES = Возродить игрока
+JBE_MENU_DELTA_UDAR = Морозный удар
+JBE_MENU_DELTA_HP = +33хп 
+JBE_MENU_DELTA_JUMP = Высокий прыжок 
+JBE_MENU_DELTA_MONEY = $%d 
+JBE_MENU_DELTA_FD = Освобождение 
+
+JBE_CHAT_ALL_DELTA_RES = Дельта !g%s !tвозродил(а) игрока !g%s
+JBE_CHAT_ALL_DELTA_UDAR = Дельта !g%s !tвзял !gМорозный удар
+JBE_CHAT_ALL_DELTA_HP = Дельта !g%s !tвзял !g+33хп
+JBE_CHAT_ALL_DELTA_JUMP = Дельта !g%s !tвзял !gВысокий прыжок
+JBE_CHAT_ALL_DELTA_MONEY = Дельта !g%s !tвзял !g$350
+JBE_CHAT_ALL_DELTA_FD = Дельта !g%s !tвзял !gОсвобождение
+
+JBE_MENU_DYAVOL_TITLE = Дьявол
+JBE_MENU_DYAVOL_SKIN = Взять скин 
+JBE_MENU_DYAVOL_JUMP = Высокий прыжок 
+JBE_MENU_DYAVOL_MONEY = $%d
+JBE_MENU_DYAVOL_WANTED = Замять дело 
+JBE_MENU_DYAVOL_RUN = Длинный прыжок
+JBE_MENU_DYAVOL_DAMAGE = Двойной урон 
+JBE_MENU_DYAVOL_SCOUT = Scout
+
+JBE_CHAT_ALL_DYAVOL_SKIN = Дьявол !g%s !tвзял !gСкин дьявола
+JBE_CHAT_ALL_DYAVOL_JUMP = Дьявол !g%s !tвзял !gВысокий прыжок
+JBE_CHAT_ALL_DYAVOL_MONEY = Дьявол !g%s !tвзял !g$350
+JBE_CHAT_ALL_DYAVOL_WANTED = Дьявол !g%s !tЗамял дело
+JBE_CHAT_ALL_DYAVOL_RUN = Дьявол !g%s !tвзял !gДлинный прыжок
+JBE_CHAT_ALL_DYAVOL_DAMAGE = Дьявол !g%s !tвзял !gДвойной урон
+JBE_CHAT_ALL_DYAVOL_SCOUT = Дьявол !g%s !tвзял !gSCOUT
+
+JBE_MENU_SUPER_SIMONES_TITLE = Супер-Саймон [1/2]
+JBE_MENU_SUPER_SIMON_RES = Возродить Ментов 
+JBE_MENU_SUPER_SIMON_GLUSH = Оглушить зеков 
+JBE_MENU_SUPER_SIMON_INVIZ = Прозрачность 
+JBE_MENU_SUPER_SIMON_SPEED = Скорость 
+JBE_MENU_SUPER_SIMON_HP = +500хп
+JBE_MENU_SUPER_SIMON_JUMP = Двойной прыжок 
+JBE_MENU_SUPER_SIMON_BHOP = Автораспрыг 
+JBE_MENU_SUPER_SIMON_GUARD_OFF = Говорит только саймон
+
+JBE_CHAT_ALL_SUPER_SIMON_GLUSH = Супер-Саймон !g%s !tоглушил !gвсех зеков.
+JBE_CHAT_ALL_SUPER_SIMON_KT_RES = Супер-Саймон !g%s !tвозродил !gМентов.
+JBE_CHAT_ALL_SUPER_SIMON_KT_RES_NO = !tСейчас нельзя возрождать.
+JBE_CHAT_ALL_SUPER_SIMON_INVIZ = Супер-Саймон !g%s !tСтал !gПрозрачным.
+JBE_CHAT_ALL_SUPER_SIMON_SPEED = Супер-Саймон !g%s !tСтал !gБыстрым.
+JBE_CHAT_ALL_SUPER_SIMON_HP = Супер-Саймон !g%s !tвзял !g+500хп.
+JBE_CHAT_ALL_SUPER_SIMON_JUMP = Супер-Саймон !g%s !tвзял !gДвойной прыжок.
+JBE_CHAT_ALL_SUPER_SIMON_BHOP = Супер-Саймон !g%s !tвзял !gАвтораспрыг.
+JBE_CHAT_ALL_SUPER_SIMON_GUARD_OFF = Супер-саймон !g%s !tговорить охране!
+
+JBE_MENU_SUPER_SIMON_TITLE = Супер-Саймон [2/2]
+JBE_MENU_SUPER_SIMON_ORJ = Отнять оружие
+JBE_MENU_SUPER_SIMON_KT_GIVE = дать АК-47 Охране
+JBE_MENU_SUPER_SIMON_TT_GIVE = дать АК-47 Зекам
+JBE_MENU_SUPER_SIMON_KT_GIVE_M3 = дать M3 Охране
+JBE_MENU_SUPER_SIMON_TT_GIVE_M3 = дать M3 Зекам
+JBE_MENU_SUPER_SIMON_MUSIC = Меню Музыки
+JBE_MENU_SUPER_SIMON_BUILD = Меню Строительства
+JBE_MENU_SUPER_SIMON_SPLIF = Меню Сплифа
+
+JBE_CHAT_ALL_SUPER_SIMON_ORJ = Вы отобрали у игрока !gоружие.
+JBE_CHAT_ALL_SUPER_SIMON_ORJ_NO = У игрока отсутствует !gоружие.
+JBE_CHAT_ALL_SUPER_SIMON_OGR = Нужно стоять вплотную к игроку и смотреть !gна него.
+JBE_CHAT_ALL_SUPER_SIMON_KT_GIVE = Супер-Саймон !g%s !tвыдал всей охране !gАК-47.
+JBE_CHAT_ALL_SUPER_SIMON_TT_GIVE = Супер-Саймон !g%s !tвыдал всем зекам !gАК-47.
+JBE_CHAT_ALL_SUPER_SIMON_KT_GIVE_M3 = Супер-Саймон !g%s !tвыдал всей !gохране !gM3.
+JBE_CHAT_ALL_SUPER_SIMON_TT_GIVE_M3 = Супер-Саймон !g%s !tвыдал всем !gзекам !gM3.
+
+JBE_MENU_PREZIDENT_TITLE_1 = Президент: \yЗек
+JBE_MENU_PREZIDENT_RES = Возродиться
+JBE_MENU_PREZIDENT_NABOR = Супер-Маркет
+JBE_MENU_PREZIDENT_LATHCEY = Отмычка 
+JBE_MENU_PREZIDENT_PUMPKIN = Бомбочка
+
+JBE_MENU_PREZIDENT_TITLE_2 = Президент: \yМенты
+JBE_MENU_PREZIDENT_RES = Возродиться
+JBE_MENU_PREZIDENT_PATRON = Бесконечные патроны
+JBE_MENU_PREZIDENT_GRENADE = Граната-щит
+JBE_MENU_PREZIDENT_SHOCKER = Шокер
+JBE_MENU_PREZIDENT_NARUCH = Наручники
+
+JBE_CHAT_ALL_PRESIDENT_RES = Президент !g%s !tвышел из мёртвых!
+JBE_CHAT_ALL_PRESIDENT_NABOR = Президент !g%s !tвзял !gСупер-Маркет.
+JBE_CHAT_ALL_PRESIDENT_PATRON = Президент !g%s !tвзял !gБесконечные патроны.
+JBE_CHAT_ALL_PRESIDENT_LATCHKEY = Президент !g%s !tвзял !gОтмычку.
+JBE_CHAT_ALL_PREZIDENT_PUMPKIN = Президент !g%s !tвзял !gБомбочку.
+JBE_CHAT_ALL_PRESIDENT_GRENADE = Президент !g%s !tвзял !gГранату-щит.
+JBE_CHAT_ALL_PRESIDENT_SHOCKER = Президент !g%s !tвзял !gШокер.
+
+JBE_MENU_DEMON_TITLE = Демон
+JBE_MENU_DEMON_RES = Возродиться
+JBE_MENU_DEMON_JETPACK = Джетпак
+JBE_MENU_DEMON_JUMP = Длинный прыжок
+JBE_MENU_DEMON_GRENADE = Граната-щит
+JBE_MENU_DEMON_PUMPKIN = Бомбочка
+JBE_MENU_DEMON_MARKER = Маркер
+ 
+JBE_CHAT_ALL_DEMON_RES = Демон !g%s !tвышел из мёртвых!
+JBE_CHAT_ALL_DEMON_JETPACK = Демон !g%s !tвзял !gДжетпак.
+JBE_CHAT_ALL_DEMON_JUMP = Демон !g%s !tвзял !gДлинный прыжок.
+JBE_CHAT_ALL_DEMON_GRENADE = Демон !g%s !tвзял !gГранату-щит.
+JBE_CHAT_ALL_DEMON_PUMPKIN = Демон !g%s !tвзял !gБомбочку.
+
+JBE_MENU_SUPER_ADMIN_BLOCKED_GUARD = Запретить вход за Ментов
+JBE_MENU_BLOCKED_GUARD_TITLE = Меню блока
+
+JBE_ID_HUD_STATUS_TEXT_PRISONER = Зек
+JBE_ID_HUD_STATUS_TEXT_GUARD = Мент
+JBE_ID_HUD_STATUS_TEXT = %L: %s^nЗдоровье: %d^nДеньги $%d^nПривилегия: %s
+
+JBE_RANK_NAME = %L
+JBE_HUD_RANK_NAME = Кликуха: %L
+JBE_HUD_RANK_NAME_CT = Звание: %L
+JBE_HUD_RANK_AUTHORITY = Опыт: [%d|%d]
+
+JBE_ID_HUD_RANK_NAME_1 = Петух
+JBE_ID_HUD_RANK_NAME_2 = Шнырь
+JBE_ID_HUD_RANK_NAME_3 = Нарик
+JBE_ID_HUD_RANK_NAME_4 = Барыга
+JBE_ID_HUD_RANK_NAME_5 = Пакетик
+JBE_ID_HUD_RANK_NAME_6 = Махно
+JBE_ID_HUD_RANK_NAME_7 = Бугор
+JBE_ID_HUD_RANK_NAME_8 = Крест
+JBE_ID_HUD_RANK_NAME_9 = Мятый
+JBE_ID_HUD_RANK_NAME_10 = Чума
+JBE_ID_HUD_RANK_NAME_11 = Шестёрка
+JBE_ID_HUD_RANK_NAME_12 = Опасный
+JBE_ID_HUD_RANK_NAME_13 = Лютый
+JBE_ID_HUD_RANK_NAME_14 = Пахан
+JBE_ID_HUD_RANK_NAME_15 = Авторитет Зоны
+JBE_ID_HUD_RANK_NAME_16 = Вор в Законе
+
+JBE_ID_HUD_RANK_NAME_CT_1 = Рядовой
+JBE_ID_HUD_RANK_NAME_CT_2 = Ефрейтор
+JBE_ID_HUD_RANK_NAME_CT_3 = Мл.Сержант
+JBE_ID_HUD_RANK_NAME_CT_4 = Сержант
+JBE_ID_HUD_RANK_NAME_CT_5 = Ст.Сержант
+JBE_ID_HUD_RANK_NAME_CT_6 = Старшина
+JBE_ID_HUD_RANK_NAME_CT_7 = Прапорщик
+JBE_ID_HUD_RANK_NAME_CT_8 = Ст.Прапорщик
+JBE_ID_HUD_RANK_NAME_CT_9 = Мл.Лейтенант
+JBE_ID_HUD_RANK_NAME_CT_10 = Лейтенант
+JBE_ID_HUD_RANK_NAME_CT_11 = Ст.Лейтенант
+JBE_ID_HUD_RANK_NAME_CT_12 = Капитан
+JBE_ID_HUD_RANK_NAME_CT_13 = Майор
+JBE_ID_HUD_RANK_NAME_CT_14 = Подполковник
+JBE_ID_HUD_RANK_NAME_CT_15 = Генерал-Майор
+JBE_ID_HUD_RANK_NAME_CT_16 = Маршел-Тюрьмы
+
+JBE_CHAT_ID_RANK_EXP_UPDATED = !yТвоя репутация в тюрьме, повысилась на: !t[!g%d!t]!y.
+JBE_CHAT_ID_RANK_ERROR_PARAMETERS = !yВаша !g[!yкс!g] !yсохранить !yвашу !tрепутацию!y.
+JBE_CHAT_ID_RANK_UPDATED = !yТы !tповысил свой авторитет в !gтюрьме!y, за это ты получаешь !g250$!y. Теперь ты !t[!y%s!t]!y.
+
+JBE_ID_HUD_STATUS_TEXT_RANK_NAME =  Кликуха: %L
+
+JBM_MENU_BOSS_HOOK_CONTROL  = Выдача паутинки \r[\d%d\r|\d%d\r]
+JBE_MENU_BOSS_HOOK_CONTROL_GIVE = Выдать
+JBE_MENU_BOSS_HOOK_CONTROL_TAKE = Забрать
+JBE_ALL_CHAT_BOSS_HOOK_CONTROL_GIVE  = Повелитель !g%s!t выдал паутинку игроку !g%s!t.
+
+JBE_MENU_NEXT = Далее
+JBE_MENU_BACK = Назад
+JBE_MENU_EXIT = Выход

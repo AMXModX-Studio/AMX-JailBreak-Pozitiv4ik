@@ -1,0 +1,38 @@
+[ru]
+Skill_Udpate_Menu_Title = Прокачка^n\yВаши финансы: \r%d
+Skill_Update_Health = \y1. \wЗдоровье \r%d$ \y[\r%d\y/\r%d\y]
+Skill_Update_Health_Level = \y1. \dЗдоровье \r%d уровень
+Skill_Update_Health_Cost = \y1. \dЗдоровье \r%d$ \y[\r%d\y/\r%d\y]
+Skill_Update_Health_Time = \y1. \dУлучш. здоровья: \r%s
+Skill_Update_Health_Multi = \y~. \wЗдоровье: +\r%d ед.
+Skill_Update_Armor = \y2.\w Броня \r%d$ \y[\r%d\y/\r%d\y]
+Skill_Update_Armor_Level = \y2.\d Броня \r%d уровень
+Skill_Update_Armor_Cost = \y2.\d Броня \r%d$ \y[\r%d\y/\r%d\y]
+Skill_Update_Armor_Time = \y2. \dУлучш. брони: \r%s
+Skill_Update_Armor_Multi = \y~. \wБроня: \r%d ед.
+Skill_Update_Speed = \y3. \wСкорость \r%d$ \y[\r%d\y/\r%d\y]
+Skill_Update_Speed_Level = \y3. \dСкорость \r%d уровень
+Skill_Update_Speed_Cost = \y3. \dСкорость \r%d$ \y[\r%d\y/\r%d\y]
+Skill_Update_Speed_Time = \y3. \dУлучш. скорости: \r%s
+Skill_Update_Speed_Multi = \y~. \wДоп. скорость: +\r%.0f ед.
+Skill_Update_Gravity = \y4. \wГравитация \r%d$ \y[\r%d\y/\r%d\y]
+Skill_Update_Gravity_Level = \y4. \dГравитация \r%d уровень
+Skill_Update_Gravity_Cost = \y4. \dГравитация \r%d$ \y[\r%d\y/\r%d\y]
+Skill_Update_Gravity_Time = \y4. \dУлучш. гравитации: \r%s
+Skill_Update_Gravity_Multi = \y~. \wГравитация: \r%.0f\y/\r800 ед.
+Skill_Update_Damage = \y5.\w Урон \r%d$ \y[\r%d\y/\r%d\y]
+Skill_Update_Damage_Level = \y5. \dУрон \r%d уровень
+Skill_Update_Damage_Cost = \y5. \dУрон \r%d$ \y[\r%d\y/\r%d\y]
+Skill_Update_Damage_Time = \y5. \dУлучш. урона: \r%s
+Skill_Update_Damage_Multi = \y~. \wУрон: +\r%.1f%%
+Skill_Update_Exit = \y0. \wВыход
+
+Skill_Update_Time_Sec = %02d
+Skill_Update_Time_Min = %02d:%02d
+Skill_Update_Time_Hour = %02d:%02d:%02d
+
+Skill_Udpate_Chat_Health_Update = !g[Update]!n Вы прокачали здоровье до !g%d!n уровня.
+Skill_Udpate_Chat_Armor_Update = !g[Update]!n Вы прокачали броню до !g%d!n уровня.
+Skill_Udpate_Chat_Speed_Update = !g[Update]!n Вы прокачали скорость до !g%d!n уровня.
+Skill_Udpate_Chat_Gravity_Update = !g[Update]!n Вы прокачали гравитацию до !g%d!n уровня.
+Skill_Update_Chat_Damage_Update = !g[Update]!n Вы прокачали урон до !g%d!n уровня.

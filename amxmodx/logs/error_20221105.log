@@ -1,0 +1,1583 @@
+L 11/05/2022 - 00:19:50: Start of error session.
+L 11/05/2022 - 00:19:50: Info (map "jail_west_v2") (file "addons/amxmodx/logs/error_20221105.log")
+L 11/05/2022 - 00:19:50: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/05/2022 - 00:19:50: [AMXX] Run time error 5: memory access 
+L 11/05/2022 - 00:19:50: [AMXX]    [0] jbe_core.sma::SQL_Handler (line 2335)
+L 11/05/2022 - 02:06:22: Start of error session.
+L 11/05/2022 - 02:06:22: Info (map "jail_alayinaisyan_b5") (file "addons/amxmodx/logs/error_20221105.log")
+L 11/05/2022 - 02:06:22: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/05/2022 - 02:06:22: [AMXX] Run time error 4: index out of bounds 
+L 11/05/2022 - 02:06:22: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/05/2022 - 02:06:22: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/05/2022 - 02:06:22: [AMXX] Run time error 4: index out of bounds 
+L 11/05/2022 - 02:06:22: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/05/2022 - 02:06:23: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/05/2022 - 02:06:23: [AMXX] Run time error 5: memory access 
+L 11/05/2022 - 02:06:23: [AMXX]    [0] jbe_core.sma::SQL_Handler (line 2335)
+L 11/05/2022 - 03:52:56: Start of error session.
+L 11/05/2022 - 03:52:56: Info (map "jail_reset_v2") (file "addons/amxmodx/logs/error_20221105.log")
+L 11/05/2022 - 03:52:56: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/05/2022 - 03:52:56: [AMXX] Run time error 5: memory access 
+L 11/05/2022 - 03:52:56: [AMXX]    [0] jbe_core.sma::SQL_Handler (line 2335)
+L 11/05/2022 - 04:49:39: Start of error session.
+L 11/05/2022 - 04:49:39: Info (map "jail_west_v2") (file "addons/amxmodx/logs/error_20221105.log")
+L 11/05/2022 - 04:49:39: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/05/2022 - 04:49:39: [AMXX] Run time error 5: memory access 
+L 11/05/2022 - 04:49:39: [AMXX]    [0] jbe_core.sma::SQL_Handler (line 2335)
+L 11/05/2022 - 05:22:48: Start of error session.
+L 11/05/2022 - 05:22:48: Info (map "jail_reset_v2") (file "addons/amxmodx/logs/error_20221105.log")
+L 11/05/2022 - 05:22:48: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/05/2022 - 05:22:48: [AMXX] Run time error 5: memory access 
+L 11/05/2022 - 05:22:48: [AMXX]    [0] jbe_core.sma::SQL_Handler (line 2335)
+L 11/05/2022 - 06:33:06: Start of error session.
+L 11/05/2022 - 06:33:06: Info (map "jail_czone") (file "addons/amxmodx/logs/error_20221105.log")
+L 11/05/2022 - 06:33:06: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/05/2022 - 06:33:06: [AMXX] Run time error 5: memory access 
+L 11/05/2022 - 06:33:06: [AMXX]    [0] jbe_core.sma::SQL_Handler (line 2335)
+L 11/05/2022 - 07:43:23: Start of error session.
+L 11/05/2022 - 07:43:23: Info (map "jb_mini") (file "addons/amxmodx/logs/error_20221105.log")
+L 11/05/2022 - 07:43:23: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/05/2022 - 07:43:23: [AMXX] Run time error 5: memory access 
+L 11/05/2022 - 07:43:23: [AMXX]    [0] jbe_core.sma::SQL_Handler (line 2335)
+L 11/05/2022 - 08:53:41: Start of error session.
+L 11/05/2022 - 08:53:41: Info (map "jail_buyuklise") (file "addons/amxmodx/logs/error_20221105.log")
+L 11/05/2022 - 08:53:41: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/05/2022 - 08:53:41: [AMXX] Run time error 4: index out of bounds 
+L 11/05/2022 - 08:53:41: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/05/2022 - 08:53:41: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/05/2022 - 08:53:41: [AMXX] Run time error 4: index out of bounds 
+L 11/05/2022 - 08:53:41: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/05/2022 - 08:53:41: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/05/2022 - 08:53:41: [AMXX] Run time error 4: index out of bounds 
+L 11/05/2022 - 08:53:41: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/05/2022 - 08:53:41: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/05/2022 - 08:53:41: [AMXX] Run time error 4: index out of bounds 
+L 11/05/2022 - 08:53:41: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/05/2022 - 08:53:41: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/05/2022 - 08:53:41: [AMXX] Run time error 4: index out of bounds 
+L 11/05/2022 - 08:53:41: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/05/2022 - 08:53:41: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/05/2022 - 08:53:41: [AMXX] Run time error 4: index out of bounds 
+L 11/05/2022 - 08:53:41: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/05/2022 - 08:53:41: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/05/2022 - 08:53:41: [AMXX] Run time error 4: index out of bounds 
+L 11/05/2022 - 08:53:41: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/05/2022 - 08:53:41: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/05/2022 - 08:53:41: [AMXX] Run time error 4: index out of bounds 
+L 11/05/2022 - 08:53:41: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/05/2022 - 08:53:41: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/05/2022 - 08:53:41: [AMXX] Run time error 4: index out of bounds 
+L 11/05/2022 - 08:53:41: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/05/2022 - 08:53:41: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/05/2022 - 08:53:41: [AMXX] Run time error 4: index out of bounds 
+L 11/05/2022 - 08:53:41: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/05/2022 - 08:53:41: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/05/2022 - 08:53:41: [AMXX] Run time error 4: index out of bounds 
+L 11/05/2022 - 08:53:41: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/05/2022 - 08:53:41: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/05/2022 - 08:53:41: [AMXX] Run time error 4: index out of bounds 
+L 11/05/2022 - 08:53:41: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/05/2022 - 08:53:41: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/05/2022 - 08:53:41: [AMXX] Run time error 4: index out of bounds 
+L 11/05/2022 - 08:53:41: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/05/2022 - 08:53:41: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/05/2022 - 08:53:41: [AMXX] Run time error 4: index out of bounds 
+L 11/05/2022 - 08:53:41: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/05/2022 - 08:53:41: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/05/2022 - 08:53:41: [AMXX] Run time error 4: index out of bounds 
+L 11/05/2022 - 08:53:41: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/05/2022 - 08:53:41: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/05/2022 - 08:53:41: [AMXX] Run time error 4: index out of bounds 
+L 11/05/2022 - 08:53:41: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/05/2022 - 08:53:41: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/05/2022 - 08:53:41: [AMXX] Run time error 4: index out of bounds 
+L 11/05/2022 - 08:53:41: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/05/2022 - 08:53:41: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/05/2022 - 08:53:41: [AMXX] Run time error 4: index out of bounds 
+L 11/05/2022 - 08:53:41: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/05/2022 - 08:53:41: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/05/2022 - 08:53:41: [AMXX] Run time error 4: index out of bounds 
+L 11/05/2022 - 08:53:41: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/05/2022 - 08:53:41: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/05/2022 - 08:53:41: [AMXX] Run time error 4: index out of bounds 
+L 11/05/2022 - 08:53:41: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/05/2022 - 08:53:41: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/05/2022 - 08:53:41: [AMXX] Run time error 4: index out of bounds 
+L 11/05/2022 - 08:53:41: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/05/2022 - 08:53:41: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/05/2022 - 08:53:41: [AMXX] Run time error 4: index out of bounds 
+L 11/05/2022 - 08:53:41: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/05/2022 - 08:53:41: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/05/2022 - 08:53:41: [AMXX] Run time error 4: index out of bounds 
+L 11/05/2022 - 08:53:41: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/05/2022 - 08:53:41: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/05/2022 - 08:53:41: [AMXX] Run time error 4: index out of bounds 
+L 11/05/2022 - 08:53:41: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/05/2022 - 08:53:41: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/05/2022 - 08:53:41: [AMXX] Run time error 4: index out of bounds 
+L 11/05/2022 - 08:53:41: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/05/2022 - 08:53:41: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/05/2022 - 08:53:41: [AMXX] Run time error 4: index out of bounds 
+L 11/05/2022 - 08:53:41: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/05/2022 - 08:53:41: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/05/2022 - 08:53:41: [AMXX] Run time error 4: index out of bounds 
+L 11/05/2022 - 08:53:41: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/05/2022 - 08:53:41: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/05/2022 - 08:53:41: [AMXX] Run time error 4: index out of bounds 
+L 11/05/2022 - 08:53:41: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/05/2022 - 08:53:41: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/05/2022 - 08:53:41: [AMXX] Run time error 4: index out of bounds 
+L 11/05/2022 - 08:53:41: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/05/2022 - 08:53:41: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/05/2022 - 08:53:41: [AMXX] Run time error 4: index out of bounds 
+L 11/05/2022 - 08:53:41: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/05/2022 - 08:53:41: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/05/2022 - 08:53:41: [AMXX] Run time error 4: index out of bounds 
+L 11/05/2022 - 08:53:41: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/05/2022 - 08:53:41: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/05/2022 - 08:53:41: [AMXX] Run time error 4: index out of bounds 
+L 11/05/2022 - 08:53:41: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/05/2022 - 08:53:41: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/05/2022 - 08:53:41: [AMXX] Run time error 4: index out of bounds 
+L 11/05/2022 - 08:53:41: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/05/2022 - 08:53:41: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/05/2022 - 08:53:41: [AMXX] Run time error 4: index out of bounds 
+L 11/05/2022 - 08:53:41: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/05/2022 - 08:53:41: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/05/2022 - 08:53:41: [AMXX] Run time error 4: index out of bounds 
+L 11/05/2022 - 08:53:41: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/05/2022 - 08:53:41: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/05/2022 - 08:53:41: [AMXX] Run time error 4: index out of bounds 
+L 11/05/2022 - 08:53:41: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/05/2022 - 08:53:41: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/05/2022 - 08:53:41: [AMXX] Run time error 4: index out of bounds 
+L 11/05/2022 - 08:53:41: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/05/2022 - 08:53:41: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/05/2022 - 08:53:41: [AMXX] Run time error 4: index out of bounds 
+L 11/05/2022 - 08:53:41: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/05/2022 - 08:53:41: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/05/2022 - 08:53:41: [AMXX] Run time error 4: index out of bounds 
+L 11/05/2022 - 08:53:41: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/05/2022 - 08:53:41: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/05/2022 - 08:53:41: [AMXX] Run time error 4: index out of bounds 
+L 11/05/2022 - 08:53:41: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/05/2022 - 08:53:41: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/05/2022 - 08:53:41: [AMXX] Run time error 4: index out of bounds 
+L 11/05/2022 - 08:53:41: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/05/2022 - 08:53:41: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/05/2022 - 08:53:41: [AMXX] Run time error 4: index out of bounds 
+L 11/05/2022 - 08:53:41: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/05/2022 - 08:53:41: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/05/2022 - 08:53:41: [AMXX] Run time error 4: index out of bounds 
+L 11/05/2022 - 08:53:41: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/05/2022 - 08:53:41: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/05/2022 - 08:53:41: [AMXX] Run time error 4: index out of bounds 
+L 11/05/2022 - 08:53:41: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/05/2022 - 08:53:41: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/05/2022 - 08:53:41: [AMXX] Run time error 4: index out of bounds 
+L 11/05/2022 - 08:53:41: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/05/2022 - 08:53:41: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/05/2022 - 08:53:41: [AMXX] Run time error 4: index out of bounds 
+L 11/05/2022 - 08:53:41: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/05/2022 - 08:53:41: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/05/2022 - 08:53:41: [AMXX] Run time error 4: index out of bounds 
+L 11/05/2022 - 08:53:41: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/05/2022 - 08:53:41: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/05/2022 - 08:53:41: [AMXX] Run time error 4: index out of bounds 
+L 11/05/2022 - 08:53:41: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/05/2022 - 08:53:41: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/05/2022 - 08:53:41: [AMXX] Run time error 4: index out of bounds 
+L 11/05/2022 - 08:53:41: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/05/2022 - 08:53:41: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/05/2022 - 08:53:41: [AMXX] Run time error 4: index out of bounds 
+L 11/05/2022 - 08:53:41: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/05/2022 - 08:53:41: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/05/2022 - 08:53:41: [AMXX] Run time error 4: index out of bounds 
+L 11/05/2022 - 08:53:41: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/05/2022 - 08:53:41: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/05/2022 - 08:53:41: [AMXX] Run time error 4: index out of bounds 
+L 11/05/2022 - 08:53:41: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/05/2022 - 08:53:41: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/05/2022 - 08:53:41: [AMXX] Run time error 4: index out of bounds 
+L 11/05/2022 - 08:53:41: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/05/2022 - 08:53:41: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/05/2022 - 08:53:41: [AMXX] Run time error 4: index out of bounds 
+L 11/05/2022 - 08:53:41: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/05/2022 - 08:53:41: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/05/2022 - 08:53:41: [AMXX] Run time error 4: index out of bounds 
+L 11/05/2022 - 08:53:41: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/05/2022 - 08:53:41: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/05/2022 - 08:53:41: [AMXX] Run time error 4: index out of bounds 
+L 11/05/2022 - 08:53:41: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/05/2022 - 08:53:41: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/05/2022 - 08:53:41: [AMXX] Run time error 4: index out of bounds 
+L 11/05/2022 - 08:53:41: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/05/2022 - 08:53:41: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/05/2022 - 08:53:41: [AMXX] Run time error 4: index out of bounds 
+L 11/05/2022 - 08:53:41: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/05/2022 - 08:53:41: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/05/2022 - 08:53:41: [AMXX] Run time error 4: index out of bounds 
+L 11/05/2022 - 08:53:41: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/05/2022 - 08:53:41: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/05/2022 - 08:53:41: [AMXX] Run time error 4: index out of bounds 
+L 11/05/2022 - 08:53:41: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/05/2022 - 08:53:41: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/05/2022 - 08:53:41: [AMXX] Run time error 4: index out of bounds 
+L 11/05/2022 - 08:53:41: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/05/2022 - 08:53:41: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/05/2022 - 08:53:41: [AMXX] Run time error 4: index out of bounds 
+L 11/05/2022 - 08:53:41: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/05/2022 - 08:53:41: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/05/2022 - 08:53:41: [AMXX] Run time error 4: index out of bounds 
+L 11/05/2022 - 08:53:41: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/05/2022 - 08:53:41: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/05/2022 - 08:53:41: [AMXX] Run time error 4: index out of bounds 
+L 11/05/2022 - 08:53:41: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/05/2022 - 08:53:41: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/05/2022 - 08:53:41: [AMXX] Run time error 4: index out of bounds 
+L 11/05/2022 - 08:53:41: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/05/2022 - 08:53:41: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/05/2022 - 08:53:41: [AMXX] Run time error 4: index out of bounds 
+L 11/05/2022 - 08:53:41: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/05/2022 - 08:53:41: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/05/2022 - 08:53:41: [AMXX] Run time error 4: index out of bounds 
+L 11/05/2022 - 08:53:41: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/05/2022 - 08:53:41: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/05/2022 - 08:53:41: [AMXX] Run time error 4: index out of bounds 
+L 11/05/2022 - 08:53:41: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/05/2022 - 08:53:41: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/05/2022 - 08:53:41: [AMXX] Run time error 4: index out of bounds 
+L 11/05/2022 - 08:53:41: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/05/2022 - 08:53:41: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/05/2022 - 08:53:41: [AMXX] Run time error 4: index out of bounds 
+L 11/05/2022 - 08:53:41: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/05/2022 - 08:53:41: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/05/2022 - 08:53:41: [AMXX] Run time error 4: index out of bounds 
+L 11/05/2022 - 08:53:41: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/05/2022 - 08:53:41: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/05/2022 - 08:53:41: [AMXX] Run time error 4: index out of bounds 
+L 11/05/2022 - 08:53:41: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/05/2022 - 08:53:42: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/05/2022 - 08:53:42: [AMXX] Run time error 5: memory access 
+L 11/05/2022 - 08:53:42: [AMXX]    [0] jbe_core.sma::SQL_Handler (line 2335)
+L 11/05/2022 - 10:19:36: Start of error session.
+L 11/05/2022 - 10:19:36: Info (map "jail_sebastian") (file "addons/amxmodx/logs/error_20221105.log")
+L 11/05/2022 - 10:19:36: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/05/2022 - 10:19:36: [AMXX] Run time error 4: index out of bounds 
+L 11/05/2022 - 10:19:36: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/05/2022 - 10:19:36: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/05/2022 - 10:19:36: [AMXX] Run time error 4: index out of bounds 
+L 11/05/2022 - 10:19:36: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/05/2022 - 10:19:36: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/05/2022 - 10:19:36: [AMXX] Run time error 4: index out of bounds 
+L 11/05/2022 - 10:19:36: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/05/2022 - 10:19:36: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/05/2022 - 10:19:36: [AMXX] Run time error 5: memory access 
+L 11/05/2022 - 10:19:36: [AMXX]    [0] jbe_core.sma::SQL_Handler (line 2335)
+L 11/05/2022 - 10:20:49: [AMXX] Run time error 4 (plugin "skill_updater.amxx") - debug not enabled!
+L 11/05/2022 - 10:20:49: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 11/05/2022 - 10:20:49: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/05/2022 - 10:20:49: [AMXX] Run time error 4: index out of bounds 
+L 11/05/2022 - 10:20:49: [AMXX]    [0] jbe_core.sma::Ham_TakeDamage_Player (line 15416)
+L 11/05/2022 - 10:20:49: [AMXX] Displaying debug trace (plugin "jbe_legend.amxx", version "1.0")
+L 11/05/2022 - 10:20:49: [AMXX] Run time error 4: index out of bounds 
+L 11/05/2022 - 10:20:49: [AMXX]    [0] jbe_legend.sma::func_TakeDamage (line 697)
+L 11/05/2022 - 10:20:49: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/05/2022 - 10:20:49: [AMXX] Run time error 4: index out of bounds 
+L 11/05/2022 - 10:20:49: [AMXX]    [0] jbe_core.sma::ReasonKill (line 9878)
+L 11/05/2022 - 10:20:49: [AMXX]    [1] jbe_core.sma::Ham_PlayerKilled_Post (line 15130)
+L 11/05/2022 - 10:21:34: [AMXX] Run time error 4 (plugin "skill_updater.amxx") - debug not enabled!
+L 11/05/2022 - 10:21:34: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 11/05/2022 - 10:21:34: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/05/2022 - 10:21:34: [AMXX] Run time error 4: index out of bounds 
+L 11/05/2022 - 10:21:34: [AMXX]    [0] jbe_core.sma::Ham_TakeDamage_Player (line 15416)
+L 11/05/2022 - 10:21:34: [AMXX] Displaying debug trace (plugin "jbe_legend.amxx", version "1.0")
+L 11/05/2022 - 10:21:34: [AMXX] Run time error 4: index out of bounds 
+L 11/05/2022 - 10:21:34: [AMXX]    [0] jbe_legend.sma::func_TakeDamage (line 697)
+L 11/05/2022 - 10:21:34: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/05/2022 - 10:21:34: [AMXX] Run time error 4: index out of bounds 
+L 11/05/2022 - 10:21:34: [AMXX]    [0] jbe_core.sma::ReasonKill (line 9878)
+L 11/05/2022 - 10:21:34: [AMXX]    [1] jbe_core.sma::Ham_PlayerKilled_Post (line 15130)
+L 11/05/2022 - 10:24:04: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/05/2022 - 10:24:04: [AMXX] Run time error 4: index out of bounds 
+L 11/05/2022 - 10:24:04: [AMXX]    [0] jbe_core.sma::HamHook_UseButtons (line 15019)
+L 11/05/2022 - 10:24:04: [AMXX] Run time error 4 (plugin "skill_updater.amxx") - debug not enabled!
+L 11/05/2022 - 10:24:04: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 11/05/2022 - 10:24:04: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/05/2022 - 10:24:04: [AMXX] Run time error 4: index out of bounds 
+L 11/05/2022 - 10:24:04: [AMXX]    [0] jbe_core.sma::Ham_TakeDamage_Player (line 15416)
+L 11/05/2022 - 10:24:04: [AMXX] Displaying debug trace (plugin "jbe_legend.amxx", version "1.0")
+L 11/05/2022 - 10:24:04: [AMXX] Run time error 4: index out of bounds 
+L 11/05/2022 - 10:24:04: [AMXX]    [0] jbe_legend.sma::func_TakeDamage (line 697)
+L 11/05/2022 - 10:24:04: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/05/2022 - 10:24:04: [AMXX] Run time error 4: index out of bounds 
+L 11/05/2022 - 10:24:04: [AMXX]    [0] jbe_core.sma::ReasonKill (line 9878)
+L 11/05/2022 - 10:24:04: [AMXX]    [1] jbe_core.sma::Ham_PlayerKilled_Post (line 15130)
+L 11/05/2022 - 10:24:05: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/05/2022 - 10:24:05: [AMXX] Run time error 4: index out of bounds 
+L 11/05/2022 - 10:24:05: [AMXX]    [0] jbe_core.sma::HamHook_UseButtons (line 15019)
+L 11/05/2022 - 10:25:02: [AMXX] Run time error 4 (plugin "skill_updater.amxx") - debug not enabled!
+L 11/05/2022 - 10:25:02: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 11/05/2022 - 10:25:02: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/05/2022 - 10:25:02: [AMXX] Run time error 4: index out of bounds 
+L 11/05/2022 - 10:25:02: [AMXX]    [0] jbe_core.sma::Ham_TakeDamage_Player (line 15416)
+L 11/05/2022 - 10:25:02: [AMXX] Displaying debug trace (plugin "jbe_legend.amxx", version "1.0")
+L 11/05/2022 - 10:25:02: [AMXX] Run time error 4: index out of bounds 
+L 11/05/2022 - 10:25:02: [AMXX]    [0] jbe_legend.sma::func_TakeDamage (line 697)
+L 11/05/2022 - 10:25:02: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/05/2022 - 10:25:02: [AMXX] Run time error 4: index out of bounds 
+L 11/05/2022 - 10:25:02: [AMXX]    [0] jbe_core.sma::ReasonKill (line 9878)
+L 11/05/2022 - 10:25:02: [AMXX]    [1] jbe_core.sma::Ham_PlayerKilled_Post (line 15130)
+L 11/05/2022 - 10:25:38: [AMXX] Run time error 4 (plugin "skill_updater.amxx") - debug not enabled!
+L 11/05/2022 - 10:25:38: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 11/05/2022 - 10:25:38: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/05/2022 - 10:25:38: [AMXX] Run time error 4: index out of bounds 
+L 11/05/2022 - 10:25:38: [AMXX]    [0] jbe_core.sma::Ham_TakeDamage_Player (line 15416)
+L 11/05/2022 - 10:25:38: [AMXX] Displaying debug trace (plugin "jbe_legend.amxx", version "1.0")
+L 11/05/2022 - 10:25:38: [AMXX] Run time error 4: index out of bounds 
+L 11/05/2022 - 10:25:38: [AMXX]    [0] jbe_legend.sma::func_TakeDamage (line 697)
+L 11/05/2022 - 10:25:38: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/05/2022 - 10:25:38: [AMXX] Run time error 4: index out of bounds 
+L 11/05/2022 - 10:25:38: [AMXX]    [0] jbe_core.sma::ReasonKill (line 9878)
+L 11/05/2022 - 10:25:38: [AMXX]    [1] jbe_core.sma::Ham_PlayerKilled_Post (line 15130)
+L 11/05/2022 - 11:16:18: Start of error session.
+L 11/05/2022 - 11:16:18: Info (map "jail_sebastian") (file "addons/amxmodx/logs/error_20221105.log")
+L 11/05/2022 - 11:16:18: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/05/2022 - 11:16:18: [AMXX] Run time error 4: index out of bounds 
+L 11/05/2022 - 11:16:18: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/05/2022 - 11:16:18: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/05/2022 - 11:16:18: [AMXX] Run time error 4: index out of bounds 
+L 11/05/2022 - 11:16:18: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/05/2022 - 11:16:18: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/05/2022 - 11:16:18: [AMXX] Run time error 4: index out of bounds 
+L 11/05/2022 - 11:16:18: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/05/2022 - 11:16:18: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/05/2022 - 11:16:18: [AMXX] Run time error 5: memory access 
+L 11/05/2022 - 11:16:18: [AMXX]    [0] jbe_core.sma::SQL_Handler (line 2335)
+L 11/05/2022 - 11:51:53: Start of error session.
+L 11/05/2022 - 11:51:53: Info (map "jaiI_xmf_v2") (file "addons/amxmodx/logs/error_20221105.log")
+L 11/05/2022 - 11:51:53: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/05/2022 - 11:51:53: [AMXX] Run time error 5: memory access 
+L 11/05/2022 - 11:51:53: [AMXX]    [0] jbe_core.sma::SQL_Handler (line 2335)
+L 11/05/2022 - 13:09:56: Start of error session.
+L 11/05/2022 - 13:09:56: Info (map "jail_alayinaisyan_b5") (file "addons/amxmodx/logs/error_20221105.log")
+L 11/05/2022 - 13:09:56: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/05/2022 - 13:09:56: [AMXX] Run time error 4: index out of bounds 
+L 11/05/2022 - 13:09:56: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/05/2022 - 13:09:56: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/05/2022 - 13:09:56: [AMXX] Run time error 4: index out of bounds 
+L 11/05/2022 - 13:09:56: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/05/2022 - 13:09:56: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/05/2022 - 13:09:56: [AMXX] Run time error 5: memory access 
+L 11/05/2022 - 13:09:56: [AMXX]    [0] jbe_core.sma::SQL_Handler (line 2335)
+L 11/05/2022 - 13:40:45: Start of error session.
+L 11/05/2022 - 13:40:45: Info (map "jaiI_xmf_v2") (file "addons/amxmodx/logs/error_20221105.log")
+L 11/05/2022 - 13:40:45: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/05/2022 - 13:40:45: [AMXX] Run time error 5: memory access 
+L 11/05/2022 - 13:40:45: [AMXX]    [0] jbe_core.sma::SQL_Handler (line 2335)
+L 11/05/2022 - 14:37:20: Start of error session.
+L 11/05/2022 - 14:37:20: Info (map "jail_buyukmekan_fix") (file "addons/amxmodx/logs/error_20221105.log")
+L 11/05/2022 - 14:37:20: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/05/2022 - 14:37:20: [AMXX] Run time error 4: index out of bounds 
+L 11/05/2022 - 14:37:20: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/05/2022 - 14:37:20: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/05/2022 - 14:37:20: [AMXX] Run time error 4: index out of bounds 
+L 11/05/2022 - 14:37:20: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/05/2022 - 14:37:20: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/05/2022 - 14:37:20: [AMXX] Run time error 4: index out of bounds 
+L 11/05/2022 - 14:37:20: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/05/2022 - 14:37:20: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/05/2022 - 14:37:20: [AMXX] Run time error 4: index out of bounds 
+L 11/05/2022 - 14:37:20: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/05/2022 - 14:37:20: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/05/2022 - 14:37:20: [AMXX] Run time error 4: index out of bounds 
+L 11/05/2022 - 14:37:20: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/05/2022 - 14:37:20: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/05/2022 - 14:37:20: [AMXX] Run time error 4: index out of bounds 
+L 11/05/2022 - 14:37:20: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/05/2022 - 14:37:20: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/05/2022 - 14:37:20: [AMXX] Run time error 4: index out of bounds 
+L 11/05/2022 - 14:37:20: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/05/2022 - 14:37:20: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/05/2022 - 14:37:20: [AMXX] Run time error 4: index out of bounds 
+L 11/05/2022 - 14:37:20: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/05/2022 - 14:37:20: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/05/2022 - 14:37:20: [AMXX] Run time error 4: index out of bounds 
+L 11/05/2022 - 14:37:20: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/05/2022 - 14:37:20: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/05/2022 - 14:37:20: [AMXX] Run time error 4: index out of bounds 
+L 11/05/2022 - 14:37:20: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/05/2022 - 14:37:20: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/05/2022 - 14:37:20: [AMXX] Run time error 4: index out of bounds 
+L 11/05/2022 - 14:37:20: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/05/2022 - 14:37:20: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/05/2022 - 14:37:20: [AMXX] Run time error 4: index out of bounds 
+L 11/05/2022 - 14:37:20: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/05/2022 - 14:37:21: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/05/2022 - 14:37:21: [AMXX] Run time error 5: memory access 
+L 11/05/2022 - 14:37:21: [AMXX]    [0] jbe_core.sma::SQL_Handler (line 2335)
+L 11/05/2022 - 15:33:15: Start of error session.
+L 11/05/2022 - 15:33:15: Info (map "jail_west_v2") (file "addons/amxmodx/logs/error_20221105.log")
+L 11/05/2022 - 15:33:15: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/05/2022 - 15:33:15: [AMXX] Run time error 5: memory access 
+L 11/05/2022 - 15:33:15: [AMXX]    [0] jbe_core.sma::SQL_Handler (line 2335)
+L 11/05/2022 - 15:41:31: [FAKEMETA] Invalid entity -1
+L 11/05/2022 - 15:41:31: [AMXX] Run time error 10 (plugin "jbe_infinity.amxx") (native "get_pdata_int") - debug not enabled!
+L 11/05/2022 - 15:41:31: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 11/05/2022 - 15:41:31: [FAKEMETA] Invalid entity -1
+L 11/05/2022 - 15:41:31: [AMXX] Run time error 10 (plugin "jbe_infinity.amxx") (native "get_pdata_int") - debug not enabled!
+L 11/05/2022 - 15:41:31: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 11/05/2022 - 15:41:31: [FAKEMETA] Invalid entity -1
+L 11/05/2022 - 15:41:31: [AMXX] Run time error 10 (plugin "jbe_infinity.amxx") (native "get_pdata_int") - debug not enabled!
+L 11/05/2022 - 15:41:31: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 11/05/2022 - 15:41:31: [FAKEMETA] Invalid entity -1
+L 11/05/2022 - 15:41:31: [AMXX] Run time error 10 (plugin "jbe_infinity.amxx") (native "get_pdata_int") - debug not enabled!
+L 11/05/2022 - 15:41:31: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 11/05/2022 - 15:41:31: [FAKEMETA] Invalid entity -1
+L 11/05/2022 - 15:41:31: [AMXX] Run time error 10 (plugin "jbe_infinity.amxx") (native "get_pdata_int") - debug not enabled!
+L 11/05/2022 - 15:41:31: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 11/05/2022 - 15:41:31: [FAKEMETA] Invalid entity -1
+L 11/05/2022 - 15:41:31: [AMXX] Run time error 10 (plugin "jbe_infinity.amxx") (native "get_pdata_int") - debug not enabled!
+L 11/05/2022 - 15:41:31: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 11/05/2022 - 15:41:31: [FAKEMETA] Invalid entity -1
+L 11/05/2022 - 15:41:31: [AMXX] Run time error 10 (plugin "jbe_infinity.amxx") (native "get_pdata_int") - debug not enabled!
+L 11/05/2022 - 15:41:31: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 11/05/2022 - 15:41:31: [FAKEMETA] Invalid entity -1
+L 11/05/2022 - 15:41:31: [AMXX] Run time error 10 (plugin "jbe_infinity.amxx") (native "get_pdata_int") - debug not enabled!
+L 11/05/2022 - 15:41:31: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 11/05/2022 - 15:41:31: [FAKEMETA] Invalid entity -1
+L 11/05/2022 - 15:41:31: [AMXX] Run time error 10 (plugin "jbe_infinity.amxx") (native "get_pdata_int") - debug not enabled!
+L 11/05/2022 - 15:41:31: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 11/05/2022 - 15:41:31: [FAKEMETA] Invalid entity -1
+L 11/05/2022 - 15:41:31: [AMXX] Run time error 10 (plugin "jbe_infinity.amxx") (native "get_pdata_int") - debug not enabled!
+L 11/05/2022 - 15:41:31: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 11/05/2022 - 15:41:31: [FAKEMETA] Invalid entity -1
+L 11/05/2022 - 15:41:31: [AMXX] Run time error 10 (plugin "jbe_infinity.amxx") (native "get_pdata_int") - debug not enabled!
+L 11/05/2022 - 15:41:31: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 11/05/2022 - 15:41:31: [FAKEMETA] Invalid entity -1
+L 11/05/2022 - 15:41:31: [AMXX] Run time error 10 (plugin "jbe_infinity.amxx") (native "get_pdata_int") - debug not enabled!
+L 11/05/2022 - 15:41:31: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 11/05/2022 - 15:41:31: [FAKEMETA] Invalid entity -1
+L 11/05/2022 - 15:41:31: [AMXX] Run time error 10 (plugin "jbe_infinity.amxx") (native "get_pdata_int") - debug not enabled!
+L 11/05/2022 - 15:41:31: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 11/05/2022 - 15:41:31: [FAKEMETA] Invalid entity -1
+L 11/05/2022 - 15:41:31: [AMXX] Run time error 10 (plugin "jbe_infinity.amxx") (native "get_pdata_int") - debug not enabled!
+L 11/05/2022 - 15:41:31: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 11/05/2022 - 15:41:31: [FAKEMETA] Invalid entity -1
+L 11/05/2022 - 15:41:31: [AMXX] Run time error 10 (plugin "jbe_infinity.amxx") (native "get_pdata_int") - debug not enabled!
+L 11/05/2022 - 15:41:31: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 11/05/2022 - 15:41:31: [FAKEMETA] Invalid entity -1
+L 11/05/2022 - 15:41:31: [AMXX] Run time error 10 (plugin "jbe_infinity.amxx") (native "get_pdata_int") - debug not enabled!
+L 11/05/2022 - 15:41:31: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 11/05/2022 - 15:41:31: [FAKEMETA] Invalid entity -1
+L 11/05/2022 - 15:41:31: [AMXX] Run time error 10 (plugin "jbe_infinity.amxx") (native "get_pdata_int") - debug not enabled!
+L 11/05/2022 - 15:41:31: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 11/05/2022 - 15:41:31: [FAKEMETA] Invalid entity -1
+L 11/05/2022 - 15:41:31: [AMXX] Run time error 10 (plugin "jbe_infinity.amxx") (native "get_pdata_int") - debug not enabled!
+L 11/05/2022 - 15:41:31: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 11/05/2022 - 15:41:31: [FAKEMETA] Invalid entity -1
+L 11/05/2022 - 15:41:31: [AMXX] Run time error 10 (plugin "jbe_infinity.amxx") (native "get_pdata_int") - debug not enabled!
+L 11/05/2022 - 15:41:31: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 11/05/2022 - 15:41:31: [FAKEMETA] Invalid entity -1
+L 11/05/2022 - 15:41:31: [AMXX] Run time error 10 (plugin "jbe_infinity.amxx") (native "get_pdata_int") - debug not enabled!
+L 11/05/2022 - 15:41:31: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 11/05/2022 - 15:41:31: [FAKEMETA] Invalid entity -1
+L 11/05/2022 - 15:41:31: [AMXX] Run time error 10 (plugin "jbe_infinity.amxx") (native "get_pdata_int") - debug not enabled!
+L 11/05/2022 - 15:41:31: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 11/05/2022 - 15:41:32: [FAKEMETA] Invalid entity -1
+L 11/05/2022 - 15:41:32: [AMXX] Run time error 10 (plugin "jbe_infinity.amxx") (native "get_pdata_int") - debug not enabled!
+L 11/05/2022 - 15:41:32: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 11/05/2022 - 15:41:32: [FAKEMETA] Invalid entity -1
+L 11/05/2022 - 15:41:32: [AMXX] Run time error 10 (plugin "jbe_infinity.amxx") (native "get_pdata_int") - debug not enabled!
+L 11/05/2022 - 15:41:32: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 11/05/2022 - 15:41:32: [FAKEMETA] Invalid entity -1
+L 11/05/2022 - 15:41:32: [AMXX] Run time error 10 (plugin "jbe_infinity.amxx") (native "get_pdata_int") - debug not enabled!
+L 11/05/2022 - 15:41:32: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 11/05/2022 - 15:41:32: [FAKEMETA] Invalid entity -1
+L 11/05/2022 - 15:41:32: [AMXX] Run time error 10 (plugin "jbe_infinity.amxx") (native "get_pdata_int") - debug not enabled!
+L 11/05/2022 - 15:41:32: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 11/05/2022 - 15:41:32: [FAKEMETA] Invalid entity -1
+L 11/05/2022 - 15:41:32: [AMXX] Run time error 10 (plugin "jbe_infinity.amxx") (native "get_pdata_int") - debug not enabled!
+L 11/05/2022 - 15:41:32: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 11/05/2022 - 15:41:32: [FAKEMETA] Invalid entity -1
+L 11/05/2022 - 15:41:32: [AMXX] Run time error 10 (plugin "jbe_infinity.amxx") (native "get_pdata_int") - debug not enabled!
+L 11/05/2022 - 15:41:32: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 11/05/2022 - 15:41:32: [FAKEMETA] Invalid entity -1
+L 11/05/2022 - 15:41:32: [AMXX] Run time error 10 (plugin "jbe_infinity.amxx") (native "get_pdata_int") - debug not enabled!
+L 11/05/2022 - 15:41:32: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 11/05/2022 - 15:41:32: [FAKEMETA] Invalid entity -1
+L 11/05/2022 - 15:41:32: [AMXX] Run time error 10 (plugin "jbe_infinity.amxx") (native "get_pdata_int") - debug not enabled!
+L 11/05/2022 - 15:41:32: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 11/05/2022 - 15:41:32: [FAKEMETA] Invalid entity -1
+L 11/05/2022 - 15:41:32: [AMXX] Run time error 10 (plugin "jbe_infinity.amxx") (native "get_pdata_int") - debug not enabled!
+L 11/05/2022 - 15:41:32: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 11/05/2022 - 15:41:32: [FAKEMETA] Invalid entity -1
+L 11/05/2022 - 15:41:32: [AMXX] Run time error 10 (plugin "jbe_infinity.amxx") (native "get_pdata_int") - debug not enabled!
+L 11/05/2022 - 15:41:32: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 11/05/2022 - 15:41:32: [FAKEMETA] Invalid entity -1
+L 11/05/2022 - 15:41:32: [AMXX] Run time error 10 (plugin "jbe_infinity.amxx") (native "get_pdata_int") - debug not enabled!
+L 11/05/2022 - 15:41:32: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 11/05/2022 - 15:41:32: [FAKEMETA] Invalid entity -1
+L 11/05/2022 - 15:41:32: [AMXX] Run time error 10 (plugin "jbe_infinity.amxx") (native "get_pdata_int") - debug not enabled!
+L 11/05/2022 - 15:41:32: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 11/05/2022 - 15:41:32: [FAKEMETA] Invalid entity -1
+L 11/05/2022 - 15:41:32: [AMXX] Run time error 10 (plugin "jbe_infinity.amxx") (native "get_pdata_int") - debug not enabled!
+L 11/05/2022 - 15:41:32: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 11/05/2022 - 15:41:32: [FAKEMETA] Invalid entity -1
+L 11/05/2022 - 15:41:32: [AMXX] Run time error 10 (plugin "jbe_infinity.amxx") (native "get_pdata_int") - debug not enabled!
+L 11/05/2022 - 15:41:32: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 11/05/2022 - 15:41:32: [FAKEMETA] Invalid entity -1
+L 11/05/2022 - 15:41:32: [AMXX] Run time error 10 (plugin "jbe_infinity.amxx") (native "get_pdata_int") - debug not enabled!
+L 11/05/2022 - 15:41:32: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 11/05/2022 - 15:41:32: [FAKEMETA] Invalid entity -1
+L 11/05/2022 - 15:41:32: [AMXX] Run time error 10 (plugin "jbe_infinity.amxx") (native "get_pdata_int") - debug not enabled!
+L 11/05/2022 - 15:41:32: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 11/05/2022 - 15:41:32: [FAKEMETA] Invalid entity -1
+L 11/05/2022 - 15:41:32: [AMXX] Run time error 10 (plugin "jbe_infinity.amxx") (native "get_pdata_int") - debug not enabled!
+L 11/05/2022 - 15:41:32: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 11/05/2022 - 15:41:32: [FAKEMETA] Invalid entity -1
+L 11/05/2022 - 15:41:32: [AMXX] Run time error 10 (plugin "jbe_infinity.amxx") (native "get_pdata_int") - debug not enabled!
+L 11/05/2022 - 15:41:32: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 11/05/2022 - 15:41:32: [FAKEMETA] Invalid entity -1
+L 11/05/2022 - 15:41:32: [AMXX] Run time error 10 (plugin "jbe_infinity.amxx") (native "get_pdata_int") - debug not enabled!
+L 11/05/2022 - 15:41:32: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 11/05/2022 - 15:41:32: [FAKEMETA] Invalid entity -1
+L 11/05/2022 - 15:41:32: [AMXX] Run time error 10 (plugin "jbe_infinity.amxx") (native "get_pdata_int") - debug not enabled!
+L 11/05/2022 - 15:41:32: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 11/05/2022 - 15:41:32: [FAKEMETA] Invalid entity -1
+L 11/05/2022 - 15:41:32: [AMXX] Run time error 10 (plugin "jbe_infinity.amxx") (native "get_pdata_int") - debug not enabled!
+L 11/05/2022 - 15:41:32: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 11/05/2022 - 15:41:32: [FAKEMETA] Invalid entity -1
+L 11/05/2022 - 15:41:32: [AMXX] Run time error 10 (plugin "jbe_infinity.amxx") (native "get_pdata_int") - debug not enabled!
+L 11/05/2022 - 15:41:32: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 11/05/2022 - 15:41:32: [FAKEMETA] Invalid entity -1
+L 11/05/2022 - 15:41:32: [AMXX] Run time error 10 (plugin "jbe_infinity.amxx") (native "get_pdata_int") - debug not enabled!
+L 11/05/2022 - 15:41:32: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 11/05/2022 - 15:41:32: [FAKEMETA] Invalid entity -1
+L 11/05/2022 - 15:41:32: [AMXX] Run time error 10 (plugin "jbe_infinity.amxx") (native "get_pdata_int") - debug not enabled!
+L 11/05/2022 - 15:41:32: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 11/05/2022 - 15:41:32: [FAKEMETA] Invalid entity -1
+L 11/05/2022 - 15:41:32: [AMXX] Run time error 10 (plugin "jbe_infinity.amxx") (native "get_pdata_int") - debug not enabled!
+L 11/05/2022 - 15:41:32: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 11/05/2022 - 15:41:32: [FAKEMETA] Invalid entity -1
+L 11/05/2022 - 15:41:32: [AMXX] Run time error 10 (plugin "jbe_infinity.amxx") (native "get_pdata_int") - debug not enabled!
+L 11/05/2022 - 15:41:32: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 11/05/2022 - 15:41:32: [FAKEMETA] Invalid entity -1
+L 11/05/2022 - 15:41:32: [AMXX] Run time error 10 (plugin "jbe_infinity.amxx") (native "get_pdata_int") - debug not enabled!
+L 11/05/2022 - 15:41:32: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 11/05/2022 - 15:41:32: [FAKEMETA] Invalid entity -1
+L 11/05/2022 - 15:41:32: [AMXX] Run time error 10 (plugin "jbe_infinity.amxx") (native "get_pdata_int") - debug not enabled!
+L 11/05/2022 - 15:41:32: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 11/05/2022 - 15:41:32: [FAKEMETA] Invalid entity -1
+L 11/05/2022 - 15:41:32: [AMXX] Run time error 10 (plugin "jbe_infinity.amxx") (native "get_pdata_int") - debug not enabled!
+L 11/05/2022 - 15:41:32: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 11/05/2022 - 15:41:32: [FAKEMETA] Invalid entity -1
+L 11/05/2022 - 15:41:32: [AMXX] Run time error 10 (plugin "jbe_infinity.amxx") (native "get_pdata_int") - debug not enabled!
+L 11/05/2022 - 15:41:32: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 11/05/2022 - 15:41:32: [FAKEMETA] Invalid entity -1
+L 11/05/2022 - 15:41:32: [AMXX] Run time error 10 (plugin "jbe_infinity.amxx") (native "get_pdata_int") - debug not enabled!
+L 11/05/2022 - 15:41:32: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 11/05/2022 - 15:41:32: [FAKEMETA] Invalid entity -1
+L 11/05/2022 - 15:41:32: [AMXX] Run time error 10 (plugin "jbe_infinity.amxx") (native "get_pdata_int") - debug not enabled!
+L 11/05/2022 - 15:41:32: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 11/05/2022 - 15:41:32: [FAKEMETA] Invalid entity -1
+L 11/05/2022 - 15:41:32: [AMXX] Run time error 10 (plugin "jbe_infinity.amxx") (native "get_pdata_int") - debug not enabled!
+L 11/05/2022 - 15:41:32: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 11/05/2022 - 15:41:32: [FAKEMETA] Invalid entity -1
+L 11/05/2022 - 15:41:32: [AMXX] Run time error 10 (plugin "jbe_infinity.amxx") (native "get_pdata_int") - debug not enabled!
+L 11/05/2022 - 15:41:32: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 11/05/2022 - 15:41:32: [FAKEMETA] Invalid entity -1
+L 11/05/2022 - 15:41:32: [AMXX] Run time error 10 (plugin "jbe_infinity.amxx") (native "get_pdata_int") - debug not enabled!
+L 11/05/2022 - 15:41:32: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 11/05/2022 - 15:41:32: [FAKEMETA] Invalid entity -1
+L 11/05/2022 - 15:41:32: [AMXX] Run time error 10 (plugin "jbe_infinity.amxx") (native "get_pdata_int") - debug not enabled!
+L 11/05/2022 - 15:41:32: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 11/05/2022 - 15:41:32: [FAKEMETA] Invalid entity -1
+L 11/05/2022 - 15:41:32: [AMXX] Run time error 10 (plugin "jbe_infinity.amxx") (native "get_pdata_int") - debug not enabled!
+L 11/05/2022 - 15:41:32: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 11/05/2022 - 15:41:32: [FAKEMETA] Invalid entity -1
+L 11/05/2022 - 15:41:32: [AMXX] Run time error 10 (plugin "jbe_infinity.amxx") (native "get_pdata_int") - debug not enabled!
+L 11/05/2022 - 15:41:32: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 11/05/2022 - 15:41:32: [FAKEMETA] Invalid entity -1
+L 11/05/2022 - 15:41:32: [AMXX] Run time error 10 (plugin "jbe_infinity.amxx") (native "get_pdata_int") - debug not enabled!
+L 11/05/2022 - 15:41:32: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 11/05/2022 - 15:41:32: [FAKEMETA] Invalid entity -1
+L 11/05/2022 - 15:41:32: [AMXX] Run time error 10 (plugin "jbe_infinity.amxx") (native "get_pdata_int") - debug not enabled!
+L 11/05/2022 - 15:41:32: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 11/05/2022 - 15:41:32: [FAKEMETA] Invalid entity -1
+L 11/05/2022 - 15:41:32: [AMXX] Run time error 10 (plugin "jbe_infinity.amxx") (native "get_pdata_int") - debug not enabled!
+L 11/05/2022 - 15:41:32: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 11/05/2022 - 15:41:32: [FAKEMETA] Invalid entity -1
+L 11/05/2022 - 15:41:32: [AMXX] Run time error 10 (plugin "jbe_infinity.amxx") (native "get_pdata_int") - debug not enabled!
+L 11/05/2022 - 15:41:32: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 11/05/2022 - 15:41:32: [FAKEMETA] Invalid entity -1
+L 11/05/2022 - 15:41:32: [AMXX] Run time error 10 (plugin "jbe_infinity.amxx") (native "get_pdata_int") - debug not enabled!
+L 11/05/2022 - 15:41:32: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 11/05/2022 - 15:41:32: [FAKEMETA] Invalid entity -1
+L 11/05/2022 - 15:41:32: [AMXX] Run time error 10 (plugin "jbe_infinity.amxx") (native "get_pdata_int") - debug not enabled!
+L 11/05/2022 - 15:41:32: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 11/05/2022 - 15:41:32: [FAKEMETA] Invalid entity -1
+L 11/05/2022 - 15:41:32: [AMXX] Run time error 10 (plugin "jbe_infinity.amxx") (native "get_pdata_int") - debug not enabled!
+L 11/05/2022 - 15:41:32: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 11/05/2022 - 15:41:32: [FAKEMETA] Invalid entity -1
+L 11/05/2022 - 15:41:32: [AMXX] Run time error 10 (plugin "jbe_infinity.amxx") (native "get_pdata_int") - debug not enabled!
+L 11/05/2022 - 15:41:32: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 11/05/2022 - 15:41:32: [FAKEMETA] Invalid entity -1
+L 11/05/2022 - 15:41:32: [AMXX] Run time error 10 (plugin "jbe_infinity.amxx") (native "get_pdata_int") - debug not enabled!
+L 11/05/2022 - 15:41:32: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 11/05/2022 - 15:41:32: [FAKEMETA] Invalid entity -1
+L 11/05/2022 - 15:41:32: [AMXX] Run time error 10 (plugin "jbe_infinity.amxx") (native "get_pdata_int") - debug not enabled!
+L 11/05/2022 - 15:41:32: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 11/05/2022 - 15:41:32: [FAKEMETA] Invalid entity -1
+L 11/05/2022 - 15:41:32: [AMXX] Run time error 10 (plugin "jbe_infinity.amxx") (native "get_pdata_int") - debug not enabled!
+L 11/05/2022 - 15:41:32: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 11/05/2022 - 15:41:32: [FAKEMETA] Invalid entity -1
+L 11/05/2022 - 15:41:32: [AMXX] Run time error 10 (plugin "jbe_infinity.amxx") (native "get_pdata_int") - debug not enabled!
+L 11/05/2022 - 15:41:32: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 11/05/2022 - 15:41:32: [FAKEMETA] Invalid entity -1
+L 11/05/2022 - 15:41:32: [AMXX] Run time error 10 (plugin "jbe_infinity.amxx") (native "get_pdata_int") - debug not enabled!
+L 11/05/2022 - 15:41:32: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 11/05/2022 - 15:41:32: [FAKEMETA] Invalid entity -1
+L 11/05/2022 - 15:41:32: [AMXX] Run time error 10 (plugin "jbe_infinity.amxx") (native "get_pdata_int") - debug not enabled!
+L 11/05/2022 - 15:41:32: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 11/05/2022 - 15:41:32: [FAKEMETA] Invalid entity -1
+L 11/05/2022 - 15:41:32: [AMXX] Run time error 10 (plugin "jbe_infinity.amxx") (native "get_pdata_int") - debug not enabled!
+L 11/05/2022 - 15:41:32: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 11/05/2022 - 15:41:32: [FAKEMETA] Invalid entity -1
+L 11/05/2022 - 15:41:32: [AMXX] Run time error 10 (plugin "jbe_infinity.amxx") (native "get_pdata_int") - debug not enabled!
+L 11/05/2022 - 15:41:32: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 11/05/2022 - 15:41:32: [FAKEMETA] Invalid entity -1
+L 11/05/2022 - 15:41:32: [AMXX] Run time error 10 (plugin "jbe_infinity.amxx") (native "get_pdata_int") - debug not enabled!
+L 11/05/2022 - 15:41:32: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 11/05/2022 - 15:41:32: [FAKEMETA] Invalid entity -1
+L 11/05/2022 - 15:41:32: [AMXX] Run time error 10 (plugin "jbe_infinity.amxx") (native "get_pdata_int") - debug not enabled!
+L 11/05/2022 - 15:41:32: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 11/05/2022 - 15:41:32: [FAKEMETA] Invalid entity -1
+L 11/05/2022 - 15:41:32: [AMXX] Run time error 10 (plugin "jbe_infinity.amxx") (native "get_pdata_int") - debug not enabled!
+L 11/05/2022 - 15:41:32: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 11/05/2022 - 15:41:32: [FAKEMETA] Invalid entity -1
+L 11/05/2022 - 15:41:32: [AMXX] Run time error 10 (plugin "jbe_infinity.amxx") (native "get_pdata_int") - debug not enabled!
+L 11/05/2022 - 15:41:32: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 11/05/2022 - 15:41:32: [FAKEMETA] Invalid entity -1
+L 11/05/2022 - 15:41:32: [AMXX] Run time error 10 (plugin "jbe_infinity.amxx") (native "get_pdata_int") - debug not enabled!
+L 11/05/2022 - 15:41:32: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 11/05/2022 - 15:41:32: [FAKEMETA] Invalid entity -1
+L 11/05/2022 - 15:41:32: [AMXX] Run time error 10 (plugin "jbe_infinity.amxx") (native "get_pdata_int") - debug not enabled!
+L 11/05/2022 - 15:41:32: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 11/05/2022 - 15:41:33: [FAKEMETA] Invalid entity -1
+L 11/05/2022 - 15:41:33: [AMXX] Run time error 10 (plugin "jbe_infinity.amxx") (native "get_pdata_int") - debug not enabled!
+L 11/05/2022 - 15:41:33: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 11/05/2022 - 15:41:33: [FAKEMETA] Invalid entity -1
+L 11/05/2022 - 15:41:33: [AMXX] Run time error 10 (plugin "jbe_infinity.amxx") (native "get_pdata_int") - debug not enabled!
+L 11/05/2022 - 15:41:33: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 11/05/2022 - 15:41:33: [FAKEMETA] Invalid entity -1
+L 11/05/2022 - 15:41:33: [AMXX] Run time error 10 (plugin "jbe_infinity.amxx") (native "get_pdata_int") - debug not enabled!
+L 11/05/2022 - 15:41:33: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 11/05/2022 - 15:41:33: [FAKEMETA] Invalid entity -1
+L 11/05/2022 - 15:41:33: [AMXX] Run time error 10 (plugin "jbe_infinity.amxx") (native "get_pdata_int") - debug not enabled!
+L 11/05/2022 - 15:41:33: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 11/05/2022 - 15:41:33: [FAKEMETA] Invalid entity -1
+L 11/05/2022 - 15:41:33: [AMXX] Run time error 10 (plugin "jbe_infinity.amxx") (native "get_pdata_int") - debug not enabled!
+L 11/05/2022 - 15:41:33: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 11/05/2022 - 15:41:33: [FAKEMETA] Invalid entity -1
+L 11/05/2022 - 15:41:33: [AMXX] Run time error 10 (plugin "jbe_infinity.amxx") (native "get_pdata_int") - debug not enabled!
+L 11/05/2022 - 15:41:33: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 11/05/2022 - 15:41:33: [FAKEMETA] Invalid entity -1
+L 11/05/2022 - 15:41:33: [AMXX] Run time error 10 (plugin "jbe_infinity.amxx") (native "get_pdata_int") - debug not enabled!
+L 11/05/2022 - 15:41:33: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 11/05/2022 - 15:41:33: [FAKEMETA] Invalid entity -1
+L 11/05/2022 - 15:41:33: [AMXX] Run time error 10 (plugin "jbe_infinity.amxx") (native "get_pdata_int") - debug not enabled!
+L 11/05/2022 - 15:41:33: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 11/05/2022 - 15:41:33: [FAKEMETA] Invalid entity -1
+L 11/05/2022 - 15:41:33: [AMXX] Run time error 10 (plugin "jbe_infinity.amxx") (native "get_pdata_int") - debug not enabled!
+L 11/05/2022 - 15:41:33: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 11/05/2022 - 15:41:33: [FAKEMETA] Invalid entity -1
+L 11/05/2022 - 15:41:33: [AMXX] Run time error 10 (plugin "jbe_infinity.amxx") (native "get_pdata_int") - debug not enabled!
+L 11/05/2022 - 15:41:33: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 11/05/2022 - 15:41:33: [FAKEMETA] Invalid entity -1
+L 11/05/2022 - 15:41:33: [AMXX] Run time error 10 (plugin "jbe_infinity.amxx") (native "get_pdata_int") - debug not enabled!
+L 11/05/2022 - 15:41:33: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 11/05/2022 - 15:41:33: [FAKEMETA] Invalid entity -1
+L 11/05/2022 - 15:41:33: [AMXX] Run time error 10 (plugin "jbe_infinity.amxx") (native "get_pdata_int") - debug not enabled!
+L 11/05/2022 - 15:41:33: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 11/05/2022 - 15:41:33: [FAKEMETA] Invalid entity -1
+L 11/05/2022 - 15:41:33: [AMXX] Run time error 10 (plugin "jbe_infinity.amxx") (native "get_pdata_int") - debug not enabled!
+L 11/05/2022 - 15:41:33: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 11/05/2022 - 15:41:33: [FAKEMETA] Invalid entity -1
+L 11/05/2022 - 15:41:33: [AMXX] Run time error 10 (plugin "jbe_infinity.amxx") (native "get_pdata_int") - debug not enabled!
+L 11/05/2022 - 15:41:33: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 11/05/2022 - 15:41:33: [FAKEMETA] Invalid entity -1
+L 11/05/2022 - 15:41:33: [AMXX] Run time error 10 (plugin "jbe_infinity.amxx") (native "get_pdata_int") - debug not enabled!
+L 11/05/2022 - 15:41:33: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 11/05/2022 - 15:41:33: [FAKEMETA] Invalid entity -1
+L 11/05/2022 - 15:41:33: [AMXX] Run time error 10 (plugin "jbe_infinity.amxx") (native "get_pdata_int") - debug not enabled!
+L 11/05/2022 - 15:41:33: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 11/05/2022 - 15:41:33: [FAKEMETA] Invalid entity -1
+L 11/05/2022 - 15:41:33: [AMXX] Run time error 10 (plugin "jbe_infinity.amxx") (native "get_pdata_int") - debug not enabled!
+L 11/05/2022 - 15:41:33: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 11/05/2022 - 15:41:33: [FAKEMETA] Invalid entity -1
+L 11/05/2022 - 15:41:33: [AMXX] Run time error 10 (plugin "jbe_infinity.amxx") (native "get_pdata_int") - debug not enabled!
+L 11/05/2022 - 15:41:33: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 11/05/2022 - 15:41:33: [FAKEMETA] Invalid entity -1
+L 11/05/2022 - 15:41:33: [AMXX] Run time error 10 (plugin "jbe_infinity.amxx") (native "get_pdata_int") - debug not enabled!
+L 11/05/2022 - 15:41:33: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 11/05/2022 - 15:41:33: [FAKEMETA] Invalid entity -1
+L 11/05/2022 - 15:41:33: [AMXX] Run time error 10 (plugin "jbe_infinity.amxx") (native "get_pdata_int") - debug not enabled!
+L 11/05/2022 - 15:41:33: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 11/05/2022 - 15:41:33: [FAKEMETA] Invalid entity -1
+L 11/05/2022 - 15:41:33: [AMXX] Run time error 10 (plugin "jbe_infinity.amxx") (native "get_pdata_int") - debug not enabled!
+L 11/05/2022 - 15:41:33: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 11/05/2022 - 15:41:33: [FAKEMETA] Invalid entity -1
+L 11/05/2022 - 15:41:33: [AMXX] Run time error 10 (plugin "jbe_infinity.amxx") (native "get_pdata_int") - debug not enabled!
+L 11/05/2022 - 15:41:33: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 11/05/2022 - 15:41:33: [FAKEMETA] Invalid entity -1
+L 11/05/2022 - 15:41:33: [AMXX] Run time error 10 (plugin "jbe_infinity.amxx") (native "get_pdata_int") - debug not enabled!
+L 11/05/2022 - 15:41:33: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 11/05/2022 - 15:41:33: [FAKEMETA] Invalid entity -1
+L 11/05/2022 - 15:41:33: [AMXX] Run time error 10 (plugin "jbe_infinity.amxx") (native "get_pdata_int") - debug not enabled!
+L 11/05/2022 - 15:41:33: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 11/05/2022 - 15:41:33: [FAKEMETA] Invalid entity -1
+L 11/05/2022 - 15:41:33: [AMXX] Run time error 10 (plugin "jbe_infinity.amxx") (native "get_pdata_int") - debug not enabled!
+L 11/05/2022 - 15:41:33: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 11/05/2022 - 15:41:33: [FAKEMETA] Invalid entity -1
+L 11/05/2022 - 15:41:33: [AMXX] Run time error 10 (plugin "jbe_infinity.amxx") (native "get_pdata_int") - debug not enabled!
+L 11/05/2022 - 15:41:33: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 11/05/2022 - 15:41:33: [FAKEMETA] Invalid entity -1
+L 11/05/2022 - 15:41:33: [AMXX] Run time error 10 (plugin "jbe_infinity.amxx") (native "get_pdata_int") - debug not enabled!
+L 11/05/2022 - 15:41:33: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 11/05/2022 - 15:41:33: [FAKEMETA] Invalid entity -1
+L 11/05/2022 - 15:41:33: [AMXX] Run time error 10 (plugin "jbe_infinity.amxx") (native "get_pdata_int") - debug not enabled!
+L 11/05/2022 - 15:41:33: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 11/05/2022 - 15:41:33: [FAKEMETA] Invalid entity -1
+L 11/05/2022 - 15:41:33: [AMXX] Run time error 10 (plugin "jbe_infinity.amxx") (native "get_pdata_int") - debug not enabled!
+L 11/05/2022 - 15:41:33: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 11/05/2022 - 15:41:33: [FAKEMETA] Invalid entity -1
+L 11/05/2022 - 15:41:33: [AMXX] Run time error 10 (plugin "jbe_infinity.amxx") (native "get_pdata_int") - debug not enabled!
+L 11/05/2022 - 15:41:33: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 11/05/2022 - 15:41:33: [FAKEMETA] Invalid entity -1
+L 11/05/2022 - 15:41:33: [AMXX] Run time error 10 (plugin "jbe_infinity.amxx") (native "get_pdata_int") - debug not enabled!
+L 11/05/2022 - 15:41:33: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 11/05/2022 - 15:41:33: [FAKEMETA] Invalid entity -1
+L 11/05/2022 - 15:41:33: [AMXX] Run time error 10 (plugin "jbe_infinity.amxx") (native "get_pdata_int") - debug not enabled!
+L 11/05/2022 - 15:41:33: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 11/05/2022 - 15:41:33: [FAKEMETA] Invalid entity -1
+L 11/05/2022 - 15:41:33: [AMXX] Run time error 10 (plugin "jbe_infinity.amxx") (native "get_pdata_int") - debug not enabled!
+L 11/05/2022 - 15:41:33: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 11/05/2022 - 15:41:33: [FAKEMETA] Invalid entity -1
+L 11/05/2022 - 15:41:33: [AMXX] Run time error 10 (plugin "jbe_infinity.amxx") (native "get_pdata_int") - debug not enabled!
+L 11/05/2022 - 15:41:33: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 11/05/2022 - 15:41:33: [FAKEMETA] Invalid entity -1
+L 11/05/2022 - 15:41:33: [AMXX] Run time error 10 (plugin "jbe_infinity.amxx") (native "get_pdata_int") - debug not enabled!
+L 11/05/2022 - 15:41:33: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 11/05/2022 - 15:41:33: [FAKEMETA] Invalid entity -1
+L 11/05/2022 - 15:41:33: [AMXX] Run time error 10 (plugin "jbe_infinity.amxx") (native "get_pdata_int") - debug not enabled!
+L 11/05/2022 - 15:41:33: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 11/05/2022 - 15:41:33: [FAKEMETA] Invalid entity -1
+L 11/05/2022 - 15:41:33: [AMXX] Run time error 10 (plugin "jbe_infinity.amxx") (native "get_pdata_int") - debug not enabled!
+L 11/05/2022 - 15:41:33: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 11/05/2022 - 15:41:33: [FAKEMETA] Invalid entity -1
+L 11/05/2022 - 15:41:33: [AMXX] Run time error 10 (plugin "jbe_infinity.amxx") (native "get_pdata_int") - debug not enabled!
+L 11/05/2022 - 15:41:33: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 11/05/2022 - 15:41:33: [FAKEMETA] Invalid entity -1
+L 11/05/2022 - 15:41:33: [AMXX] Run time error 10 (plugin "jbe_infinity.amxx") (native "get_pdata_int") - debug not enabled!
+L 11/05/2022 - 15:41:33: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 11/05/2022 - 15:41:33: [FAKEMETA] Invalid entity -1
+L 11/05/2022 - 15:41:33: [AMXX] Run time error 10 (plugin "jbe_infinity.amxx") (native "get_pdata_int") - debug not enabled!
+L 11/05/2022 - 15:41:33: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 11/05/2022 - 15:41:33: [FAKEMETA] Invalid entity -1
+L 11/05/2022 - 15:41:33: [AMXX] Run time error 10 (plugin "jbe_infinity.amxx") (native "get_pdata_int") - debug not enabled!
+L 11/05/2022 - 15:41:33: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 11/05/2022 - 15:41:33: [FAKEMETA] Invalid entity -1
+L 11/05/2022 - 15:41:33: [AMXX] Run time error 10 (plugin "jbe_infinity.amxx") (native "get_pdata_int") - debug not enabled!
+L 11/05/2022 - 15:41:33: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 11/05/2022 - 15:41:33: [FAKEMETA] Invalid entity -1
+L 11/05/2022 - 15:41:33: [AMXX] Run time error 10 (plugin "jbe_infinity.amxx") (native "get_pdata_int") - debug not enabled!
+L 11/05/2022 - 15:41:33: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 11/05/2022 - 15:41:33: [FAKEMETA] Invalid entity -1
+L 11/05/2022 - 15:41:33: [AMXX] Run time error 10 (plugin "jbe_infinity.amxx") (native "get_pdata_int") - debug not enabled!
+L 11/05/2022 - 15:41:33: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 11/05/2022 - 15:41:33: [FAKEMETA] Invalid entity -1
+L 11/05/2022 - 15:41:33: [AMXX] Run time error 10 (plugin "jbe_infinity.amxx") (native "get_pdata_int") - debug not enabled!
+L 11/05/2022 - 15:41:33: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 11/05/2022 - 15:41:33: [FAKEMETA] Invalid entity -1
+L 11/05/2022 - 15:41:33: [AMXX] Run time error 10 (plugin "jbe_infinity.amxx") (native "get_pdata_int") - debug not enabled!
+L 11/05/2022 - 15:41:33: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 11/05/2022 - 15:41:33: [FAKEMETA] Invalid entity -1
+L 11/05/2022 - 15:41:33: [AMXX] Run time error 10 (plugin "jbe_infinity.amxx") (native "get_pdata_int") - debug not enabled!
+L 11/05/2022 - 15:41:33: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 11/05/2022 - 15:41:33: [FAKEMETA] Invalid entity -1
+L 11/05/2022 - 15:41:33: [AMXX] Run time error 10 (plugin "jbe_infinity.amxx") (native "get_pdata_int") - debug not enabled!
+L 11/05/2022 - 15:41:33: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 11/05/2022 - 15:41:33: [FAKEMETA] Invalid entity -1
+L 11/05/2022 - 15:41:33: [AMXX] Run time error 10 (plugin "jbe_infinity.amxx") (native "get_pdata_int") - debug not enabled!
+L 11/05/2022 - 15:41:33: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 11/05/2022 - 15:41:33: [FAKEMETA] Invalid entity -1
+L 11/05/2022 - 15:41:33: [AMXX] Run time error 10 (plugin "jbe_infinity.amxx") (native "get_pdata_int") - debug not enabled!
+L 11/05/2022 - 15:41:33: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 11/05/2022 - 15:41:33: [FAKEMETA] Invalid entity -1
+L 11/05/2022 - 15:41:33: [AMXX] Run time error 10 (plugin "jbe_infinity.amxx") (native "get_pdata_int") - debug not enabled!
+L 11/05/2022 - 15:41:33: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 11/05/2022 - 15:41:33: [FAKEMETA] Invalid entity -1
+L 11/05/2022 - 15:41:33: [AMXX] Run time error 10 (plugin "jbe_infinity.amxx") (native "get_pdata_int") - debug not enabled!
+L 11/05/2022 - 15:41:33: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 11/05/2022 - 15:41:33: [FAKEMETA] Invalid entity -1
+L 11/05/2022 - 15:41:33: [AMXX] Run time error 10 (plugin "jbe_infinity.amxx") (native "get_pdata_int") - debug not enabled!
+L 11/05/2022 - 15:41:33: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 11/05/2022 - 15:41:33: [FAKEMETA] Invalid entity -1
+L 11/05/2022 - 15:41:33: [AMXX] Run time error 10 (plugin "jbe_infinity.amxx") (native "get_pdata_int") - debug not enabled!
+L 11/05/2022 - 15:41:33: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 11/05/2022 - 15:41:33: [FAKEMETA] Invalid entity -1
+L 11/05/2022 - 15:41:33: [AMXX] Run time error 10 (plugin "jbe_infinity.amxx") (native "get_pdata_int") - debug not enabled!
+L 11/05/2022 - 15:41:33: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 11/05/2022 - 15:41:33: [FAKEMETA] Invalid entity -1
+L 11/05/2022 - 15:41:33: [AMXX] Run time error 10 (plugin "jbe_infinity.amxx") (native "get_pdata_int") - debug not enabled!
+L 11/05/2022 - 15:41:33: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 11/05/2022 - 15:41:33: [FAKEMETA] Invalid entity -1
+L 11/05/2022 - 15:41:33: [AMXX] Run time error 10 (plugin "jbe_infinity.amxx") (native "get_pdata_int") - debug not enabled!
+L 11/05/2022 - 15:41:33: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 11/05/2022 - 15:41:33: [FAKEMETA] Invalid entity -1
+L 11/05/2022 - 15:41:33: [AMXX] Run time error 10 (plugin "jbe_infinity.amxx") (native "get_pdata_int") - debug not enabled!
+L 11/05/2022 - 15:41:33: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 11/05/2022 - 15:41:33: [FAKEMETA] Invalid entity -1
+L 11/05/2022 - 15:41:33: [AMXX] Run time error 10 (plugin "jbe_infinity.amxx") (native "get_pdata_int") - debug not enabled!
+L 11/05/2022 - 15:41:33: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 11/05/2022 - 15:41:33: [FAKEMETA] Invalid entity -1
+L 11/05/2022 - 15:41:33: [AMXX] Run time error 10 (plugin "jbe_infinity.amxx") (native "get_pdata_int") - debug not enabled!
+L 11/05/2022 - 15:41:33: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 11/05/2022 - 15:41:33: [FAKEMETA] Invalid entity -1
+L 11/05/2022 - 15:41:33: [AMXX] Run time error 10 (plugin "jbe_infinity.amxx") (native "get_pdata_int") - debug not enabled!
+L 11/05/2022 - 15:41:33: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 11/05/2022 - 15:41:34: [FAKEMETA] Invalid entity -1
+L 11/05/2022 - 15:41:34: [AMXX] Run time error 10 (plugin "jbe_infinity.amxx") (native "get_pdata_int") - debug not enabled!
+L 11/05/2022 - 15:41:34: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 11/05/2022 - 15:41:34: [FAKEMETA] Invalid entity -1
+L 11/05/2022 - 15:41:34: [AMXX] Run time error 10 (plugin "jbe_infinity.amxx") (native "get_pdata_int") - debug not enabled!
+L 11/05/2022 - 15:41:34: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 11/05/2022 - 15:41:34: [FAKEMETA] Invalid entity -1
+L 11/05/2022 - 15:41:34: [AMXX] Run time error 10 (plugin "jbe_infinity.amxx") (native "get_pdata_int") - debug not enabled!
+L 11/05/2022 - 15:41:34: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 11/05/2022 - 15:41:34: [FAKEMETA] Invalid entity -1
+L 11/05/2022 - 15:41:34: [AMXX] Run time error 10 (plugin "jbe_infinity.amxx") (native "get_pdata_int") - debug not enabled!
+L 11/05/2022 - 15:41:34: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 11/05/2022 - 15:41:34: [FAKEMETA] Invalid entity -1
+L 11/05/2022 - 15:41:34: [AMXX] Run time error 10 (plugin "jbe_infinity.amxx") (native "get_pdata_int") - debug not enabled!
+L 11/05/2022 - 15:41:34: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 11/05/2022 - 15:41:34: [FAKEMETA] Invalid entity -1
+L 11/05/2022 - 15:41:34: [AMXX] Run time error 10 (plugin "jbe_infinity.amxx") (native "get_pdata_int") - debug not enabled!
+L 11/05/2022 - 15:41:34: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 11/05/2022 - 15:41:34: [FAKEMETA] Invalid entity -1
+L 11/05/2022 - 15:41:34: [AMXX] Run time error 10 (plugin "jbe_infinity.amxx") (native "get_pdata_int") - debug not enabled!
+L 11/05/2022 - 15:41:34: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 11/05/2022 - 15:41:34: [FAKEMETA] Invalid entity -1
+L 11/05/2022 - 15:41:34: [AMXX] Run time error 10 (plugin "jbe_infinity.amxx") (native "get_pdata_int") - debug not enabled!
+L 11/05/2022 - 15:41:34: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 11/05/2022 - 15:41:34: [FAKEMETA] Invalid entity -1
+L 11/05/2022 - 15:41:34: [AMXX] Run time error 10 (plugin "jbe_infinity.amxx") (native "get_pdata_int") - debug not enabled!
+L 11/05/2022 - 15:41:34: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 11/05/2022 - 15:41:34: [FAKEMETA] Invalid entity -1
+L 11/05/2022 - 15:41:34: [AMXX] Run time error 10 (plugin "jbe_infinity.amxx") (native "get_pdata_int") - debug not enabled!
+L 11/05/2022 - 15:41:34: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 11/05/2022 - 15:41:34: [FAKEMETA] Invalid entity -1
+L 11/05/2022 - 15:41:34: [AMXX] Run time error 10 (plugin "jbe_infinity.amxx") (native "get_pdata_int") - debug not enabled!
+L 11/05/2022 - 15:41:34: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 11/05/2022 - 15:41:34: [FAKEMETA] Invalid entity -1
+L 11/05/2022 - 15:41:34: [AMXX] Run time error 10 (plugin "jbe_infinity.amxx") (native "get_pdata_int") - debug not enabled!
+L 11/05/2022 - 15:41:34: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 11/05/2022 - 15:41:34: [FAKEMETA] Invalid entity -1
+L 11/05/2022 - 15:41:34: [AMXX] Run time error 10 (plugin "jbe_infinity.amxx") (native "get_pdata_int") - debug not enabled!
+L 11/05/2022 - 15:41:34: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 11/05/2022 - 15:41:34: [FAKEMETA] Invalid entity -1
+L 11/05/2022 - 15:41:34: [AMXX] Run time error 10 (plugin "jbe_infinity.amxx") (native "get_pdata_int") - debug not enabled!
+L 11/05/2022 - 15:41:34: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 11/05/2022 - 15:41:34: [FAKEMETA] Invalid entity -1
+L 11/05/2022 - 15:41:34: [AMXX] Run time error 10 (plugin "jbe_infinity.amxx") (native "get_pdata_int") - debug not enabled!
+L 11/05/2022 - 15:41:34: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 11/05/2022 - 15:41:34: [FAKEMETA] Invalid entity -1
+L 11/05/2022 - 15:41:34: [AMXX] Run time error 10 (plugin "jbe_infinity.amxx") (native "get_pdata_int") - debug not enabled!
+L 11/05/2022 - 15:41:34: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 11/05/2022 - 15:41:34: [FAKEMETA] Invalid entity -1
+L 11/05/2022 - 15:41:34: [AMXX] Run time error 10 (plugin "jbe_infinity.amxx") (native "get_pdata_int") - debug not enabled!
+L 11/05/2022 - 15:41:34: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 11/05/2022 - 15:41:34: [FAKEMETA] Invalid entity -1
+L 11/05/2022 - 15:41:34: [AMXX] Run time error 10 (plugin "jbe_infinity.amxx") (native "get_pdata_int") - debug not enabled!
+L 11/05/2022 - 15:41:34: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 11/05/2022 - 15:41:34: [FAKEMETA] Invalid entity -1
+L 11/05/2022 - 15:41:34: [AMXX] Run time error 10 (plugin "jbe_infinity.amxx") (native "get_pdata_int") - debug not enabled!
+L 11/05/2022 - 15:41:34: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 11/05/2022 - 15:41:34: [FAKEMETA] Invalid entity -1
+L 11/05/2022 - 15:41:34: [AMXX] Run time error 10 (plugin "jbe_infinity.amxx") (native "get_pdata_int") - debug not enabled!
+L 11/05/2022 - 15:41:34: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 11/05/2022 - 15:41:34: [FAKEMETA] Invalid entity -1
+L 11/05/2022 - 15:41:34: [AMXX] Run time error 10 (plugin "jbe_infinity.amxx") (native "get_pdata_int") - debug not enabled!
+L 11/05/2022 - 15:41:34: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 11/05/2022 - 15:41:34: [FAKEMETA] Invalid entity -1
+L 11/05/2022 - 15:41:34: [AMXX] Run time error 10 (plugin "jbe_infinity.amxx") (native "get_pdata_int") - debug not enabled!
+L 11/05/2022 - 15:41:34: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 11/05/2022 - 15:41:34: [FAKEMETA] Invalid entity -1
+L 11/05/2022 - 15:41:34: [AMXX] Run time error 10 (plugin "jbe_infinity.amxx") (native "get_pdata_int") - debug not enabled!
+L 11/05/2022 - 15:41:34: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 11/05/2022 - 15:41:34: [FAKEMETA] Invalid entity -1
+L 11/05/2022 - 15:41:34: [AMXX] Run time error 10 (plugin "jbe_infinity.amxx") (native "get_pdata_int") - debug not enabled!
+L 11/05/2022 - 15:41:34: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 11/05/2022 - 15:41:34: [FAKEMETA] Invalid entity -1
+L 11/05/2022 - 15:41:34: [AMXX] Run time error 10 (plugin "jbe_infinity.amxx") (native "get_pdata_int") - debug not enabled!
+L 11/05/2022 - 15:41:34: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 11/05/2022 - 15:41:34: [FAKEMETA] Invalid entity -1
+L 11/05/2022 - 15:41:34: [AMXX] Run time error 10 (plugin "jbe_infinity.amxx") (native "get_pdata_int") - debug not enabled!
+L 11/05/2022 - 15:41:34: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 11/05/2022 - 15:41:34: [FAKEMETA] Invalid entity -1
+L 11/05/2022 - 15:41:34: [AMXX] Run time error 10 (plugin "jbe_infinity.amxx") (native "get_pdata_int") - debug not enabled!
+L 11/05/2022 - 15:41:34: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 11/05/2022 - 15:41:34: [FAKEMETA] Invalid entity -1
+L 11/05/2022 - 15:41:34: [AMXX] Run time error 10 (plugin "jbe_infinity.amxx") (native "get_pdata_int") - debug not enabled!
+L 11/05/2022 - 15:41:34: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 11/05/2022 - 15:41:34: [FAKEMETA] Invalid entity -1
+L 11/05/2022 - 15:41:34: [AMXX] Run time error 10 (plugin "jbe_infinity.amxx") (native "get_pdata_int") - debug not enabled!
+L 11/05/2022 - 15:41:34: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 11/05/2022 - 15:41:34: [FAKEMETA] Invalid entity -1
+L 11/05/2022 - 15:41:34: [AMXX] Run time error 10 (plugin "jbe_infinity.amxx") (native "get_pdata_int") - debug not enabled!
+L 11/05/2022 - 15:41:34: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 11/05/2022 - 15:41:34: [FAKEMETA] Invalid entity -1
+L 11/05/2022 - 15:41:34: [AMXX] Run time error 10 (plugin "jbe_infinity.amxx") (native "get_pdata_int") - debug not enabled!
+L 11/05/2022 - 15:41:34: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 11/05/2022 - 15:41:34: [FAKEMETA] Invalid entity -1
+L 11/05/2022 - 15:41:34: [AMXX] Run time error 10 (plugin "jbe_infinity.amxx") (native "get_pdata_int") - debug not enabled!
+L 11/05/2022 - 15:41:34: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 11/05/2022 - 15:41:34: [FAKEMETA] Invalid entity -1
+L 11/05/2022 - 15:41:34: [AMXX] Run time error 10 (plugin "jbe_infinity.amxx") (native "get_pdata_int") - debug not enabled!
+L 11/05/2022 - 15:41:34: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 11/05/2022 - 15:41:34: [FAKEMETA] Invalid entity -1
+L 11/05/2022 - 15:41:34: [AMXX] Run time error 10 (plugin "jbe_infinity.amxx") (native "get_pdata_int") - debug not enabled!
+L 11/05/2022 - 15:41:34: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 11/05/2022 - 15:41:34: [FAKEMETA] Invalid entity -1
+L 11/05/2022 - 15:41:34: [AMXX] Run time error 10 (plugin "jbe_infinity.amxx") (native "get_pdata_int") - debug not enabled!
+L 11/05/2022 - 15:41:34: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 11/05/2022 - 15:41:34: [FAKEMETA] Invalid entity -1
+L 11/05/2022 - 15:41:34: [AMXX] Run time error 10 (plugin "jbe_infinity.amxx") (native "get_pdata_int") - debug not enabled!
+L 11/05/2022 - 15:41:34: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 11/05/2022 - 15:41:34: [FAKEMETA] Invalid entity -1
+L 11/05/2022 - 15:41:34: [AMXX] Run time error 10 (plugin "jbe_infinity.amxx") (native "get_pdata_int") - debug not enabled!
+L 11/05/2022 - 15:41:34: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 11/05/2022 - 15:41:34: [FAKEMETA] Invalid entity -1
+L 11/05/2022 - 15:41:34: [AMXX] Run time error 10 (plugin "jbe_infinity.amxx") (native "get_pdata_int") - debug not enabled!
+L 11/05/2022 - 15:41:34: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 11/05/2022 - 15:41:34: [FAKEMETA] Invalid entity -1
+L 11/05/2022 - 15:41:34: [AMXX] Run time error 10 (plugin "jbe_infinity.amxx") (native "get_pdata_int") - debug not enabled!
+L 11/05/2022 - 15:41:34: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 11/05/2022 - 15:41:34: [FAKEMETA] Invalid entity -1
+L 11/05/2022 - 15:41:34: [AMXX] Run time error 10 (plugin "jbe_infinity.amxx") (native "get_pdata_int") - debug not enabled!
+L 11/05/2022 - 15:41:34: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 11/05/2022 - 15:41:34: [FAKEMETA] Invalid entity -1
+L 11/05/2022 - 15:41:34: [AMXX] Run time error 10 (plugin "jbe_infinity.amxx") (native "get_pdata_int") - debug not enabled!
+L 11/05/2022 - 15:41:34: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 11/05/2022 - 15:41:34: [FAKEMETA] Invalid entity -1
+L 11/05/2022 - 15:41:34: [AMXX] Run time error 10 (plugin "jbe_infinity.amxx") (native "get_pdata_int") - debug not enabled!
+L 11/05/2022 - 15:41:34: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 11/05/2022 - 15:41:34: [FAKEMETA] Invalid entity -1
+L 11/05/2022 - 15:41:34: [AMXX] Run time error 10 (plugin "jbe_infinity.amxx") (native "get_pdata_int") - debug not enabled!
+L 11/05/2022 - 15:41:34: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 11/05/2022 - 15:41:34: [FAKEMETA] Invalid entity -1
+L 11/05/2022 - 15:41:34: [AMXX] Run time error 10 (plugin "jbe_infinity.amxx") (native "get_pdata_int") - debug not enabled!
+L 11/05/2022 - 15:41:34: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 11/05/2022 - 15:41:34: [FAKEMETA] Invalid entity -1
+L 11/05/2022 - 15:41:34: [AMXX] Run time error 10 (plugin "jbe_infinity.amxx") (native "get_pdata_int") - debug not enabled!
+L 11/05/2022 - 15:41:34: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 11/05/2022 - 15:41:34: [FAKEMETA] Invalid entity -1
+L 11/05/2022 - 15:41:34: [AMXX] Run time error 10 (plugin "jbe_infinity.amxx") (native "get_pdata_int") - debug not enabled!
+L 11/05/2022 - 15:41:34: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 11/05/2022 - 15:41:34: [FAKEMETA] Invalid entity -1
+L 11/05/2022 - 15:41:34: [AMXX] Run time error 10 (plugin "jbe_infinity.amxx") (native "get_pdata_int") - debug not enabled!
+L 11/05/2022 - 15:41:34: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 11/05/2022 - 15:41:34: [FAKEMETA] Invalid entity -1
+L 11/05/2022 - 15:41:34: [AMXX] Run time error 10 (plugin "jbe_infinity.amxx") (native "get_pdata_int") - debug not enabled!
+L 11/05/2022 - 15:41:34: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 11/05/2022 - 15:41:34: [FAKEMETA] Invalid entity -1
+L 11/05/2022 - 15:41:34: [AMXX] Run time error 10 (plugin "jbe_infinity.amxx") (native "get_pdata_int") - debug not enabled!
+L 11/05/2022 - 15:41:34: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 11/05/2022 - 15:41:34: [FAKEMETA] Invalid entity -1
+L 11/05/2022 - 15:41:34: [AMXX] Run time error 10 (plugin "jbe_infinity.amxx") (native "get_pdata_int") - debug not enabled!
+L 11/05/2022 - 15:41:34: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 11/05/2022 - 15:41:34: [FAKEMETA] Invalid entity -1
+L 11/05/2022 - 15:41:34: [AMXX] Run time error 10 (plugin "jbe_infinity.amxx") (native "get_pdata_int") - debug not enabled!
+L 11/05/2022 - 15:41:34: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 11/05/2022 - 15:41:34: [FAKEMETA] Invalid entity -1
+L 11/05/2022 - 15:41:34: [AMXX] Run time error 10 (plugin "jbe_infinity.amxx") (native "get_pdata_int") - debug not enabled!
+L 11/05/2022 - 15:41:34: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 11/05/2022 - 15:41:34: [FAKEMETA] Invalid entity -1
+L 11/05/2022 - 15:41:34: [AMXX] Run time error 10 (plugin "jbe_infinity.amxx") (native "get_pdata_int") - debug not enabled!
+L 11/05/2022 - 15:41:34: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 11/05/2022 - 15:41:34: [FAKEMETA] Invalid entity -1
+L 11/05/2022 - 15:41:34: [AMXX] Run time error 10 (plugin "jbe_infinity.amxx") (native "get_pdata_int") - debug not enabled!
+L 11/05/2022 - 15:41:34: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 11/05/2022 - 15:41:34: [FAKEMETA] Invalid entity -1
+L 11/05/2022 - 15:41:34: [AMXX] Run time error 10 (plugin "jbe_infinity.amxx") (native "get_pdata_int") - debug not enabled!
+L 11/05/2022 - 15:41:34: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 11/05/2022 - 15:41:34: [FAKEMETA] Invalid entity -1
+L 11/05/2022 - 15:41:34: [AMXX] Run time error 10 (plugin "jbe_infinity.amxx") (native "get_pdata_int") - debug not enabled!
+L 11/05/2022 - 15:41:34: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 11/05/2022 - 15:41:34: [FAKEMETA] Invalid entity -1
+L 11/05/2022 - 15:41:34: [AMXX] Run time error 10 (plugin "jbe_infinity.amxx") (native "get_pdata_int") - debug not enabled!
+L 11/05/2022 - 15:41:34: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 11/05/2022 - 15:41:34: [FAKEMETA] Invalid entity -1
+L 11/05/2022 - 15:41:34: [AMXX] Run time error 10 (plugin "jbe_infinity.amxx") (native "get_pdata_int") - debug not enabled!
+L 11/05/2022 - 15:41:34: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 11/05/2022 - 15:41:34: [FAKEMETA] Invalid entity -1
+L 11/05/2022 - 15:41:34: [AMXX] Run time error 10 (plugin "jbe_infinity.amxx") (native "get_pdata_int") - debug not enabled!
+L 11/05/2022 - 15:41:34: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 11/05/2022 - 15:41:34: [FAKEMETA] Invalid entity -1
+L 11/05/2022 - 15:41:34: [AMXX] Run time error 10 (plugin "jbe_infinity.amxx") (native "get_pdata_int") - debug not enabled!
+L 11/05/2022 - 15:41:34: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 11/05/2022 - 15:41:35: [FAKEMETA] Invalid entity -1
+L 11/05/2022 - 15:41:35: [AMXX] Run time error 10 (plugin "jbe_infinity.amxx") (native "get_pdata_int") - debug not enabled!
+L 11/05/2022 - 15:41:35: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 11/05/2022 - 15:41:35: [FAKEMETA] Invalid entity -1
+L 11/05/2022 - 15:41:35: [AMXX] Run time error 10 (plugin "jbe_infinity.amxx") (native "get_pdata_int") - debug not enabled!
+L 11/05/2022 - 15:41:35: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 11/05/2022 - 15:41:35: [FAKEMETA] Invalid entity -1
+L 11/05/2022 - 15:41:35: [AMXX] Run time error 10 (plugin "jbe_infinity.amxx") (native "get_pdata_int") - debug not enabled!
+L 11/05/2022 - 15:41:35: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 11/05/2022 - 15:41:35: [FAKEMETA] Invalid entity -1
+L 11/05/2022 - 15:41:35: [AMXX] Run time error 10 (plugin "jbe_infinity.amxx") (native "get_pdata_int") - debug not enabled!
+L 11/05/2022 - 15:41:35: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 11/05/2022 - 15:41:35: [FAKEMETA] Invalid entity -1
+L 11/05/2022 - 15:41:35: [AMXX] Run time error 10 (plugin "jbe_infinity.amxx") (native "get_pdata_int") - debug not enabled!
+L 11/05/2022 - 15:41:35: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 11/05/2022 - 15:41:35: [FAKEMETA] Invalid entity -1
+L 11/05/2022 - 15:41:35: [AMXX] Run time error 10 (plugin "jbe_infinity.amxx") (native "get_pdata_int") - debug not enabled!
+L 11/05/2022 - 15:41:35: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 11/05/2022 - 15:41:35: [FAKEMETA] Invalid entity -1
+L 11/05/2022 - 15:41:35: [AMXX] Run time error 10 (plugin "jbe_infinity.amxx") (native "get_pdata_int") - debug not enabled!
+L 11/05/2022 - 15:41:35: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 11/05/2022 - 15:41:35: [FAKEMETA] Invalid entity -1
+L 11/05/2022 - 15:41:35: [AMXX] Run time error 10 (plugin "jbe_infinity.amxx") (native "get_pdata_int") - debug not enabled!
+L 11/05/2022 - 15:41:35: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 11/05/2022 - 15:41:35: [FAKEMETA] Invalid entity -1
+L 11/05/2022 - 15:41:35: [AMXX] Run time error 10 (plugin "jbe_infinity.amxx") (native "get_pdata_int") - debug not enabled!
+L 11/05/2022 - 15:41:35: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 11/05/2022 - 15:41:35: [FAKEMETA] Invalid entity -1
+L 11/05/2022 - 15:41:35: [AMXX] Run time error 10 (plugin "jbe_infinity.amxx") (native "get_pdata_int") - debug not enabled!
+L 11/05/2022 - 15:41:35: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 11/05/2022 - 15:41:35: [FAKEMETA] Invalid entity -1
+L 11/05/2022 - 15:41:35: [AMXX] Run time error 10 (plugin "jbe_infinity.amxx") (native "get_pdata_int") - debug not enabled!
+L 11/05/2022 - 15:41:35: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 11/05/2022 - 15:41:35: [FAKEMETA] Invalid entity -1
+L 11/05/2022 - 15:41:35: [AMXX] Run time error 10 (plugin "jbe_infinity.amxx") (native "get_pdata_int") - debug not enabled!
+L 11/05/2022 - 15:41:35: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 11/05/2022 - 15:41:35: [FAKEMETA] Invalid entity -1
+L 11/05/2022 - 15:41:35: [AMXX] Run time error 10 (plugin "jbe_infinity.amxx") (native "get_pdata_int") - debug not enabled!
+L 11/05/2022 - 15:41:35: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 11/05/2022 - 15:41:35: [FAKEMETA] Invalid entity -1
+L 11/05/2022 - 15:41:35: [AMXX] Run time error 10 (plugin "jbe_infinity.amxx") (native "get_pdata_int") - debug not enabled!
+L 11/05/2022 - 15:41:35: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 11/05/2022 - 15:41:35: [FAKEMETA] Invalid entity -1
+L 11/05/2022 - 15:41:35: [AMXX] Run time error 10 (plugin "jbe_infinity.amxx") (native "get_pdata_int") - debug not enabled!
+L 11/05/2022 - 15:41:35: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 11/05/2022 - 15:41:35: [FAKEMETA] Invalid entity -1
+L 11/05/2022 - 15:41:35: [AMXX] Run time error 10 (plugin "jbe_infinity.amxx") (native "get_pdata_int") - debug not enabled!
+L 11/05/2022 - 15:41:35: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 11/05/2022 - 15:41:35: [FAKEMETA] Invalid entity -1
+L 11/05/2022 - 15:41:35: [AMXX] Run time error 10 (plugin "jbe_infinity.amxx") (native "get_pdata_int") - debug not enabled!
+L 11/05/2022 - 15:41:35: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 11/05/2022 - 15:41:35: [FAKEMETA] Invalid entity -1
+L 11/05/2022 - 15:41:35: [AMXX] Run time error 10 (plugin "jbe_infinity.amxx") (native "get_pdata_int") - debug not enabled!
+L 11/05/2022 - 15:41:35: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 11/05/2022 - 15:41:35: [FAKEMETA] Invalid entity -1
+L 11/05/2022 - 15:41:35: [AMXX] Run time error 10 (plugin "jbe_infinity.amxx") (native "get_pdata_int") - debug not enabled!
+L 11/05/2022 - 15:41:35: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 11/05/2022 - 15:41:35: [FAKEMETA] Invalid entity -1
+L 11/05/2022 - 15:41:35: [AMXX] Run time error 10 (plugin "jbe_infinity.amxx") (native "get_pdata_int") - debug not enabled!
+L 11/05/2022 - 15:41:35: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 11/05/2022 - 15:41:35: [FAKEMETA] Invalid entity -1
+L 11/05/2022 - 15:41:35: [AMXX] Run time error 10 (plugin "jbe_infinity.amxx") (native "get_pdata_int") - debug not enabled!
+L 11/05/2022 - 15:41:35: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 11/05/2022 - 15:41:35: [FAKEMETA] Invalid entity -1
+L 11/05/2022 - 15:41:35: [AMXX] Run time error 10 (plugin "jbe_infinity.amxx") (native "get_pdata_int") - debug not enabled!
+L 11/05/2022 - 15:41:35: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 11/05/2022 - 15:41:35: [FAKEMETA] Invalid entity -1
+L 11/05/2022 - 15:41:35: [AMXX] Run time error 10 (plugin "jbe_infinity.amxx") (native "get_pdata_int") - debug not enabled!
+L 11/05/2022 - 15:41:35: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 11/05/2022 - 15:41:35: [FAKEMETA] Invalid entity -1
+L 11/05/2022 - 15:41:35: [AMXX] Run time error 10 (plugin "jbe_infinity.amxx") (native "get_pdata_int") - debug not enabled!
+L 11/05/2022 - 15:41:35: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 11/05/2022 - 15:41:35: [FAKEMETA] Invalid entity -1
+L 11/05/2022 - 15:41:35: [AMXX] Run time error 10 (plugin "jbe_infinity.amxx") (native "get_pdata_int") - debug not enabled!
+L 11/05/2022 - 15:41:35: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 11/05/2022 - 15:41:35: [FAKEMETA] Invalid entity -1
+L 11/05/2022 - 15:41:35: [AMXX] Run time error 10 (plugin "jbe_infinity.amxx") (native "get_pdata_int") - debug not enabled!
+L 11/05/2022 - 15:41:35: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 11/05/2022 - 15:41:35: [FAKEMETA] Invalid entity -1
+L 11/05/2022 - 15:41:35: [AMXX] Run time error 10 (plugin "jbe_infinity.amxx") (native "get_pdata_int") - debug not enabled!
+L 11/05/2022 - 15:41:35: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 11/05/2022 - 15:41:35: [FAKEMETA] Invalid entity -1
+L 11/05/2022 - 15:41:35: [AMXX] Run time error 10 (plugin "jbe_infinity.amxx") (native "get_pdata_int") - debug not enabled!
+L 11/05/2022 - 15:41:35: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 11/05/2022 - 15:41:35: [FAKEMETA] Invalid entity -1
+L 11/05/2022 - 15:41:35: [AMXX] Run time error 10 (plugin "jbe_infinity.amxx") (native "get_pdata_int") - debug not enabled!
+L 11/05/2022 - 15:41:35: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 11/05/2022 - 15:41:35: [FAKEMETA] Invalid entity -1
+L 11/05/2022 - 15:41:35: [AMXX] Run time error 10 (plugin "jbe_infinity.amxx") (native "get_pdata_int") - debug not enabled!
+L 11/05/2022 - 15:41:35: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 11/05/2022 - 15:41:35: [FAKEMETA] Invalid entity -1
+L 11/05/2022 - 15:41:35: [AMXX] Run time error 10 (plugin "jbe_infinity.amxx") (native "get_pdata_int") - debug not enabled!
+L 11/05/2022 - 15:41:35: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 11/05/2022 - 15:41:35: [FAKEMETA] Invalid entity -1
+L 11/05/2022 - 15:41:35: [AMXX] Run time error 10 (plugin "jbe_infinity.amxx") (native "get_pdata_int") - debug not enabled!
+L 11/05/2022 - 15:41:35: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 11/05/2022 - 15:41:35: [FAKEMETA] Invalid entity -1
+L 11/05/2022 - 15:41:35: [AMXX] Run time error 10 (plugin "jbe_infinity.amxx") (native "get_pdata_int") - debug not enabled!
+L 11/05/2022 - 15:41:35: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 11/05/2022 - 15:41:35: [FAKEMETA] Invalid entity -1
+L 11/05/2022 - 15:41:35: [AMXX] Run time error 10 (plugin "jbe_infinity.amxx") (native "get_pdata_int") - debug not enabled!
+L 11/05/2022 - 15:41:35: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 11/05/2022 - 15:41:35: [FAKEMETA] Invalid entity -1
+L 11/05/2022 - 15:41:35: [AMXX] Run time error 10 (plugin "jbe_infinity.amxx") (native "get_pdata_int") - debug not enabled!
+L 11/05/2022 - 15:41:35: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 11/05/2022 - 15:41:35: [FAKEMETA] Invalid entity -1
+L 11/05/2022 - 15:41:35: [AMXX] Run time error 10 (plugin "jbe_infinity.amxx") (native "get_pdata_int") - debug not enabled!
+L 11/05/2022 - 15:41:35: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 11/05/2022 - 15:41:35: [FAKEMETA] Invalid entity -1
+L 11/05/2022 - 15:41:35: [AMXX] Run time error 10 (plugin "jbe_infinity.amxx") (native "get_pdata_int") - debug not enabled!
+L 11/05/2022 - 15:41:35: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 11/05/2022 - 15:41:35: [FAKEMETA] Invalid entity -1
+L 11/05/2022 - 15:41:35: [AMXX] Run time error 10 (plugin "jbe_infinity.amxx") (native "get_pdata_int") - debug not enabled!
+L 11/05/2022 - 15:41:35: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 11/05/2022 - 15:41:35: [FAKEMETA] Invalid entity -1
+L 11/05/2022 - 15:41:35: [AMXX] Run time error 10 (plugin "jbe_infinity.amxx") (native "get_pdata_int") - debug not enabled!
+L 11/05/2022 - 15:41:35: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 11/05/2022 - 15:41:35: [FAKEMETA] Invalid entity -1
+L 11/05/2022 - 15:41:35: [AMXX] Run time error 10 (plugin "jbe_infinity.amxx") (native "get_pdata_int") - debug not enabled!
+L 11/05/2022 - 15:41:35: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 11/05/2022 - 15:41:35: [FAKEMETA] Invalid entity -1
+L 11/05/2022 - 15:41:35: [AMXX] Run time error 10 (plugin "jbe_infinity.amxx") (native "get_pdata_int") - debug not enabled!
+L 11/05/2022 - 15:41:35: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 11/05/2022 - 15:41:35: [FAKEMETA] Invalid entity -1
+L 11/05/2022 - 15:41:35: [AMXX] Run time error 10 (plugin "jbe_infinity.amxx") (native "get_pdata_int") - debug not enabled!
+L 11/05/2022 - 15:41:35: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 11/05/2022 - 15:41:35: [FAKEMETA] Invalid entity -1
+L 11/05/2022 - 15:41:35: [AMXX] Run time error 10 (plugin "jbe_infinity.amxx") (native "get_pdata_int") - debug not enabled!
+L 11/05/2022 - 15:41:35: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 11/05/2022 - 15:41:35: [FAKEMETA] Invalid entity -1
+L 11/05/2022 - 15:41:35: [AMXX] Run time error 10 (plugin "jbe_infinity.amxx") (native "get_pdata_int") - debug not enabled!
+L 11/05/2022 - 15:41:35: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 11/05/2022 - 15:41:35: [FAKEMETA] Invalid entity -1
+L 11/05/2022 - 15:41:35: [AMXX] Run time error 10 (plugin "jbe_infinity.amxx") (native "get_pdata_int") - debug not enabled!
+L 11/05/2022 - 15:41:35: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 11/05/2022 - 15:41:35: [FAKEMETA] Invalid entity -1
+L 11/05/2022 - 15:41:35: [AMXX] Run time error 10 (plugin "jbe_infinity.amxx") (native "get_pdata_int") - debug not enabled!
+L 11/05/2022 - 15:41:35: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 11/05/2022 - 15:41:35: [FAKEMETA] Invalid entity -1
+L 11/05/2022 - 15:41:35: [AMXX] Run time error 10 (plugin "jbe_infinity.amxx") (native "get_pdata_int") - debug not enabled!
+L 11/05/2022 - 15:41:35: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 11/05/2022 - 15:41:35: [FAKEMETA] Invalid entity -1
+L 11/05/2022 - 15:41:35: [AMXX] Run time error 10 (plugin "jbe_infinity.amxx") (native "get_pdata_int") - debug not enabled!
+L 11/05/2022 - 15:41:35: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 11/05/2022 - 15:41:35: [FAKEMETA] Invalid entity -1
+L 11/05/2022 - 15:41:35: [AMXX] Run time error 10 (plugin "jbe_infinity.amxx") (native "get_pdata_int") - debug not enabled!
+L 11/05/2022 - 15:41:35: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 11/05/2022 - 15:41:35: [FAKEMETA] Invalid entity -1
+L 11/05/2022 - 15:41:35: [AMXX] Run time error 10 (plugin "jbe_infinity.amxx") (native "get_pdata_int") - debug not enabled!
+L 11/05/2022 - 15:41:35: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 11/05/2022 - 15:41:35: [FAKEMETA] Invalid entity -1
+L 11/05/2022 - 15:41:35: [AMXX] Run time error 10 (plugin "jbe_infinity.amxx") (native "get_pdata_int") - debug not enabled!
+L 11/05/2022 - 15:41:35: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 11/05/2022 - 15:41:35: [FAKEMETA] Invalid entity -1
+L 11/05/2022 - 15:41:35: [AMXX] Run time error 10 (plugin "jbe_infinity.amxx") (native "get_pdata_int") - debug not enabled!
+L 11/05/2022 - 15:41:35: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 11/05/2022 - 15:41:35: [FAKEMETA] Invalid entity -1
+L 11/05/2022 - 15:41:35: [AMXX] Run time error 10 (plugin "jbe_infinity.amxx") (native "get_pdata_int") - debug not enabled!
+L 11/05/2022 - 15:41:35: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 11/05/2022 - 15:41:35: [FAKEMETA] Invalid entity -1
+L 11/05/2022 - 15:41:35: [AMXX] Run time error 10 (plugin "jbe_infinity.amxx") (native "get_pdata_int") - debug not enabled!
+L 11/05/2022 - 15:41:35: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 11/05/2022 - 15:41:35: [FAKEMETA] Invalid entity -1
+L 11/05/2022 - 15:41:35: [AMXX] Run time error 10 (plugin "jbe_infinity.amxx") (native "get_pdata_int") - debug not enabled!
+L 11/05/2022 - 15:41:35: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 11/05/2022 - 15:41:35: [FAKEMETA] Invalid entity -1
+L 11/05/2022 - 15:41:35: [AMXX] Run time error 10 (plugin "jbe_infinity.amxx") (native "get_pdata_int") - debug not enabled!
+L 11/05/2022 - 15:41:35: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 11/05/2022 - 15:41:35: [FAKEMETA] Invalid entity -1
+L 11/05/2022 - 15:41:35: [AMXX] Run time error 10 (plugin "jbe_infinity.amxx") (native "get_pdata_int") - debug not enabled!
+L 11/05/2022 - 15:41:35: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 11/05/2022 - 15:41:35: [FAKEMETA] Invalid entity -1
+L 11/05/2022 - 15:41:35: [AMXX] Run time error 10 (plugin "jbe_infinity.amxx") (native "get_pdata_int") - debug not enabled!
+L 11/05/2022 - 15:41:35: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 11/05/2022 - 15:41:35: [FAKEMETA] Invalid entity -1
+L 11/05/2022 - 15:41:35: [AMXX] Run time error 10 (plugin "jbe_infinity.amxx") (native "get_pdata_int") - debug not enabled!
+L 11/05/2022 - 15:41:35: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 11/05/2022 - 15:41:36: [FAKEMETA] Invalid entity -1
+L 11/05/2022 - 15:41:36: [AMXX] Run time error 10 (plugin "jbe_infinity.amxx") (native "get_pdata_int") - debug not enabled!
+L 11/05/2022 - 15:41:36: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 11/05/2022 - 15:41:36: [FAKEMETA] Invalid entity -1
+L 11/05/2022 - 15:41:36: [AMXX] Run time error 10 (plugin "jbe_infinity.amxx") (native "get_pdata_int") - debug not enabled!
+L 11/05/2022 - 15:41:36: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 11/05/2022 - 15:41:36: [FAKEMETA] Invalid entity -1
+L 11/05/2022 - 15:41:36: [AMXX] Run time error 10 (plugin "jbe_infinity.amxx") (native "get_pdata_int") - debug not enabled!
+L 11/05/2022 - 15:41:36: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 11/05/2022 - 15:41:36: [FAKEMETA] Invalid entity -1
+L 11/05/2022 - 15:41:36: [AMXX] Run time error 10 (plugin "jbe_infinity.amxx") (native "get_pdata_int") - debug not enabled!
+L 11/05/2022 - 15:41:36: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 11/05/2022 - 15:41:36: [FAKEMETA] Invalid entity -1
+L 11/05/2022 - 15:41:36: [AMXX] Run time error 10 (plugin "jbe_infinity.amxx") (native "get_pdata_int") - debug not enabled!
+L 11/05/2022 - 15:41:36: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 11/05/2022 - 15:41:36: [FAKEMETA] Invalid entity -1
+L 11/05/2022 - 15:41:36: [AMXX] Run time error 10 (plugin "jbe_infinity.amxx") (native "get_pdata_int") - debug not enabled!
+L 11/05/2022 - 15:41:36: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 11/05/2022 - 15:41:36: [FAKEMETA] Invalid entity -1
+L 11/05/2022 - 15:41:36: [AMXX] Run time error 10 (plugin "jbe_infinity.amxx") (native "get_pdata_int") - debug not enabled!
+L 11/05/2022 - 15:41:36: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 11/05/2022 - 15:41:36: [FAKEMETA] Invalid entity -1
+L 11/05/2022 - 15:41:36: [AMXX] Run time error 10 (plugin "jbe_infinity.amxx") (native "get_pdata_int") - debug not enabled!
+L 11/05/2022 - 15:41:36: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 11/05/2022 - 15:41:36: [FAKEMETA] Invalid entity -1
+L 11/05/2022 - 15:41:36: [AMXX] Run time error 10 (plugin "jbe_infinity.amxx") (native "get_pdata_int") - debug not enabled!
+L 11/05/2022 - 15:41:36: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 11/05/2022 - 15:41:36: [FAKEMETA] Invalid entity -1
+L 11/05/2022 - 15:41:36: [AMXX] Run time error 10 (plugin "jbe_infinity.amxx") (native "get_pdata_int") - debug not enabled!
+L 11/05/2022 - 15:41:36: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 11/05/2022 - 15:41:36: [FAKEMETA] Invalid entity -1
+L 11/05/2022 - 15:41:36: [AMXX] Run time error 10 (plugin "jbe_infinity.amxx") (native "get_pdata_int") - debug not enabled!
+L 11/05/2022 - 15:41:36: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 11/05/2022 - 15:41:36: [FAKEMETA] Invalid entity -1
+L 11/05/2022 - 15:41:36: [AMXX] Run time error 10 (plugin "jbe_infinity.amxx") (native "get_pdata_int") - debug not enabled!
+L 11/05/2022 - 15:41:36: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 11/05/2022 - 15:41:36: [FAKEMETA] Invalid entity -1
+L 11/05/2022 - 15:41:36: [AMXX] Run time error 10 (plugin "jbe_infinity.amxx") (native "get_pdata_int") - debug not enabled!
+L 11/05/2022 - 15:41:36: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 11/05/2022 - 15:41:36: [FAKEMETA] Invalid entity -1
+L 11/05/2022 - 15:41:36: [AMXX] Run time error 10 (plugin "jbe_infinity.amxx") (native "get_pdata_int") - debug not enabled!
+L 11/05/2022 - 15:41:36: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 11/05/2022 - 15:41:36: [FAKEMETA] Invalid entity -1
+L 11/05/2022 - 15:41:36: [AMXX] Run time error 10 (plugin "jbe_infinity.amxx") (native "get_pdata_int") - debug not enabled!
+L 11/05/2022 - 15:41:36: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 11/05/2022 - 15:41:36: [FAKEMETA] Invalid entity -1
+L 11/05/2022 - 15:41:36: [AMXX] Run time error 10 (plugin "jbe_infinity.amxx") (native "get_pdata_int") - debug not enabled!
+L 11/05/2022 - 15:41:36: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 11/05/2022 - 15:41:36: [FAKEMETA] Invalid entity -1
+L 11/05/2022 - 15:41:36: [AMXX] Run time error 10 (plugin "jbe_infinity.amxx") (native "get_pdata_int") - debug not enabled!
+L 11/05/2022 - 15:41:36: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 11/05/2022 - 15:41:36: [FAKEMETA] Invalid entity -1
+L 11/05/2022 - 15:41:36: [AMXX] Run time error 10 (plugin "jbe_infinity.amxx") (native "get_pdata_int") - debug not enabled!
+L 11/05/2022 - 15:41:36: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 11/05/2022 - 15:41:36: [FAKEMETA] Invalid entity -1
+L 11/05/2022 - 15:41:36: [AMXX] Run time error 10 (plugin "jbe_infinity.amxx") (native "get_pdata_int") - debug not enabled!
+L 11/05/2022 - 15:41:36: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 11/05/2022 - 15:41:36: [FAKEMETA] Invalid entity -1
+L 11/05/2022 - 15:41:36: [AMXX] Run time error 10 (plugin "jbe_infinity.amxx") (native "get_pdata_int") - debug not enabled!
+L 11/05/2022 - 15:41:36: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 11/05/2022 - 15:41:36: [FAKEMETA] Invalid entity -1
+L 11/05/2022 - 15:41:36: [AMXX] Run time error 10 (plugin "jbe_infinity.amxx") (native "get_pdata_int") - debug not enabled!
+L 11/05/2022 - 15:41:36: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 11/05/2022 - 15:41:36: [FAKEMETA] Invalid entity -1
+L 11/05/2022 - 15:41:36: [AMXX] Run time error 10 (plugin "jbe_infinity.amxx") (native "get_pdata_int") - debug not enabled!
+L 11/05/2022 - 15:41:36: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 11/05/2022 - 15:41:36: [FAKEMETA] Invalid entity -1
+L 11/05/2022 - 15:41:36: [AMXX] Run time error 10 (plugin "jbe_infinity.amxx") (native "get_pdata_int") - debug not enabled!
+L 11/05/2022 - 15:41:36: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 11/05/2022 - 15:41:36: [FAKEMETA] Invalid entity -1
+L 11/05/2022 - 15:41:36: [AMXX] Run time error 10 (plugin "jbe_infinity.amxx") (native "get_pdata_int") - debug not enabled!
+L 11/05/2022 - 15:41:36: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 11/05/2022 - 15:41:36: [FAKEMETA] Invalid entity -1
+L 11/05/2022 - 15:41:36: [AMXX] Run time error 10 (plugin "jbe_infinity.amxx") (native "get_pdata_int") - debug not enabled!
+L 11/05/2022 - 15:41:36: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 11/05/2022 - 15:41:36: [FAKEMETA] Invalid entity -1
+L 11/05/2022 - 15:41:36: [AMXX] Run time error 10 (plugin "jbe_infinity.amxx") (native "get_pdata_int") - debug not enabled!
+L 11/05/2022 - 15:41:36: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 11/05/2022 - 15:41:36: [FAKEMETA] Invalid entity -1
+L 11/05/2022 - 15:41:36: [AMXX] Run time error 10 (plugin "jbe_infinity.amxx") (native "get_pdata_int") - debug not enabled!
+L 11/05/2022 - 15:41:36: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 11/05/2022 - 15:41:36: [FAKEMETA] Invalid entity -1
+L 11/05/2022 - 15:41:36: [AMXX] Run time error 10 (plugin "jbe_infinity.amxx") (native "get_pdata_int") - debug not enabled!
+L 11/05/2022 - 15:41:36: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 11/05/2022 - 15:41:36: [FAKEMETA] Invalid entity -1
+L 11/05/2022 - 15:41:36: [AMXX] Run time error 10 (plugin "jbe_infinity.amxx") (native "get_pdata_int") - debug not enabled!
+L 11/05/2022 - 15:41:36: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 11/05/2022 - 15:41:36: [FAKEMETA] Invalid entity -1
+L 11/05/2022 - 15:41:36: [AMXX] Run time error 10 (plugin "jbe_infinity.amxx") (native "get_pdata_int") - debug not enabled!
+L 11/05/2022 - 15:41:36: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 11/05/2022 - 15:41:36: [FAKEMETA] Invalid entity -1
+L 11/05/2022 - 15:41:36: [AMXX] Run time error 10 (plugin "jbe_infinity.amxx") (native "get_pdata_int") - debug not enabled!
+L 11/05/2022 - 15:41:36: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 11/05/2022 - 15:41:36: [FAKEMETA] Invalid entity -1
+L 11/05/2022 - 15:41:36: [AMXX] Run time error 10 (plugin "jbe_infinity.amxx") (native "get_pdata_int") - debug not enabled!
+L 11/05/2022 - 15:41:36: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 11/05/2022 - 15:53:23: [AMXX] Run time error 4 (plugin "skill_updater.amxx") - debug not enabled!
+L 11/05/2022 - 15:53:23: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 11/05/2022 - 15:53:23: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/05/2022 - 15:53:23: [AMXX] Run time error 4: index out of bounds 
+L 11/05/2022 - 15:53:23: [AMXX]    [0] jbe_core.sma::Ham_TakeDamage_Player (line 15416)
+L 11/05/2022 - 15:53:23: [AMXX] Displaying debug trace (plugin "jbe_legend.amxx", version "1.0")
+L 11/05/2022 - 15:53:23: [AMXX] Run time error 4: index out of bounds 
+L 11/05/2022 - 15:53:23: [AMXX]    [0] jbe_legend.sma::func_TakeDamage (line 697)
+L 11/05/2022 - 15:55:25: Start of error session.
+L 11/05/2022 - 15:55:25: Info (map "jaiI_xmf_v2") (file "addons/amxmodx/logs/error_20221105.log")
+L 11/05/2022 - 15:55:25: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/05/2022 - 15:55:25: [AMXX] Run time error 5: memory access 
+L 11/05/2022 - 15:55:25: [AMXX]    [0] jbe_core.sma::SQL_Handler (line 2335)
+L 11/05/2022 - 16:29:14: Start of error session.
+L 11/05/2022 - 16:29:14: Info (map "jail_czone") (file "addons/amxmodx/logs/error_20221105.log")
+L 11/05/2022 - 16:29:14: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/05/2022 - 16:29:14: [AMXX] Run time error 5: memory access 
+L 11/05/2022 - 16:29:14: [AMXX]    [0] jbe_core.sma::SQL_Handler (line 2335)
+L 11/05/2022 - 17:30:51: Start of error session.
+L 11/05/2022 - 17:30:51: Info (map "jail_buyuklise") (file "addons/amxmodx/logs/error_20221105.log")
+L 11/05/2022 - 17:30:51: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/05/2022 - 17:30:51: [AMXX] Run time error 4: index out of bounds 
+L 11/05/2022 - 17:30:51: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/05/2022 - 17:30:51: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/05/2022 - 17:30:51: [AMXX] Run time error 4: index out of bounds 
+L 11/05/2022 - 17:30:51: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/05/2022 - 17:30:51: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/05/2022 - 17:30:51: [AMXX] Run time error 4: index out of bounds 
+L 11/05/2022 - 17:30:51: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/05/2022 - 17:30:51: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/05/2022 - 17:30:51: [AMXX] Run time error 4: index out of bounds 
+L 11/05/2022 - 17:30:51: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/05/2022 - 17:30:51: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/05/2022 - 17:30:51: [AMXX] Run time error 4: index out of bounds 
+L 11/05/2022 - 17:30:51: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/05/2022 - 17:30:51: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/05/2022 - 17:30:51: [AMXX] Run time error 4: index out of bounds 
+L 11/05/2022 - 17:30:51: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/05/2022 - 17:30:51: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/05/2022 - 17:30:51: [AMXX] Run time error 4: index out of bounds 
+L 11/05/2022 - 17:30:51: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/05/2022 - 17:30:51: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/05/2022 - 17:30:51: [AMXX] Run time error 4: index out of bounds 
+L 11/05/2022 - 17:30:51: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/05/2022 - 17:30:51: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/05/2022 - 17:30:51: [AMXX] Run time error 4: index out of bounds 
+L 11/05/2022 - 17:30:51: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/05/2022 - 17:30:51: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/05/2022 - 17:30:51: [AMXX] Run time error 4: index out of bounds 
+L 11/05/2022 - 17:30:51: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/05/2022 - 17:30:51: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/05/2022 - 17:30:51: [AMXX] Run time error 4: index out of bounds 
+L 11/05/2022 - 17:30:51: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/05/2022 - 17:30:51: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/05/2022 - 17:30:51: [AMXX] Run time error 4: index out of bounds 
+L 11/05/2022 - 17:30:51: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/05/2022 - 17:30:51: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/05/2022 - 17:30:51: [AMXX] Run time error 4: index out of bounds 
+L 11/05/2022 - 17:30:51: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/05/2022 - 17:30:51: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/05/2022 - 17:30:51: [AMXX] Run time error 4: index out of bounds 
+L 11/05/2022 - 17:30:51: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/05/2022 - 17:30:51: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/05/2022 - 17:30:51: [AMXX] Run time error 4: index out of bounds 
+L 11/05/2022 - 17:30:51: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/05/2022 - 17:30:51: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/05/2022 - 17:30:51: [AMXX] Run time error 4: index out of bounds 
+L 11/05/2022 - 17:30:51: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/05/2022 - 17:30:51: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/05/2022 - 17:30:51: [AMXX] Run time error 4: index out of bounds 
+L 11/05/2022 - 17:30:51: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/05/2022 - 17:30:51: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/05/2022 - 17:30:51: [AMXX] Run time error 4: index out of bounds 
+L 11/05/2022 - 17:30:51: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/05/2022 - 17:30:51: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/05/2022 - 17:30:51: [AMXX] Run time error 4: index out of bounds 
+L 11/05/2022 - 17:30:51: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/05/2022 - 17:30:51: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/05/2022 - 17:30:51: [AMXX] Run time error 4: index out of bounds 
+L 11/05/2022 - 17:30:51: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/05/2022 - 17:30:51: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/05/2022 - 17:30:51: [AMXX] Run time error 4: index out of bounds 
+L 11/05/2022 - 17:30:51: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/05/2022 - 17:30:51: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/05/2022 - 17:30:51: [AMXX] Run time error 4: index out of bounds 
+L 11/05/2022 - 17:30:51: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/05/2022 - 17:30:51: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/05/2022 - 17:30:51: [AMXX] Run time error 4: index out of bounds 
+L 11/05/2022 - 17:30:51: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/05/2022 - 17:30:51: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/05/2022 - 17:30:51: [AMXX] Run time error 4: index out of bounds 
+L 11/05/2022 - 17:30:51: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/05/2022 - 17:30:51: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/05/2022 - 17:30:51: [AMXX] Run time error 4: index out of bounds 
+L 11/05/2022 - 17:30:51: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/05/2022 - 17:30:51: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/05/2022 - 17:30:51: [AMXX] Run time error 4: index out of bounds 
+L 11/05/2022 - 17:30:51: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/05/2022 - 17:30:51: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/05/2022 - 17:30:51: [AMXX] Run time error 4: index out of bounds 
+L 11/05/2022 - 17:30:51: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/05/2022 - 17:30:51: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/05/2022 - 17:30:51: [AMXX] Run time error 4: index out of bounds 
+L 11/05/2022 - 17:30:51: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/05/2022 - 17:30:51: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/05/2022 - 17:30:51: [AMXX] Run time error 4: index out of bounds 
+L 11/05/2022 - 17:30:51: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/05/2022 - 17:30:51: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/05/2022 - 17:30:51: [AMXX] Run time error 4: index out of bounds 
+L 11/05/2022 - 17:30:51: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/05/2022 - 17:30:51: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/05/2022 - 17:30:51: [AMXX] Run time error 4: index out of bounds 
+L 11/05/2022 - 17:30:51: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/05/2022 - 17:30:51: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/05/2022 - 17:30:51: [AMXX] Run time error 4: index out of bounds 
+L 11/05/2022 - 17:30:51: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/05/2022 - 17:30:51: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/05/2022 - 17:30:51: [AMXX] Run time error 4: index out of bounds 
+L 11/05/2022 - 17:30:51: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/05/2022 - 17:30:51: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/05/2022 - 17:30:51: [AMXX] Run time error 4: index out of bounds 
+L 11/05/2022 - 17:30:51: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/05/2022 - 17:30:51: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/05/2022 - 17:30:51: [AMXX] Run time error 4: index out of bounds 
+L 11/05/2022 - 17:30:51: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/05/2022 - 17:30:51: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/05/2022 - 17:30:51: [AMXX] Run time error 4: index out of bounds 
+L 11/05/2022 - 17:30:51: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/05/2022 - 17:30:51: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/05/2022 - 17:30:51: [AMXX] Run time error 4: index out of bounds 
+L 11/05/2022 - 17:30:51: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/05/2022 - 17:30:51: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/05/2022 - 17:30:51: [AMXX] Run time error 4: index out of bounds 
+L 11/05/2022 - 17:30:51: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/05/2022 - 17:30:51: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/05/2022 - 17:30:51: [AMXX] Run time error 4: index out of bounds 
+L 11/05/2022 - 17:30:51: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/05/2022 - 17:30:51: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/05/2022 - 17:30:51: [AMXX] Run time error 4: index out of bounds 
+L 11/05/2022 - 17:30:51: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/05/2022 - 17:30:51: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/05/2022 - 17:30:51: [AMXX] Run time error 4: index out of bounds 
+L 11/05/2022 - 17:30:51: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/05/2022 - 17:30:51: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/05/2022 - 17:30:51: [AMXX] Run time error 4: index out of bounds 
+L 11/05/2022 - 17:30:51: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/05/2022 - 17:30:51: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/05/2022 - 17:30:51: [AMXX] Run time error 4: index out of bounds 
+L 11/05/2022 - 17:30:51: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/05/2022 - 17:30:51: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/05/2022 - 17:30:51: [AMXX] Run time error 4: index out of bounds 
+L 11/05/2022 - 17:30:51: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/05/2022 - 17:30:51: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/05/2022 - 17:30:51: [AMXX] Run time error 4: index out of bounds 
+L 11/05/2022 - 17:30:51: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/05/2022 - 17:30:51: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/05/2022 - 17:30:51: [AMXX] Run time error 4: index out of bounds 
+L 11/05/2022 - 17:30:51: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/05/2022 - 17:30:51: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/05/2022 - 17:30:51: [AMXX] Run time error 4: index out of bounds 
+L 11/05/2022 - 17:30:51: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/05/2022 - 17:30:51: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/05/2022 - 17:30:51: [AMXX] Run time error 4: index out of bounds 
+L 11/05/2022 - 17:30:51: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/05/2022 - 17:30:51: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/05/2022 - 17:30:51: [AMXX] Run time error 4: index out of bounds 
+L 11/05/2022 - 17:30:51: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/05/2022 - 17:30:51: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/05/2022 - 17:30:51: [AMXX] Run time error 4: index out of bounds 
+L 11/05/2022 - 17:30:51: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/05/2022 - 17:30:51: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/05/2022 - 17:30:51: [AMXX] Run time error 4: index out of bounds 
+L 11/05/2022 - 17:30:51: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/05/2022 - 17:30:51: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/05/2022 - 17:30:51: [AMXX] Run time error 4: index out of bounds 
+L 11/05/2022 - 17:30:51: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/05/2022 - 17:30:51: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/05/2022 - 17:30:51: [AMXX] Run time error 4: index out of bounds 
+L 11/05/2022 - 17:30:51: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/05/2022 - 17:30:51: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/05/2022 - 17:30:51: [AMXX] Run time error 4: index out of bounds 
+L 11/05/2022 - 17:30:51: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/05/2022 - 17:30:51: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/05/2022 - 17:30:51: [AMXX] Run time error 4: index out of bounds 
+L 11/05/2022 - 17:30:51: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/05/2022 - 17:30:51: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/05/2022 - 17:30:51: [AMXX] Run time error 4: index out of bounds 
+L 11/05/2022 - 17:30:51: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/05/2022 - 17:30:51: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/05/2022 - 17:30:51: [AMXX] Run time error 4: index out of bounds 
+L 11/05/2022 - 17:30:51: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/05/2022 - 17:30:51: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/05/2022 - 17:30:51: [AMXX] Run time error 4: index out of bounds 
+L 11/05/2022 - 17:30:51: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/05/2022 - 17:30:51: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/05/2022 - 17:30:51: [AMXX] Run time error 4: index out of bounds 
+L 11/05/2022 - 17:30:51: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/05/2022 - 17:30:51: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/05/2022 - 17:30:51: [AMXX] Run time error 4: index out of bounds 
+L 11/05/2022 - 17:30:51: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/05/2022 - 17:30:51: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/05/2022 - 17:30:51: [AMXX] Run time error 4: index out of bounds 
+L 11/05/2022 - 17:30:51: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/05/2022 - 17:30:51: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/05/2022 - 17:30:51: [AMXX] Run time error 4: index out of bounds 
+L 11/05/2022 - 17:30:51: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/05/2022 - 17:30:51: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/05/2022 - 17:30:51: [AMXX] Run time error 4: index out of bounds 
+L 11/05/2022 - 17:30:51: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/05/2022 - 17:30:51: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/05/2022 - 17:30:51: [AMXX] Run time error 4: index out of bounds 
+L 11/05/2022 - 17:30:51: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/05/2022 - 17:30:51: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/05/2022 - 17:30:51: [AMXX] Run time error 4: index out of bounds 
+L 11/05/2022 - 17:30:51: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/05/2022 - 17:30:51: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/05/2022 - 17:30:51: [AMXX] Run time error 4: index out of bounds 
+L 11/05/2022 - 17:30:51: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/05/2022 - 17:30:51: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/05/2022 - 17:30:51: [AMXX] Run time error 4: index out of bounds 
+L 11/05/2022 - 17:30:51: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/05/2022 - 17:30:51: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/05/2022 - 17:30:51: [AMXX] Run time error 4: index out of bounds 
+L 11/05/2022 - 17:30:51: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/05/2022 - 17:30:51: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/05/2022 - 17:30:51: [AMXX] Run time error 4: index out of bounds 
+L 11/05/2022 - 17:30:51: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/05/2022 - 17:30:51: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/05/2022 - 17:30:51: [AMXX] Run time error 4: index out of bounds 
+L 11/05/2022 - 17:30:51: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/05/2022 - 17:30:51: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/05/2022 - 17:30:51: [AMXX] Run time error 4: index out of bounds 
+L 11/05/2022 - 17:30:51: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/05/2022 - 17:30:51: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/05/2022 - 17:30:51: [AMXX] Run time error 4: index out of bounds 
+L 11/05/2022 - 17:30:51: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/05/2022 - 17:30:51: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/05/2022 - 17:30:51: [AMXX] Run time error 5: memory access 
+L 11/05/2022 - 17:30:51: [AMXX]    [0] jbe_core.sma::SQL_Handler (line 2335)
+L 11/05/2022 - 18:40:41: Start of error session.
+L 11/05/2022 - 18:40:41: Info (map "jail_reset_v2") (file "addons/amxmodx/logs/error_20221105.log")
+L 11/05/2022 - 18:40:41: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/05/2022 - 18:40:41: [AMXX] Run time error 5: memory access 
+L 11/05/2022 - 18:40:41: [AMXX]    [0] jbe_core.sma::SQL_Handler (line 2335)
+L 11/05/2022 - 19:44:49: Start of error session.
+L 11/05/2022 - 19:44:49: Info (map "jail_buyukinfaz") (file "addons/amxmodx/logs/error_20221105.log")
+L 11/05/2022 - 19:44:49: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/05/2022 - 19:44:49: [AMXX] Run time error 5: memory access 
+L 11/05/2022 - 19:44:49: [AMXX]    [0] jbe_core.sma::SQL_Handler (line 2335)
+L 11/05/2022 - 20:44:32: Start of error session.
+L 11/05/2022 - 20:44:32: Info (map "jail_alayinaisyan_b5") (file "addons/amxmodx/logs/error_20221105.log")
+L 11/05/2022 - 20:44:32: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/05/2022 - 20:44:32: [AMXX] Run time error 4: index out of bounds 
+L 11/05/2022 - 20:44:32: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/05/2022 - 20:44:32: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/05/2022 - 20:44:32: [AMXX] Run time error 4: index out of bounds 
+L 11/05/2022 - 20:44:32: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/05/2022 - 20:44:33: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/05/2022 - 20:44:33: [AMXX] Run time error 5: memory access 
+L 11/05/2022 - 20:44:33: [AMXX]    [0] jbe_core.sma::SQL_Handler (line 2335)
+L 11/05/2022 - 21:32:13: Start of error session.
+L 11/05/2022 - 21:32:13: Info (map "jb_mini") (file "addons/amxmodx/logs/error_20221105.log")
+L 11/05/2022 - 21:32:13: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/05/2022 - 21:32:13: [AMXX] Run time error 5: memory access 
+L 11/05/2022 - 21:32:13: [AMXX]    [0] jbe_core.sma::SQL_Handler (line 2335)
+L 11/05/2022 - 22:29:05: Start of error session.
+L 11/05/2022 - 22:29:05: Info (map "jail_alayinaisyan_b5") (file "addons/amxmodx/logs/error_20221105.log")
+L 11/05/2022 - 22:29:05: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/05/2022 - 22:29:05: [AMXX] Run time error 4: index out of bounds 
+L 11/05/2022 - 22:29:05: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/05/2022 - 22:29:05: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/05/2022 - 22:29:05: [AMXX] Run time error 4: index out of bounds 
+L 11/05/2022 - 22:29:05: [AMXX]    [0] jbe_core.sma::HamHook_TouchWeapon (line 15011)
+L 11/05/2022 - 22:29:05: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/05/2022 - 22:29:05: [AMXX] Run time error 5: memory access 
+L 11/05/2022 - 22:29:05: [AMXX]    [0] jbe_core.sma::SQL_Handler (line 2335)
+L 11/05/2022 - 23:25:57: Start of error session.
+L 11/05/2022 - 23:25:57: Info (map "jail_reset_v2") (file "addons/amxmodx/logs/error_20221105.log")
+L 11/05/2022 - 23:25:57: [AMXX] Displaying debug trace (plugin "jbe_core.amxx", version "1.0")
+L 11/05/2022 - 23:25:57: [AMXX] Run time error 5: memory access 
+L 11/05/2022 - 23:25:57: [AMXX]    [0] jbe_core.sma::SQL_Handler (line 2335)

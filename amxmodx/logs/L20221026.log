@@ -1,0 +1,492 @@
+L 10/26/2022 - 00:19:46: [lite_mapchooser.amxx] Vote: Voting for the nextmap started
+L 10/26/2022 - 00:19:56: [lite_mapchooser.amxx] [End VoteMap] Nobody voted for the nextmap. Random map jb_mini
+L 10/26/2022 - 00:19:59: -------- Mapchange to jb_mini --------
+L 10/26/2022 - 00:20:01: [gamecms_api.amxx] Reading GameCMS settings file... OK
+L 10/26/2022 - 00:20:01: [AMXX] Failed to open dictionary file: cstrike/addons/amxmodx/data/lang/jb_blockct.txt
+L 10/26/2022 - 00:20:01: [AdminsOnline.amxx] Файл addons/amxmodx/configs/AO/AO_26_10_2022.txt успешно создан!
+L 10/26/2022 - 00:20:01: [gamecms_api.amxx] Connection to the GameCMS database is established
+L 10/26/2022 - 00:20:01: [gamecms_api.amxx] "58" services was 'Loaded' from database. Total on server: "58" services.
+L 10/26/2022 - 00:20:02: [pluginmenu.amxx] Can't add menu item "Plugin Cvars" from plugin "pluginmenu.amxx" to menu set because the Menus Front-End plugin itself is not loaded!
+L 10/26/2022 - 00:20:02: [pluginmenu.amxx] Can't add menu item "Plugin Commands" from plugin "pluginmenu.amxx" to menu set because the Menus Front-End plugin itself is not loaded!
+L 10/26/2022 - 00:20:21: [gamecms_api.amxx] Authentication... "<maxik><STEAM_1:0:58613925>" (Account name "maxik" / Admin index "24") (Service flags "gstmcphufeqojwdt") (Service name "Анти граб* + Интеллектуал + Опер + Адм")
+L 10/26/2022 - 00:20:24: [gamecms_api.amxx] Authentication... "<maxik><STEAM_1:0:58613925>" (Account name "maxik" / Admin index "24") (Service flags "gstmcphufeqojwdt") (Service name "Анти граб* + Интеллектуал + Опер + Адм")
+L 10/26/2022 - 00:35:39: [amx_gag.amxx] Gag: "maxik<STEAM_1:0:58613925>" has gagged "KuSka_KuPIla_BiskaS<STEAM_1:1:417712716>" for 1 minute. (say / say_team / voicecomm)
+L 10/26/2022 - 01:18:05: -------- Mapchange to jail_alayinaisyan_b5 --------
+L 10/26/2022 - 01:18:07: [gamecms_api.amxx] Reading GameCMS settings file... OK
+L 10/26/2022 - 01:18:07: [AMXX] Failed to open dictionary file: cstrike/addons/amxmodx/data/lang/jb_blockct.txt
+L 10/26/2022 - 01:18:07: [gamecms_api.amxx] Connection to the GameCMS database is established
+L 10/26/2022 - 01:18:07: [gamecms_api.amxx] "58" services was 'Loaded' from database. Total on server: "58" services.
+L 10/26/2022 - 01:18:07: [pluginmenu.amxx] Can't add menu item "Plugin Cvars" from plugin "pluginmenu.amxx" to menu set because the Menus Front-End plugin itself is not loaded!
+L 10/26/2022 - 01:18:07: [pluginmenu.amxx] Can't add menu item "Plugin Commands" from plugin "pluginmenu.amxx" to menu set because the Menus Front-End plugin itself is not loaded!
+L 10/26/2022 - 02:16:10: -------- Mapchange to jail_reset_v2 --------
+L 10/26/2022 - 02:16:11: [gamecms_api.amxx] Reading GameCMS settings file... OK
+L 10/26/2022 - 02:16:11: [AMXX] Failed to open dictionary file: cstrike/addons/amxmodx/data/lang/jb_blockct.txt
+L 10/26/2022 - 02:16:11: [gamecms_api.amxx] Connection to the GameCMS database is established
+L 10/26/2022 - 02:16:11: [gamecms_api.amxx] "58" services was 'Loaded' from database. Total on server: "58" services.
+L 10/26/2022 - 02:16:12: [pluginmenu.amxx] Can't add menu item "Plugin Cvars" from plugin "pluginmenu.amxx" to menu set because the Menus Front-End plugin itself is not loaded!
+L 10/26/2022 - 02:16:12: [pluginmenu.amxx] Can't add menu item "Plugin Commands" from plugin "pluginmenu.amxx" to menu set because the Menus Front-End plugin itself is not loaded!
+L 10/26/2022 - 03:14:14: -------- Mapchange to jail_west_v2 --------
+L 10/26/2022 - 03:14:15: [gamecms_api.amxx] Reading GameCMS settings file... OK
+L 10/26/2022 - 03:14:15: [AMXX] Failed to open dictionary file: cstrike/addons/amxmodx/data/lang/jb_blockct.txt
+L 10/26/2022 - 03:14:15: [gamecms_api.amxx] Connection to the GameCMS database is established
+L 10/26/2022 - 03:14:16: [gamecms_api.amxx] "58" services was 'Loaded' from database. Total on server: "58" services.
+L 10/26/2022 - 03:14:16: [pluginmenu.amxx] Can't add menu item "Plugin Cvars" from plugin "pluginmenu.amxx" to menu set because the Menus Front-End plugin itself is not loaded!
+L 10/26/2022 - 03:14:16: [pluginmenu.amxx] Can't add menu item "Plugin Commands" from plugin "pluginmenu.amxx" to menu set because the Menus Front-End plugin itself is not loaded!
+L 10/26/2022 - 04:12:18: -------- Mapchange to jail_czone --------
+L 10/26/2022 - 04:12:20: [gamecms_api.amxx] Reading GameCMS settings file... OK
+L 10/26/2022 - 04:12:20: [AMXX] Failed to open dictionary file: cstrike/addons/amxmodx/data/lang/jb_blockct.txt
+L 10/26/2022 - 04:12:20: [gamecms_api.amxx] Connection to the GameCMS database is established
+L 10/26/2022 - 04:12:20: [gamecms_api.amxx] "58" services was 'Loaded' from database. Total on server: "58" services.
+L 10/26/2022 - 04:12:21: [pluginmenu.amxx] Can't add menu item "Plugin Cvars" from plugin "pluginmenu.amxx" to menu set because the Menus Front-End plugin itself is not loaded!
+L 10/26/2022 - 04:12:21: [pluginmenu.amxx] Can't add menu item "Plugin Commands" from plugin "pluginmenu.amxx" to menu set because the Menus Front-End plugin itself is not loaded!
+L 10/26/2022 - 05:10:23: -------- Mapchange to jb_mini --------
+L 10/26/2022 - 05:10:24: [gamecms_api.amxx] Reading GameCMS settings file... OK
+L 10/26/2022 - 05:10:24: [AMXX] Failed to open dictionary file: cstrike/addons/amxmodx/data/lang/jb_blockct.txt
+L 10/26/2022 - 05:10:24: [gamecms_api.amxx] Connection to the GameCMS database is established
+L 10/26/2022 - 05:10:25: [gamecms_api.amxx] "58" services was 'Loaded' from database. Total on server: "58" services.
+L 10/26/2022 - 05:10:25: [pluginmenu.amxx] Can't add menu item "Plugin Cvars" from plugin "pluginmenu.amxx" to menu set because the Menus Front-End plugin itself is not loaded!
+L 10/26/2022 - 05:10:25: [pluginmenu.amxx] Can't add menu item "Plugin Commands" from plugin "pluginmenu.amxx" to menu set because the Menus Front-End plugin itself is not loaded!
+L 10/26/2022 - 05:12:46: [gamecms_api.amxx] Authentication... "<maxik><STEAM_1:0:58613925>" (Account name "maxik" / Admin index "24") (Service flags "gstmcphufeqojwdt") (Service name "Анти граб* + Интеллектуал + Опер + Адм")
+L 10/26/2022 - 05:12:50: [gamecms_api.amxx] Authentication... "<maxik><STEAM_1:0:58613925>" (Account name "maxik" / Admin index "24") (Service flags "gstmcphufeqojwdt") (Service name "Анти граб* + Интеллектуал + Опер + Адм")
+L 10/26/2022 - 06:09:28: -------- Mapchange to jail_buyuklise --------
+L 10/26/2022 - 06:09:30: [gamecms_api.amxx] Reading GameCMS settings file... OK
+L 10/26/2022 - 06:09:30: [AMXX] Failed to open dictionary file: cstrike/addons/amxmodx/data/lang/jb_blockct.txt
+L 10/26/2022 - 06:09:30: [gamecms_api.amxx] Connection to the GameCMS database is established
+L 10/26/2022 - 06:09:30: [gamecms_api.amxx] "58" services was 'Loaded' from database. Total on server: "58" services.
+L 10/26/2022 - 06:09:31: [pluginmenu.amxx] Can't add menu item "Plugin Cvars" from plugin "pluginmenu.amxx" to menu set because the Menus Front-End plugin itself is not loaded!
+L 10/26/2022 - 06:09:31: [pluginmenu.amxx] Can't add menu item "Plugin Commands" from plugin "pluginmenu.amxx" to menu set because the Menus Front-End plugin itself is not loaded!
+L 10/26/2022 - 07:08:34: -------- Mapchange to jail_sebastian --------
+L 10/26/2022 - 07:08:36: [gamecms_api.amxx] Reading GameCMS settings file... OK
+L 10/26/2022 - 07:08:36: [AMXX] Failed to open dictionary file: cstrike/addons/amxmodx/data/lang/jb_blockct.txt
+L 10/26/2022 - 07:08:36: [gamecms_api.amxx] Connection to the GameCMS database is established
+L 10/26/2022 - 07:08:36: [gamecms_api.amxx] "58" services was 'Loaded' from database. Total on server: "58" services.
+L 10/26/2022 - 07:08:37: [pluginmenu.amxx] Can't add menu item "Plugin Cvars" from plugin "pluginmenu.amxx" to menu set because the Menus Front-End plugin itself is not loaded!
+L 10/26/2022 - 07:08:37: [pluginmenu.amxx] Can't add menu item "Plugin Commands" from plugin "pluginmenu.amxx" to menu set because the Menus Front-End plugin itself is not loaded!
+L 10/26/2022 - 08:07:40: -------- Mapchange to jail_buyukmekan_fix --------
+L 10/26/2022 - 08:07:42: [gamecms_api.amxx] Reading GameCMS settings file... OK
+L 10/26/2022 - 08:07:42: [AMXX] Failed to open dictionary file: cstrike/addons/amxmodx/data/lang/jb_blockct.txt
+L 10/26/2022 - 08:07:42: [gamecms_api.amxx] Connection to the GameCMS database is established
+L 10/26/2022 - 08:07:42: [gamecms_api.amxx] "58" services was 'Loaded' from database. Total on server: "58" services.
+L 10/26/2022 - 08:07:42: [pluginmenu.amxx] Can't add menu item "Plugin Cvars" from plugin "pluginmenu.amxx" to menu set because the Menus Front-End plugin itself is not loaded!
+L 10/26/2022 - 08:07:42: [pluginmenu.amxx] Can't add menu item "Plugin Commands" from plugin "pluginmenu.amxx" to menu set because the Menus Front-End plugin itself is not loaded!
+L 10/26/2022 - 08:31:53: [lite_mapchooser.amxx] Vote: Voting for the nextmap started
+L 10/26/2022 - 08:32:03: [lite_mapchooser.amxx] [End VoteMap] Nobody voted for the nextmap. Random map jail_reset_v2
+L 10/26/2022 - 08:32:06: -------- Mapchange to jail_reset_v2 --------
+L 10/26/2022 - 08:32:07: [gamecms_api.amxx] Reading GameCMS settings file... OK
+L 10/26/2022 - 08:32:07: [AMXX] Failed to open dictionary file: cstrike/addons/amxmodx/data/lang/jb_blockct.txt
+L 10/26/2022 - 08:32:07: [gamecms_api.amxx] Connection to the GameCMS database is established
+L 10/26/2022 - 08:32:08: [gamecms_api.amxx] "58" services was 'Loaded' from database. Total on server: "58" services.
+L 10/26/2022 - 08:32:08: [pluginmenu.amxx] Can't add menu item "Plugin Cvars" from plugin "pluginmenu.amxx" to menu set because the Menus Front-End plugin itself is not loaded!
+L 10/26/2022 - 08:32:08: [pluginmenu.amxx] Can't add menu item "Plugin Commands" from plugin "pluginmenu.amxx" to menu set because the Menus Front-End plugin itself is not loaded!
+L 10/26/2022 - 09:07:48: [lite_mapchooser.amxx] Vote: Voting for the nextmap started
+L 10/26/2022 - 09:07:58: [lite_mapchooser.amxx] [End VoteMap] Nobody voted for the nextmap. Random map jail_buyuklise
+L 10/26/2022 - 09:08:01: -------- Mapchange to jail_buyuklise --------
+L 10/26/2022 - 09:08:03: [gamecms_api.amxx] Reading GameCMS settings file... OK
+L 10/26/2022 - 09:08:03: [AMXX] Failed to open dictionary file: cstrike/addons/amxmodx/data/lang/jb_blockct.txt
+L 10/26/2022 - 09:08:03: [gamecms_api.amxx] Connection to the GameCMS database is established
+L 10/26/2022 - 09:08:03: [gamecms_api.amxx] "58" services was 'Loaded' from database. Total on server: "58" services.
+L 10/26/2022 - 09:08:03: [pluginmenu.amxx] Can't add menu item "Plugin Cvars" from plugin "pluginmenu.amxx" to menu set because the Menus Front-End plugin itself is not loaded!
+L 10/26/2022 - 09:08:03: [pluginmenu.amxx] Can't add menu item "Plugin Commands" from plugin "pluginmenu.amxx" to menu set because the Menus Front-End plugin itself is not loaded!
+L 10/26/2022 - 09:33:14: [lite_mapchooser.amxx] Vote: Voting for the nextmap started
+L 10/26/2022 - 09:33:24: [lite_mapchooser.amxx] [End VoteMap] Nobody voted for the nextmap. Random map jail_west_v2
+L 10/26/2022 - 09:33:27: -------- Mapchange to jail_west_v2 --------
+L 10/26/2022 - 09:33:29: [gamecms_api.amxx] Reading GameCMS settings file... OK
+L 10/26/2022 - 09:33:29: [AMXX] Failed to open dictionary file: cstrike/addons/amxmodx/data/lang/jb_blockct.txt
+L 10/26/2022 - 09:33:29: [gamecms_api.amxx] Connection to the GameCMS database is established
+L 10/26/2022 - 09:33:29: [gamecms_api.amxx] "58" services was 'Loaded' from database. Total on server: "58" services.
+L 10/26/2022 - 09:33:29: [pluginmenu.amxx] Can't add menu item "Plugin Cvars" from plugin "pluginmenu.amxx" to menu set because the Menus Front-End plugin itself is not loaded!
+L 10/26/2022 - 09:33:29: [pluginmenu.amxx] Can't add menu item "Plugin Commands" from plugin "pluginmenu.amxx" to menu set because the Menus Front-End plugin itself is not loaded!
+L 10/26/2022 - 09:57:14: [lite_mapchooser.amxx] Vote: Voting for the nextmap started
+L 10/26/2022 - 09:57:24: [lite_mapchooser.amxx] [End VoteMap] Nobody voted for the nextmap. Random map jail_buyukmekan_fix
+L 10/26/2022 - 09:57:28: -------- Mapchange to jail_buyukmekan_fix --------
+L 10/26/2022 - 09:57:29: [gamecms_api.amxx] Reading GameCMS settings file... OK
+L 10/26/2022 - 09:57:29: [AMXX] Failed to open dictionary file: cstrike/addons/amxmodx/data/lang/jb_blockct.txt
+L 10/26/2022 - 09:57:29: [gamecms_api.amxx] Connection to the GameCMS database is established
+L 10/26/2022 - 09:57:30: [gamecms_api.amxx] "58" services was 'Loaded' from database. Total on server: "58" services.
+L 10/26/2022 - 09:57:30: [pluginmenu.amxx] Can't add menu item "Plugin Cvars" from plugin "pluginmenu.amxx" to menu set because the Menus Front-End plugin itself is not loaded!
+L 10/26/2022 - 09:57:30: [pluginmenu.amxx] Can't add menu item "Plugin Commands" from plugin "pluginmenu.amxx" to menu set because the Menus Front-End plugin itself is not loaded!
+L 10/26/2022 - 10:19:33: [lite_mapchooser.amxx] Vote: Voting for the nextmap started
+L 10/26/2022 - 10:19:43: [lite_mapchooser.amxx] [End VoteMap] Voting for the nextmap finished. Map jail_buyukmekan_fix extended by 15 minutes
+L 10/26/2022 - 10:45:54: [lite_mapchooser.amxx] Vote: Voting for the nextmap started
+L 10/26/2022 - 10:46:04: [lite_mapchooser.amxx] [End VoteMap] Nobody voted for the nextmap. Random map jail_czone
+L 10/26/2022 - 10:46:07: -------- Mapchange to jail_czone --------
+L 10/26/2022 - 10:46:09: [gamecms_api.amxx] Reading GameCMS settings file... OK
+L 10/26/2022 - 10:46:09: [AMXX] Failed to open dictionary file: cstrike/addons/amxmodx/data/lang/jb_blockct.txt
+L 10/26/2022 - 10:46:09: [gamecms_api.amxx] Connection to the GameCMS database is established
+L 10/26/2022 - 10:46:09: [gamecms_api.amxx] "58" services was 'Loaded' from database. Total on server: "58" services.
+L 10/26/2022 - 10:46:10: [pluginmenu.amxx] Can't add menu item "Plugin Cvars" from plugin "pluginmenu.amxx" to menu set because the Menus Front-End plugin itself is not loaded!
+L 10/26/2022 - 10:46:10: [pluginmenu.amxx] Can't add menu item "Plugin Commands" from plugin "pluginmenu.amxx" to menu set because the Menus Front-End plugin itself is not loaded!
+L 10/26/2022 - 10:58:38: [lite_mapchooser.amxx] Vote: Voting for the nextmap started
+L 10/26/2022 - 10:58:48: [lite_mapchooser.amxx] [End VoteMap] Voting for the nextmap finished. The nextmap will be jail_sebastian
+L 10/26/2022 - 10:58:51: -------- Mapchange to jail_sebastian --------
+L 10/26/2022 - 10:58:53: [gamecms_api.amxx] Reading GameCMS settings file... OK
+L 10/26/2022 - 10:58:53: [AMXX] Failed to open dictionary file: cstrike/addons/amxmodx/data/lang/jb_blockct.txt
+L 10/26/2022 - 10:58:53: [gamecms_api.amxx] Connection to the GameCMS database is established
+L 10/26/2022 - 10:58:53: [gamecms_api.amxx] "58" services was 'Loaded' from database. Total on server: "58" services.
+L 10/26/2022 - 10:58:54: [pluginmenu.amxx] Can't add menu item "Plugin Cvars" from plugin "pluginmenu.amxx" to menu set because the Menus Front-End plugin itself is not loaded!
+L 10/26/2022 - 10:58:54: [pluginmenu.amxx] Can't add menu item "Plugin Commands" from plugin "pluginmenu.amxx" to menu set because the Menus Front-End plugin itself is not loaded!
+L 10/26/2022 - 11:32:13: -------- Mapchange to jaiI_xmf_v2 --------
+L 10/26/2022 - 11:32:15: [gamecms_api.amxx] Reading GameCMS settings file... OK
+L 10/26/2022 - 11:32:15: [AMXX] Failed to open dictionary file: cstrike/addons/amxmodx/data/lang/jb_blockct.txt
+L 10/26/2022 - 11:32:15: [gamecms_api.amxx] Connection to the GameCMS database is established
+L 10/26/2022 - 11:32:15: [gamecms_api.amxx] "58" services was 'Loaded' from database. Total on server: "58" services.
+L 10/26/2022 - 11:32:16: [pluginmenu.amxx] Can't add menu item "Plugin Cvars" from plugin "pluginmenu.amxx" to menu set because the Menus Front-End plugin itself is not loaded!
+L 10/26/2022 - 11:32:16: [pluginmenu.amxx] Can't add menu item "Plugin Commands" from plugin "pluginmenu.amxx" to menu set because the Menus Front-End plugin itself is not loaded!
+L 10/26/2022 - 11:51:24: [gamecms_api.amxx] Authentication... "<Hentai><STEAM_1:0:1463331990>" (Account name "Hentai" / Admin index "22") (Service flags "tdsmcphuft") (Service name "Админ* + Опер")
+L 10/26/2022 - 11:51:32: [gamecms_api.amxx] Authentication... "<Hentai><STEAM_1:0:1463331990>" (Account name "Hentai" / Admin index "22") (Service flags "tdsmcphuft") (Service name "Админ* + Опер")
+L 10/26/2022 - 11:55:59: [lite_mapchooser.amxx] Vote: Voting for the nextmap started
+L 10/26/2022 - 11:56:09: [lite_mapchooser.amxx] [End VoteMap] Voting for the nextmap finished. The nextmap will be jail_west_v2
+L 10/26/2022 - 11:56:12: -------- Mapchange to jail_west_v2 --------
+L 10/26/2022 - 11:56:13: [gamecms_api.amxx] Reading GameCMS settings file... OK
+L 10/26/2022 - 11:56:13: [AMXX] Failed to open dictionary file: cstrike/addons/amxmodx/data/lang/jb_blockct.txt
+L 10/26/2022 - 11:56:13: [gamecms_api.amxx] Connection to the GameCMS database is established
+L 10/26/2022 - 11:56:14: [gamecms_api.amxx] "58" services was 'Loaded' from database. Total on server: "58" services.
+L 10/26/2022 - 11:56:14: [pluginmenu.amxx] Can't add menu item "Plugin Cvars" from plugin "pluginmenu.amxx" to menu set because the Menus Front-End plugin itself is not loaded!
+L 10/26/2022 - 11:56:14: [pluginmenu.amxx] Can't add menu item "Plugin Commands" from plugin "pluginmenu.amxx" to menu set because the Menus Front-End plugin itself is not loaded!
+L 10/26/2022 - 11:56:14: [gamecms_api.amxx] Authentication... "<Hentai><STEAM_1:0:1463331990>" (Account name "Hentai" / Admin index "22") (Service flags "tdsmcphuft") (Service name "Админ* + Опер")
+L 10/26/2022 - 11:56:14: [gamecms_api.amxx] Authentication... "<Hentai><STEAM_1:0:1463331990>" (Account name "Hentai" / Admin index "22") (Service flags "tdsmcphuft") (Service name "Админ* + Опер")
+L 10/26/2022 - 11:56:22: [gamecms_api.amxx] Authentication... "<Hentai><STEAM_1:0:1463331990>" (Account name "Hentai" / Admin index "22") (Service flags "tdsmcphuft") (Service name "Админ* + Опер")
+L 10/26/2022 - 12:02:55: [plmenu.amxx] Cmd: "Hentai<285><STEAM_1:0:1463331990><>" transfer "uzbek<287><STEAM_2:0:1820748568><>" (team "CT")
+L 10/26/2022 - 12:40:04: [lite_mapchooser.amxx] Vote: Voting for the nextmap started
+L 10/26/2022 - 12:40:14: [lite_mapchooser.amxx] [End VoteMap] Voting for the nextmap finished. The nextmap will be jail_buyukmekan_fix
+L 10/26/2022 - 12:40:18: -------- Mapchange to jail_buyukmekan_fix --------
+L 10/26/2022 - 12:40:19: [gamecms_api.amxx] Reading GameCMS settings file... OK
+L 10/26/2022 - 12:40:19: [AMXX] Failed to open dictionary file: cstrike/addons/amxmodx/data/lang/jb_blockct.txt
+L 10/26/2022 - 12:40:19: [gamecms_api.amxx] Connection to the GameCMS database is established
+L 10/26/2022 - 12:40:19: [gamecms_api.amxx] "58" services was 'Loaded' from database. Total on server: "58" services.
+L 10/26/2022 - 12:40:20: [pluginmenu.amxx] Can't add menu item "Plugin Cvars" from plugin "pluginmenu.amxx" to menu set because the Menus Front-End plugin itself is not loaded!
+L 10/26/2022 - 12:40:20: [pluginmenu.amxx] Can't add menu item "Plugin Commands" from plugin "pluginmenu.amxx" to menu set because the Menus Front-End plugin itself is not loaded!
+L 10/26/2022 - 13:01:48: [lite_mapchooser.amxx] Vote: Voting for the nextmap started
+L 10/26/2022 - 13:01:58: [lite_mapchooser.amxx] [End VoteMap] Voting for the nextmap finished. The nextmap will be jail_west_v2
+L 10/26/2022 - 13:02:01: -------- Mapchange to jail_west_v2 --------
+L 10/26/2022 - 13:02:03: [gamecms_api.amxx] Reading GameCMS settings file... OK
+L 10/26/2022 - 13:02:03: [AMXX] Failed to open dictionary file: cstrike/addons/amxmodx/data/lang/jb_blockct.txt
+L 10/26/2022 - 13:02:03: [gamecms_api.amxx] Connection to the GameCMS database is established
+L 10/26/2022 - 13:02:03: [gamecms_api.amxx] "58" services was 'Loaded' from database. Total on server: "58" services.
+L 10/26/2022 - 13:02:03: [pluginmenu.amxx] Can't add menu item "Plugin Cvars" from plugin "pluginmenu.amxx" to menu set because the Menus Front-End plugin itself is not loaded!
+L 10/26/2022 - 13:02:03: [pluginmenu.amxx] Can't add menu item "Plugin Commands" from plugin "pluginmenu.amxx" to menu set because the Menus Front-End plugin itself is not loaded!
+L 10/26/2022 - 13:45:58: [gamecms_api.amxx] Authentication... "<SleNsyy><STEAM_0:1:218023863>" (Account name "SleNsyy" / Admin index "30") (Service flags "tdsmcphufeqt") (Service name "Админ* + Президент")
+L 10/26/2022 - 13:46:00: [gamecms_api.amxx] Authentication... "<SleNsyy><STEAM_0:1:218023863>" (Account name "SleNsyy" / Admin index "30") (Service flags "tdsmcphufeqt") (Service name "Админ* + Президент")
+L 10/26/2022 - 13:46:17: [lite_mapchooser.amxx] Vote: Voting for the nextmap started
+L 10/26/2022 - 13:46:27: [lite_mapchooser.amxx] [End VoteMap] Voting for the nextmap finished. Map jail_west_v2 extended by 15 minutes
+L 10/26/2022 - 13:46:53: -------- Mapchange to jail_buyukinfaz --------
+L 10/26/2022 - 13:46:55: [gamecms_api.amxx] Reading GameCMS settings file... OK
+L 10/26/2022 - 13:46:55: [AMXX] Failed to open dictionary file: cstrike/addons/amxmodx/data/lang/jb_blockct.txt
+L 10/26/2022 - 13:46:55: [gamecms_api.amxx] Connection to the GameCMS database is established
+L 10/26/2022 - 13:46:55: [gamecms_api.amxx] "58" services was 'Loaded' from database. Total on server: "58" services.
+L 10/26/2022 - 13:46:56: [pluginmenu.amxx] Can't add menu item "Plugin Cvars" from plugin "pluginmenu.amxx" to menu set because the Menus Front-End plugin itself is not loaded!
+L 10/26/2022 - 13:46:56: [pluginmenu.amxx] Can't add menu item "Plugin Commands" from plugin "pluginmenu.amxx" to menu set because the Menus Front-End plugin itself is not loaded!
+L 10/26/2022 - 13:46:56: [gamecms_api.amxx] Authentication... "<SleNsyy><STEAM_0:1:218023863>" (Account name "SleNsyy" / Admin index "30") (Service flags "tdsmcphufeqt") (Service name "Админ* + Президент")
+L 10/26/2022 - 13:46:59: [gamecms_api.amxx] Authentication... "<SleNsyy><STEAM_0:1:218023863>" (Account name "SleNsyy" / Admin index "30") (Service flags "tdsmcphufeqt") (Service name "Админ* + Президент")
+L 10/26/2022 - 14:29:53: [gamecms_api.amxx] Authentication... "<maxik><STEAM_1:0:58613925>" (Account name "maxik" / Admin index "24") (Service flags "gstmcphufeqojwdt") (Service name "Анти граб* + Интеллектуал + Опер + Адм")
+L 10/26/2022 - 14:29:59: [gamecms_api.amxx] Authentication... "<maxik><STEAM_1:0:58613925>" (Account name "maxik" / Admin index "24") (Service flags "gstmcphufeqojwdt") (Service name "Анти граб* + Интеллектуал + Опер + Адм")
+L 10/26/2022 - 14:30:18: [lite_mapchooser.amxx] Vote: Voting for the nextmap started
+L 10/26/2022 - 14:30:28: [lite_mapchooser.amxx] [End VoteMap] Nobody voted for the nextmap. Random map jaiI_xmf_v2
+L 10/26/2022 - 14:30:31: -------- Mapchange to jaiI_xmf_v2 --------
+L 10/26/2022 - 14:30:33: [gamecms_api.amxx] Reading GameCMS settings file... OK
+L 10/26/2022 - 14:30:33: [AMXX] Failed to open dictionary file: cstrike/addons/amxmodx/data/lang/jb_blockct.txt
+L 10/26/2022 - 14:30:33: [gamecms_api.amxx] Connection to the GameCMS database is established
+L 10/26/2022 - 14:30:33: [gamecms_api.amxx] "58" services was 'Loaded' from database. Total on server: "58" services.
+L 10/26/2022 - 14:30:34: [pluginmenu.amxx] Can't add menu item "Plugin Cvars" from plugin "pluginmenu.amxx" to menu set because the Menus Front-End plugin itself is not loaded!
+L 10/26/2022 - 14:30:34: [pluginmenu.amxx] Can't add menu item "Plugin Commands" from plugin "pluginmenu.amxx" to menu set because the Menus Front-End plugin itself is not loaded!
+L 10/26/2022 - 14:30:34: [gamecms_api.amxx] Authentication... "<maxik><STEAM_1:0:58613925>" (Account name "maxik" / Admin index "24") (Service flags "gstmcphufeqojwdt") (Service name "Анти граб* + Интеллектуал + Опер + Адм")
+L 10/26/2022 - 14:30:40: [gamecms_api.amxx] Authentication... "<maxik><STEAM_1:0:58613925>" (Account name "maxik" / Admin index "24") (Service flags "gstmcphufeqojwdt") (Service name "Анти граб* + Интеллектуал + Опер + Адм")
+L 10/26/2022 - 15:07:31: [lite_mapchooser.amxx] Vote: Voting for the nextmap started
+L 10/26/2022 - 15:07:41: [lite_mapchooser.amxx] [End VoteMap] Nobody voted for the nextmap. Random map jail_west_v2
+L 10/26/2022 - 15:07:44: -------- Mapchange to jail_west_v2 --------
+L 10/26/2022 - 15:07:46: [gamecms_api.amxx] Reading GameCMS settings file... OK
+L 10/26/2022 - 15:07:46: [AMXX] Failed to open dictionary file: cstrike/addons/amxmodx/data/lang/jb_blockct.txt
+L 10/26/2022 - 15:07:46: [gamecms_api.amxx] Connection to the GameCMS database is established
+L 10/26/2022 - 15:07:46: [gamecms_api.amxx] "58" services was 'Loaded' from database. Total on server: "58" services.
+L 10/26/2022 - 15:07:46: [pluginmenu.amxx] Can't add menu item "Plugin Cvars" from plugin "pluginmenu.amxx" to menu set because the Menus Front-End plugin itself is not loaded!
+L 10/26/2022 - 15:07:46: [pluginmenu.amxx] Can't add menu item "Plugin Commands" from plugin "pluginmenu.amxx" to menu set because the Menus Front-End plugin itself is not loaded!
+L 10/26/2022 - 15:11:16: -------- Mapchange to jaiI_xmf_v2 --------
+L 10/26/2022 - 15:11:18: [gamecms_api.amxx] Reading GameCMS settings file... OK
+L 10/26/2022 - 15:11:18: [AMXX] Failed to open dictionary file: cstrike/addons/amxmodx/data/lang/jb_blockct.txt
+L 10/26/2022 - 15:11:18: [gamecms_api.amxx] Connection to the GameCMS database is established
+L 10/26/2022 - 15:11:18: [gamecms_api.amxx] "58" services was 'Loaded' from database. Total on server: "58" services.
+L 10/26/2022 - 15:11:19: [pluginmenu.amxx] Can't add menu item "Plugin Cvars" from plugin "pluginmenu.amxx" to menu set because the Menus Front-End plugin itself is not loaded!
+L 10/26/2022 - 15:11:19: [pluginmenu.amxx] Can't add menu item "Plugin Commands" from plugin "pluginmenu.amxx" to menu set because the Menus Front-End plugin itself is not loaded!
+L 10/26/2022 - 15:12:21: [gamecms_api.amxx] Authentication... "<LinFan><STEAM_0:1:454888830>" (Account name "STEAM_0:1:454888830" / Admin index "27") (Service flags "bstmdvrcphufeqojwyigat") (Service name "Интеллектуал")
+L 10/26/2022 - 15:12:24: [gamecms_api.amxx] Authentication... "<LinFan><STEAM_0:1:454888830>" (Account name "STEAM_0:1:454888830" / Admin index "27") (Service flags "bstmdvrcphufeqojwyigat") (Service name "Интеллектуал")
+L 10/26/2022 - 15:12:38: [gamecms_api.amxx] Authentication... "<LinFan><STEAM_0:1:454888830>" (Account name "STEAM_0:1:454888830" / Admin index "27") (Service flags "bstmdvrcphufeqojwyigat") (Service name "Интеллектуал")
+L 10/26/2022 - 15:15:15: [gamecms_api.amxx] Authentication... "<maxik><STEAM_1:0:58613925>" (Account name "maxik" / Admin index "24") (Service flags "gstmcphufeqojwdt") (Service name "Анти граб* + Интеллектуал + Опер + Адм")
+L 10/26/2022 - 15:15:21: [gamecms_api.amxx] Authentication... "<maxik><STEAM_1:0:58613925>" (Account name "maxik" / Admin index "24") (Service flags "gstmcphufeqojwdt") (Service name "Анти граб* + Интеллектуал + Опер + Адм")
+L 10/26/2022 - 15:33:02: [lite_mapchooser.amxx] Vote: Voting for the nextmap started
+L 10/26/2022 - 15:33:12: [lite_mapchooser.amxx] [End VoteMap] Nobody voted for the nextmap. Random map jail_west_v2
+L 10/26/2022 - 15:33:15: -------- Mapchange to jail_west_v2 --------
+L 10/26/2022 - 15:33:16: [gamecms_api.amxx] Reading GameCMS settings file... OK
+L 10/26/2022 - 15:33:16: [AMXX] Failed to open dictionary file: cstrike/addons/amxmodx/data/lang/jb_blockct.txt
+L 10/26/2022 - 15:33:16: [gamecms_api.amxx] Connection to the GameCMS database is established
+L 10/26/2022 - 15:33:17: [gamecms_api.amxx] "58" services was 'Loaded' from database. Total on server: "58" services.
+L 10/26/2022 - 15:33:17: [pluginmenu.amxx] Can't add menu item "Plugin Cvars" from plugin "pluginmenu.amxx" to menu set because the Menus Front-End plugin itself is not loaded!
+L 10/26/2022 - 15:33:17: [pluginmenu.amxx] Can't add menu item "Plugin Commands" from plugin "pluginmenu.amxx" to menu set because the Menus Front-End plugin itself is not loaded!
+L 10/26/2022 - 15:57:04: [gamecms_api.amxx] Authentication... "<DoNt><STEAM_2:1:1115243388>" (Account name "DoNt" / Admin index "15") (Service flags "stmcpt") (Service name "Альфа")
+L 10/26/2022 - 15:57:07: [gamecms_api.amxx] Authentication... "<DoNt><STEAM_2:1:1115243388>" (Account name "DoNt" / Admin index "15") (Service flags "stmcpt") (Service name "Альфа")
+L 10/26/2022 - 15:57:30: [lite_mapchooser.amxx] Vote: Voting for the nextmap started
+L 10/26/2022 - 15:57:40: [lite_mapchooser.amxx] [End VoteMap] Voting for the nextmap finished. The nextmap will be jail_sebastian
+L 10/26/2022 - 15:57:43: -------- Mapchange to jail_sebastian --------
+L 10/26/2022 - 15:57:45: [gamecms_api.amxx] Reading GameCMS settings file... OK
+L 10/26/2022 - 15:57:45: [AMXX] Failed to open dictionary file: cstrike/addons/amxmodx/data/lang/jb_blockct.txt
+L 10/26/2022 - 15:57:45: [gamecms_api.amxx] Connection to the GameCMS database is established
+L 10/26/2022 - 15:57:45: [gamecms_api.amxx] "58" services was 'Loaded' from database. Total on server: "58" services.
+L 10/26/2022 - 15:57:45: [pluginmenu.amxx] Can't add menu item "Plugin Cvars" from plugin "pluginmenu.amxx" to menu set because the Menus Front-End plugin itself is not loaded!
+L 10/26/2022 - 15:57:45: [pluginmenu.amxx] Can't add menu item "Plugin Commands" from plugin "pluginmenu.amxx" to menu set because the Menus Front-End plugin itself is not loaded!
+L 10/26/2022 - 15:57:46: [gamecms_api.amxx] Authentication... "<DoNt><STEAM_2:1:1115243388>" (Account name "DoNt" / Admin index "15") (Service flags "stmcpt") (Service name "Альфа")
+L 10/26/2022 - 15:57:48: [gamecms_api.amxx] Authentication... "<DoNt><STEAM_2:1:1115243388>" (Account name "DoNt" / Admin index "15") (Service flags "stmcpt") (Service name "Альфа")
+L 10/26/2022 - 16:11:18: [gamecms_api.amxx] Authentication... "<SmAiL><STEAM_2:1:1977962769>" (Account name "SmAiL" / Admin index "17") (Service flags "bstmcphdt") (Service name "Ультра + Хакер + Админ*")
+L 10/26/2022 - 16:11:31: [gamecms_api.amxx] Authentication... "<SmAiL><STEAM_2:1:1977962769>" (Account name "SmAiL" / Admin index "17") (Service flags "bstmcphdt") (Service name "Ультра + Хакер + Админ*")
+L 10/26/2022 - 16:11:35: [gamecms_api.amxx] Authentication... "<SmAiL><STEAM_2:1:1977962769>" (Account name "SmAiL" / Admin index "17") (Service flags "bstmcphdt") (Service name "Ультра + Хакер + Админ*")
+L 10/26/2022 - 16:17:53: [lite_mapchooser.amxx] Vote: Voting for the nextmap started
+L 10/26/2022 - 16:18:03: [lite_mapchooser.amxx] [End VoteMap] Voting for the nextmap finished. The nextmap will be jail_alayinaisyan_b5
+L 10/26/2022 - 16:18:07: -------- Mapchange to jail_alayinaisyan_b5 --------
+L 10/26/2022 - 16:18:09: [gamecms_api.amxx] Reading GameCMS settings file... OK
+L 10/26/2022 - 16:18:09: [AMXX] Failed to open dictionary file: cstrike/addons/amxmodx/data/lang/jb_blockct.txt
+L 10/26/2022 - 16:18:09: [gamecms_api.amxx] Connection to the GameCMS database is established
+L 10/26/2022 - 16:18:09: [gamecms_api.amxx] "58" services was 'Loaded' from database. Total on server: "58" services.
+L 10/26/2022 - 16:18:09: [pluginmenu.amxx] Can't add menu item "Plugin Cvars" from plugin "pluginmenu.amxx" to menu set because the Menus Front-End plugin itself is not loaded!
+L 10/26/2022 - 16:18:09: [pluginmenu.amxx] Can't add menu item "Plugin Commands" from plugin "pluginmenu.amxx" to menu set because the Menus Front-End plugin itself is not loaded!
+L 10/26/2022 - 16:19:28: [gamecms_api.amxx] Authentication... "<SmAiL><STEAM_2:1:1977962769>" (Account name "SmAiL" / Admin index "17") (Service flags "bstmcphdt") (Service name "Ультра + Хакер + Админ*")
+L 10/26/2022 - 16:19:40: [gamecms_api.amxx] Authentication... "<SmAiL><STEAM_2:1:1977962769>" (Account name "SmAiL" / Admin index "17") (Service flags "bstmcphdt") (Service name "Ультра + Хакер + Админ*")
+L 10/26/2022 - 16:19:44: [gamecms_api.amxx] Authentication... "<SmAiL><STEAM_2:1:1977962769>" (Account name "SmAiL" / Admin index "17") (Service flags "bstmcphdt") (Service name "Ультра + Хакер + Админ*")
+L 10/26/2022 - 16:30:40: [gamecms_api.amxx] Authentication... "<SmAiL><STEAM_2:1:1977962769>" (Account name "SmAiL" / Admin index "17") (Service flags "bstmcphdt") (Service name "Ультра + Хакер + Админ*")
+L 10/26/2022 - 16:31:11: [gamecms_api.amxx] Authentication... "<ne bebra><STEAM_1:1:1931980404>" (Account name "ne bebra" / Admin index "18") (Service flags "tdsmcpht") (Service name "Админ* + Хакер + Паутинка* + Ультра")
+L 10/26/2022 - 16:31:14: [gamecms_api.amxx] Authentication... "<ne bebra><STEAM_1:1:1931980404>" (Account name "ne bebra" / Admin index "18") (Service flags "tdsmcpht") (Service name "Админ* + Хакер + Паутинка* + Ультра")
+L 10/26/2022 - 16:31:14: [gamecms_api.amxx] Authentication... "<ne bebra><STEAM_1:1:1931980404>" (Account name "ne bebra" / Admin index "18") (Service flags "tdsmcpht") (Service name "Админ* + Хакер + Паутинка* + Ультра")
+L 10/26/2022 - 16:32:53: [gamecms_api.amxx] Authentication... "<SmAiL><STEAM_2:1:1977962769>" (Account name "SmAiL" / Admin index "17") (Service flags "bstmcphdt") (Service name "Ультра + Хакер + Админ*")
+L 10/26/2022 - 16:38:16: [lite_mapchooser.amxx] tiki проголосовал за смену карты. Осталось: 2 голосов.
+L 10/26/2022 - 16:38:21: [lite_mapchooser.amxx] ne bebra проголосовал за смену карты. Осталось: 1 голосов.
+L 10/26/2022 - 16:39:25: [lite_mapchooser.amxx] Vote: Voting for the nextmap started
+L 10/26/2022 - 16:39:35: [lite_mapchooser.amxx] [End VoteMap] Voting for the nextmap finished. The nextmap will be jail_west_v2
+L 10/26/2022 - 16:39:38: -------- Mapchange to jail_west_v2 --------
+L 10/26/2022 - 16:39:39: [gamecms_api.amxx] Reading GameCMS settings file... OK
+L 10/26/2022 - 16:39:39: [AMXX] Failed to open dictionary file: cstrike/addons/amxmodx/data/lang/jb_blockct.txt
+L 10/26/2022 - 16:39:39: [gamecms_api.amxx] Connection to the GameCMS database is established
+L 10/26/2022 - 16:39:40: [gamecms_api.amxx] "58" services was 'Loaded' from database. Total on server: "58" services.
+L 10/26/2022 - 16:39:40: [pluginmenu.amxx] Can't add menu item "Plugin Cvars" from plugin "pluginmenu.amxx" to menu set because the Menus Front-End plugin itself is not loaded!
+L 10/26/2022 - 16:39:40: [pluginmenu.amxx] Can't add menu item "Plugin Commands" from plugin "pluginmenu.amxx" to menu set because the Menus Front-End plugin itself is not loaded!
+L 10/26/2022 - 16:39:40: [gamecms_api.amxx] Authentication... "<ne bebra><STEAM_1:1:1931980404>" (Account name "ne bebra" / Admin index "18") (Service flags "tdsmcpht") (Service name "Админ* + Хакер + Паутинка* + Ультра")
+L 10/26/2022 - 16:39:44: [gamecms_api.amxx] Authentication... "<ne bebra><STEAM_1:1:1931980404>" (Account name "ne bebra" / Admin index "18") (Service flags "tdsmcpht") (Service name "Админ* + Хакер + Паутинка* + Ультра")
+L 10/26/2022 - 16:43:23: [gamecms_api.amxx] Authentication... "<ne bebra><STEAM_1:1:1931980404>" (Account name "ne bebra" / Admin index "18") (Service flags "tdsmcpht") (Service name "Админ* + Хакер + Паутинка* + Ультра")
+L 10/26/2022 - 16:43:27: [gamecms_api.amxx] Authentication... "<ne bebra><STEAM_1:1:1931980404>" (Account name "ne bebra" / Admin index "18") (Service flags "tdsmcpht") (Service name "Админ* + Хакер + Паутинка* + Ультра")
+L 10/26/2022 - 16:43:27: [gamecms_api.amxx] Authentication... "<ne bebra><STEAM_1:1:1931980404>" (Account name "ne bebra" / Admin index "18") (Service flags "tdsmcpht") (Service name "Админ* + Хакер + Паутинка* + Ультра")
+L 10/26/2022 - 17:03:40: [lite_mapchooser.amxx] Vote: Voting for the nextmap started
+L 10/26/2022 - 17:03:50: [lite_mapchooser.amxx] [End VoteMap] Voting for the nextmap finished. The nextmap will be jb_mini
+L 10/26/2022 - 17:03:53: -------- Mapchange to jb_mini --------
+L 10/26/2022 - 17:03:54: [gamecms_api.amxx] Reading GameCMS settings file... OK
+L 10/26/2022 - 17:03:54: [AMXX] Failed to open dictionary file: cstrike/addons/amxmodx/data/lang/jb_blockct.txt
+L 10/26/2022 - 17:03:54: [gamecms_api.amxx] Connection to the GameCMS database is established
+L 10/26/2022 - 17:03:55: [gamecms_api.amxx] "58" services was 'Loaded' from database. Total on server: "58" services.
+L 10/26/2022 - 17:03:55: [pluginmenu.amxx] Can't add menu item "Plugin Cvars" from plugin "pluginmenu.amxx" to menu set because the Menus Front-End plugin itself is not loaded!
+L 10/26/2022 - 17:03:55: [pluginmenu.amxx] Can't add menu item "Plugin Commands" from plugin "pluginmenu.amxx" to menu set because the Menus Front-End plugin itself is not loaded!
+L 10/26/2022 - 17:03:55: [gamecms_api.amxx] Authentication... "<ne bebra><STEAM_1:1:1931980404>" (Account name "ne bebra" / Admin index "18") (Service flags "tdsmcpht") (Service name "Админ* + Хакер + Паутинка* + Ультра")
+L 10/26/2022 - 17:03:59: [gamecms_api.amxx] Authentication... "<ne bebra><STEAM_1:1:1931980404>" (Account name "ne bebra" / Admin index "18") (Service flags "tdsmcpht") (Service name "Админ* + Хакер + Паутинка* + Ультра")
+L 10/26/2022 - 17:11:33: [gamecms_api.amxx] Authentication... "<SmAiL><STEAM_2:1:1977962769>" (Account name "SmAiL" / Admin index "17") (Service flags "bstmcphdt") (Service name "Ультра + Хакер + Админ*")
+L 10/26/2022 - 17:13:19: [gamecms_api.amxx] Authentication... "<maxik><STEAM_1:0:58613925>" (Account name "maxik" / Admin index "24") (Service flags "gstmcphufeqojwdt") (Service name "Анти граб* + Интеллектуал + Опер + Адм")
+L 10/26/2022 - 17:13:22: [gamecms_api.amxx] Authentication... "<maxik><STEAM_1:0:58613925>" (Account name "maxik" / Admin index "24") (Service flags "gstmcphufeqojwdt") (Service name "Анти граб* + Интеллектуал + Опер + Адм")
+L 10/26/2022 - 17:25:22: [plmenu.amxx] Cmd: "maxik<63><STEAM_1:0:58613925><>" transfer "Хомячелла<66><STEAM_0:1:124658924><>" (team "CT")
+L 10/26/2022 - 17:29:59: [gamecms_api.amxx] Authentication... "<LinFan><STEAM_0:1:454888830>" (Account name "STEAM_0:1:454888830" / Admin index "27") (Service flags "bstmdvrcphufeqojwyigat") (Service name "Интеллектуал")
+L 10/26/2022 - 17:30:02: [gamecms_api.amxx] Authentication... "<LinFan><STEAM_0:1:454888830>" (Account name "STEAM_0:1:454888830" / Admin index "27") (Service flags "bstmdvrcphufeqojwyigat") (Service name "Интеллектуал")
+L 10/26/2022 - 17:30:14: [gamecms_api.amxx] Authentication... "<LinFan><STEAM_0:1:454888830>" (Account name "STEAM_0:1:454888830" / Admin index "27") (Service flags "bstmdvrcphufeqojwyigat") (Service name "Интеллектуал")
+L 10/26/2022 - 17:31:31: [lite_mapchooser.amxx] LinFan проголосовал за смену карты. Осталось: 4 голосов.
+L 10/26/2022 - 17:32:59: [lite_mapchooser.amxx] Vote: Voting for the nextmap started
+L 10/26/2022 - 17:33:09: [lite_mapchooser.amxx] [End VoteMap] Nobody voted for the nextmap. Random map jaiI_xmf_v2
+L 10/26/2022 - 17:33:13: -------- Mapchange to jaiI_xmf_v2 --------
+L 10/26/2022 - 17:33:14: [gamecms_api.amxx] Reading GameCMS settings file... OK
+L 10/26/2022 - 17:33:14: [AMXX] Failed to open dictionary file: cstrike/addons/amxmodx/data/lang/jb_blockct.txt
+L 10/26/2022 - 17:33:14: [gamecms_api.amxx] Connection to the GameCMS database is established
+L 10/26/2022 - 17:33:15: [gamecms_api.amxx] "58" services was 'Loaded' from database. Total on server: "58" services.
+L 10/26/2022 - 17:33:15: [pluginmenu.amxx] Can't add menu item "Plugin Cvars" from plugin "pluginmenu.amxx" to menu set because the Menus Front-End plugin itself is not loaded!
+L 10/26/2022 - 17:33:15: [pluginmenu.amxx] Can't add menu item "Plugin Commands" from plugin "pluginmenu.amxx" to menu set because the Menus Front-End plugin itself is not loaded!
+L 10/26/2022 - 17:33:15: [gamecms_api.amxx] Authentication... "<LinFan><STEAM_0:1:454888830>" (Account name "STEAM_0:1:454888830" / Admin index "27") (Service flags "bstmdvrcphufeqojwyigat") (Service name "Интеллектуал")
+L 10/26/2022 - 17:33:15: [gamecms_api.amxx] Authentication... "<ne bebra><STEAM_1:1:1931980404>" (Account name "ne bebra" / Admin index "18") (Service flags "tdsmcpht") (Service name "Админ* + Хакер + Паутинка* + Ультра")
+L 10/26/2022 - 17:33:15: [gamecms_api.amxx] Authentication... "<maxik><STEAM_1:0:58613925>" (Account name "maxik" / Admin index "24") (Service flags "gstmcphufeqojwdt") (Service name "Анти граб* + Интеллектуал + Опер + Адм")
+L 10/26/2022 - 17:33:18: [gamecms_api.amxx] Authentication... "<maxik><STEAM_1:0:58613925>" (Account name "maxik" / Admin index "24") (Service flags "gstmcphufeqojwdt") (Service name "Анти граб* + Интеллектуал + Опер + Адм")
+L 10/26/2022 - 17:33:18: [gamecms_api.amxx] Authentication... "<LinFan><STEAM_0:1:454888830>" (Account name "STEAM_0:1:454888830" / Admin index "27") (Service flags "bstmdvrcphufeqojwyigat") (Service name "Интеллектуал")
+L 10/26/2022 - 17:33:19: [gamecms_api.amxx] Authentication... "<ne bebra><STEAM_1:1:1931980404>" (Account name "ne bebra" / Admin index "18") (Service flags "tdsmcpht") (Service name "Админ* + Хакер + Паутинка* + Ультра")
+L 10/26/2022 - 17:33:23: [gamecms_api.amxx] Authentication... "<LinFan><STEAM_0:1:454888830>" (Account name "STEAM_0:1:454888830" / Admin index "27") (Service flags "bstmdvrcphufeqojwyigat") (Service name "Интеллектуал")
+L 10/26/2022 - 17:36:01: [adminchat.amxx] Chat: "LinFan<78><STEAM_0:1:454888830><>" tsay "МОЛОДЦЫ!"
+L 10/26/2022 - 17:53:50: [lite_mapchooser.amxx] Vote: Voting for the nextmap started
+L 10/26/2022 - 17:54:00: [lite_mapchooser.amxx] [End VoteMap] Voting for the nextmap finished. The nextmap will be jail_buyuklise
+L 10/26/2022 - 17:54:03: -------- Mapchange to jail_buyuklise --------
+L 10/26/2022 - 17:54:05: [gamecms_api.amxx] Reading GameCMS settings file... OK
+L 10/26/2022 - 17:54:05: [AMXX] Failed to open dictionary file: cstrike/addons/amxmodx/data/lang/jb_blockct.txt
+L 10/26/2022 - 17:54:05: [gamecms_api.amxx] Connection to the GameCMS database is established
+L 10/26/2022 - 17:54:05: [gamecms_api.amxx] "58" services was 'Loaded' from database. Total on server: "58" services.
+L 10/26/2022 - 17:54:06: [pluginmenu.amxx] Can't add menu item "Plugin Cvars" from plugin "pluginmenu.amxx" to menu set because the Menus Front-End plugin itself is not loaded!
+L 10/26/2022 - 17:54:06: [pluginmenu.amxx] Can't add menu item "Plugin Commands" from plugin "pluginmenu.amxx" to menu set because the Menus Front-End plugin itself is not loaded!
+L 10/26/2022 - 17:54:06: [gamecms_api.amxx] Authentication... "<maxik><STEAM_1:0:58613925>" (Account name "maxik" / Admin index "24") (Service flags "gstmcphufeqojwdt") (Service name "Анти граб* + Интеллектуал + Опер + Адм")
+L 10/26/2022 - 17:54:06: [gamecms_api.amxx] Authentication... "<LinFan><STEAM_0:1:454888830>" (Account name "STEAM_0:1:454888830" / Admin index "27") (Service flags "bstmdvrcphufeqojwyigat") (Service name "Интеллектуал")
+L 10/26/2022 - 17:54:06: [gamecms_api.amxx] Authentication... "<ne bebra><STEAM_1:1:1931980404>" (Account name "ne bebra" / Admin index "18") (Service flags "tdsmcpht") (Service name "Админ* + Хакер + Паутинка* + Ультра")
+L 10/26/2022 - 17:54:09: [gamecms_api.amxx] Authentication... "<LinFan><STEAM_0:1:454888830>" (Account name "STEAM_0:1:454888830" / Admin index "27") (Service flags "bstmdvrcphufeqojwyigat") (Service name "Интеллектуал")
+L 10/26/2022 - 17:54:09: [gamecms_api.amxx] Authentication... "<ne bebra><STEAM_1:1:1931980404>" (Account name "ne bebra" / Admin index "18") (Service flags "tdsmcpht") (Service name "Админ* + Хакер + Паутинка* + Ультра")
+L 10/26/2022 - 17:54:10: [gamecms_api.amxx] Authentication... "<maxik><STEAM_1:0:58613925>" (Account name "maxik" / Admin index "24") (Service flags "gstmcphufeqojwdt") (Service name "Анти граб* + Интеллектуал + Опер + Адм")
+L 10/26/2022 - 17:54:13: [gamecms_api.amxx] Authentication... "<LinFan><STEAM_0:1:454888830>" (Account name "STEAM_0:1:454888830" / Admin index "27") (Service flags "bstmdvrcphufeqojwyigat") (Service name "Интеллектуал")
+L 10/26/2022 - 17:55:37: [adminchat.amxx] Chat: "LinFan<93><STEAM_0:1:454888830><>" tsay "G ФД?"
+L 10/26/2022 - 18:07:38: [gamecms_api.amxx] Authentication... "<SmAiL><STEAM_2:1:1977962769>" (Account name "SmAiL" / Admin index "17") (Service flags "bstmcphdt") (Service name "Ультра + Хакер + Админ*")
+L 10/26/2022 - 18:07:47: [gamecms_api.amxx] Authentication... "<SmAiL><STEAM_2:1:1977962769>" (Account name "SmAiL" / Admin index "17") (Service flags "bstmcphdt") (Service name "Ультра + Хакер + Админ*")
+L 10/26/2022 - 18:07:51: [gamecms_api.amxx] Authentication... "<SmAiL><STEAM_2:1:1977962769>" (Account name "SmAiL" / Admin index "17") (Service flags "bstmcphdt") (Service name "Ультра + Хакер + Админ*")
+L 10/26/2022 - 18:08:35: [amx_gag.amxx] Gag: "SmAiL<STEAM_2:1:1977962769>" has gagged "Ilia<STEAM_1:0:871545270>" for 1 minute. (say / say_team / voicecomm)
+L 10/26/2022 - 18:09:07: [amx_gag.amxx] UnGag: "SmAiL<STEAM_2:1:1977962769>" has ungagged "Ilia<STEAM_1:0:871545270>"
+L 10/26/2022 - 18:11:13: [plmenu.amxx] Cmd: "ne bebra<97><STEAM_1:1:1931980404><>" transfer "Ilia<102><STEAM_1:0:871545270><>" (team "CT")
+L 10/26/2022 - 18:12:01: [plmenu.amxx] Cmd: "ne bebra<97><STEAM_1:1:1931980404><>" transfer "Ilia<102><STEAM_1:0:871545270><>" (team "CT")
+L 10/26/2022 - 18:13:31: [lite_mapchooser.amxx] ne bebra проголосовал за смену карты. Осталось: 1 голосов.
+L 10/26/2022 - 18:16:11: [lite_mapchooser.amxx] Vote: Voting for the nextmap started
+L 10/26/2022 - 18:16:21: [lite_mapchooser.amxx] [End VoteMap] Voting for the nextmap finished. The nextmap will be jb_mini
+L 10/26/2022 - 18:16:24: -------- Mapchange to jb_mini --------
+L 10/26/2022 - 18:16:26: [gamecms_api.amxx] Reading GameCMS settings file... OK
+L 10/26/2022 - 18:16:26: [AMXX] Failed to open dictionary file: cstrike/addons/amxmodx/data/lang/jb_blockct.txt
+L 10/26/2022 - 18:16:26: [gamecms_api.amxx] Connection to the GameCMS database is established
+L 10/26/2022 - 18:16:26: [gamecms_api.amxx] "58" services was 'Loaded' from database. Total on server: "58" services.
+L 10/26/2022 - 18:16:27: [pluginmenu.amxx] Can't add menu item "Plugin Cvars" from plugin "pluginmenu.amxx" to menu set because the Menus Front-End plugin itself is not loaded!
+L 10/26/2022 - 18:16:27: [pluginmenu.amxx] Can't add menu item "Plugin Commands" from plugin "pluginmenu.amxx" to menu set because the Menus Front-End plugin itself is not loaded!
+L 10/26/2022 - 18:16:27: [gamecms_api.amxx] Authentication... "<ne bebra><STEAM_1:1:1931980404>" (Account name "ne bebra" / Admin index "18") (Service flags "tdsmcpht") (Service name "Админ* + Хакер + Паутинка* + Ультра")
+L 10/26/2022 - 18:17:16: [gamecms_api.amxx] Authentication... "<SmAiL><STEAM_2:1:1977962769>" (Account name "SmAiL" / Admin index "17") (Service flags "bstmcphdt") (Service name "Ультра + Хакер + Админ*")
+L 10/26/2022 - 18:17:35: [gamecms_api.amxx] Authentication... "<SmAiL><STEAM_2:1:1977962769>" (Account name "SmAiL" / Admin index "17") (Service flags "bstmcphdt") (Service name "Ультра + Хакер + Админ*")
+L 10/26/2022 - 18:17:39: [gamecms_api.amxx] Authentication... "<SmAiL><STEAM_2:1:1977962769>" (Account name "SmAiL" / Admin index "17") (Service flags "bstmcphdt") (Service name "Ультра + Хакер + Админ*")
+L 10/26/2022 - 18:30:33: [gamecms_api.amxx] Authentication... "<Star Platinum><STEAM_2:0:1262329417>" (Account name "Star Platinum" / Admin index "13") (Service flags "stmcphufeqojwt") (Service name "Интеллектуал")
+L 10/26/2022 - 18:44:34: [gamecms_api.amxx] Authentication... "<Kukushka><STEAM_2:1:753772918>" (Account name "Kukushka" / Admin index "3") (Service flags "stmdbcphuft") (Service name "Глав. Смотр.")
+L 10/26/2022 - 18:44:40: [gamecms_api.amxx] Authentication... "<Kukushka><STEAM_2:1:753772918>" (Account name "Kukushka" / Admin index "3") (Service flags "stmdbcphuft") (Service name "Глав. Смотр.")
+L 10/26/2022 - 18:44:44: [gamecms_api.amxx] Authentication: "<Pozitiv><STEAM_1:1:906038626>" wrong password (Account name "Pozitiv") (Password "FanatLove" ("Nmtaap1221")
+L 10/26/2022 - 18:44:51: [gamecms_api.amxx] Authentication: "<Pozitiv><STEAM_1:1:906038626>" wrong password (Account name "Pozitiv") (Password "FanatLove" ("Nmtaap1221")
+L 10/26/2022 - 18:56:41: [gamecms_api.amxx] Authentication... "<ne bebra><STEAM_1:1:1931980404>" (Account name "ne bebra" / Admin index "18") (Service flags "tdsmcpht") (Service name "Админ* + Хакер + Паутинка* + Ультра")
+L 10/26/2022 - 18:56:44: [gamecms_api.amxx] Authentication... "<ne bebra><STEAM_1:1:1931980404>" (Account name "ne bebra" / Admin index "18") (Service flags "tdsmcpht") (Service name "Админ* + Хакер + Паутинка* + Ультра")
+L 10/26/2022 - 18:56:45: [gamecms_api.amxx] Authentication... "<ne bebra><STEAM_1:1:1931980404>" (Account name "ne bebra" / Admin index "18") (Service flags "tdsmcpht") (Service name "Админ* + Хакер + Паутинка* + Ультра")
+L 10/26/2022 - 18:57:51: [lite_mapchooser.amxx] Vote: Voting for the nextmap started
+L 10/26/2022 - 18:58:01: [lite_mapchooser.amxx] [End VoteMap] Voting for the nextmap finished. The nextmap will be jaiI_xmf_v2
+L 10/26/2022 - 18:58:04: -------- Mapchange to jaiI_xmf_v2 --------
+L 10/26/2022 - 18:58:06: [gamecms_api.amxx] Reading GameCMS settings file... OK
+L 10/26/2022 - 18:58:06: [AMXX] Failed to open dictionary file: cstrike/addons/amxmodx/data/lang/jb_blockct.txt
+L 10/26/2022 - 18:58:06: [gamecms_api.amxx] Connection to the GameCMS database is established
+L 10/26/2022 - 18:58:06: [gamecms_api.amxx] "58" services was 'Loaded' from database. Total on server: "58" services.
+L 10/26/2022 - 18:58:07: [pluginmenu.amxx] Can't add menu item "Plugin Cvars" from plugin "pluginmenu.amxx" to menu set because the Menus Front-End plugin itself is not loaded!
+L 10/26/2022 - 18:58:07: [pluginmenu.amxx] Can't add menu item "Plugin Commands" from plugin "pluginmenu.amxx" to menu set because the Menus Front-End plugin itself is not loaded!
+L 10/26/2022 - 18:58:07: [gamecms_api.amxx] Authentication... "<ne bebra><STEAM_1:1:1931980404>" (Account name "ne bebra" / Admin index "18") (Service flags "tdsmcpht") (Service name "Админ* + Хакер + Паутинка* + Ультра")
+L 10/26/2022 - 18:58:07: [gamecms_api.amxx] Authentication... "<Kukushka><STEAM_2:1:753772918>" (Account name "Kukushka" / Admin index "3") (Service flags "stmdbcphuft") (Service name "Глав. Смотр.")
+L 10/26/2022 - 18:58:11: [gamecms_api.amxx] Authentication... "<ne bebra><STEAM_1:1:1931980404>" (Account name "ne bebra" / Admin index "18") (Service flags "tdsmcpht") (Service name "Админ* + Хакер + Паутинка* + Ультра")
+L 10/26/2022 - 18:58:12: [gamecms_api.amxx] Authentication... "<Kukushka><STEAM_2:1:753772918>" (Account name "Kukushka" / Admin index "3") (Service flags "stmdbcphuft") (Service name "Глав. Смотр.")
+L 10/26/2022 - 19:15:27: [gamecms_api.amxx] Authentication... "<Star Platinum><STEAM_2:0:1262329417>" (Account name "Star Platinum" / Admin index "13") (Service flags "stmcphufeqojwt") (Service name "Интеллектуал")
+L 10/26/2022 - 19:15:36: [gamecms_api.amxx] Authentication... "<Star Platinum><STEAM_2:0:1262329417>" (Account name "Star Platinum" / Admin index "13") (Service flags "stmcphufeqojwt") (Service name "Интеллектуал")
+L 10/26/2022 - 19:21:37: [lite_mapchooser.amxx] Kukushka проголосовал за смену карты. Осталось: 2 голосов.
+L 10/26/2022 - 19:21:39: [lite_mapchooser.amxx] KuSka_KuPIla_BiskaS проголосовал за смену карты. Осталось: 1 голосов.
+L 10/26/2022 - 19:22:21: [lite_mapchooser.amxx] Vote: Voting for the nextmap started
+L 10/26/2022 - 19:22:31: [lite_mapchooser.amxx] [End VoteMap] Voting for the nextmap finished. The nextmap will be jail_buyukmekan_fix
+L 10/26/2022 - 19:22:34: -------- Mapchange to jail_buyukmekan_fix --------
+L 10/26/2022 - 19:22:36: [gamecms_api.amxx] Reading GameCMS settings file... OK
+L 10/26/2022 - 19:22:36: [AMXX] Failed to open dictionary file: cstrike/addons/amxmodx/data/lang/jb_blockct.txt
+L 10/26/2022 - 19:22:36: [gamecms_api.amxx] Connection to the GameCMS database is established
+L 10/26/2022 - 19:22:36: [gamecms_api.amxx] "58" services was 'Loaded' from database. Total on server: "58" services.
+L 10/26/2022 - 19:22:37: [pluginmenu.amxx] Can't add menu item "Plugin Cvars" from plugin "pluginmenu.amxx" to menu set because the Menus Front-End plugin itself is not loaded!
+L 10/26/2022 - 19:22:37: [pluginmenu.amxx] Can't add menu item "Plugin Commands" from plugin "pluginmenu.amxx" to menu set because the Menus Front-End plugin itself is not loaded!
+L 10/26/2022 - 19:22:37: [gamecms_api.amxx] Authentication... "<Star Platinum><STEAM_2:0:1262329417>" (Account name "Star Platinum" / Admin index "13") (Service flags "stmcphufeqojwt") (Service name "Интеллектуал")
+L 10/26/2022 - 19:22:37: [gamecms_api.amxx] Authentication... "<Kukushka><STEAM_2:1:753772918>" (Account name "Kukushka" / Admin index "3") (Service flags "stmdbcphuft") (Service name "Глав. Смотр.")
+L 10/26/2022 - 19:22:40: [gamecms_api.amxx] Authentication... "<Star Platinum><STEAM_2:0:1262329417>" (Account name "Star Platinum" / Admin index "13") (Service flags "stmcphufeqojwt") (Service name "Интеллектуал")
+L 10/26/2022 - 19:22:41: [gamecms_api.amxx] Authentication... "<Kukushka><STEAM_2:1:753772918>" (Account name "Kukushka" / Admin index "3") (Service flags "stmdbcphuft") (Service name "Глав. Смотр.")
+L 10/26/2022 - 19:42:45: [gamecms_api.amxx] Authentication... "<maxik><STEAM_1:0:58613925>" (Account name "maxik" / Admin index "24") (Service flags "gstmcphufeqojwdt") (Service name "Анти граб* + Интеллектуал + Опер + Адм")
+L 10/26/2022 - 19:42:50: [gamecms_api.amxx] Authentication... "<maxik><STEAM_1:0:58613925>" (Account name "maxik" / Admin index "24") (Service flags "gstmcphufeqojwdt") (Service name "Анти граб* + Интеллектуал + Опер + Адм")
+L 10/26/2022 - 19:44:58: [plmenu.amxx] Cmd: "maxik<148><STEAM_1:0:58613925><>" transfer "K P A C U B O<146><STEAM_1:0:789439509><>" (team "CT")
+L 10/26/2022 - 19:45:54: [plmenu.amxx] Cmd: "maxik<148><STEAM_1:0:58613925><>" transfer "K P A C U B O<149><STEAM_1:0:789439509><>" (team "CT")
+L 10/26/2022 - 19:46:05: [gamecms_api.amxx] Authentication... "<Ту4ка><STEAM_2:0:224549487>" (Account name "Ту4ка" / Admin index "11") (Service flags "stmcphdt") (Service name "Хакер + Паутинка* + Админ*")
+L 10/26/2022 - 19:46:08: [gamecms_api.amxx] Authentication... "<Ту4ка><STEAM_2:0:224549487>" (Account name "Ту4ка" / Admin index "11") (Service flags "stmcphdt") (Service name "Хакер + Паутинка* + Админ*")
+L 10/26/2022 - 19:47:08: [plmenu.amxx] Cmd: "Ту4ка<151><STEAM_2:0:224549487><>" transfer "K P A C U B O<152><STEAM_1:0:789439509><>" (team "CT")
+L 10/26/2022 - 20:09:21: [plmenu.amxx] Cmd: "maxik<148><STEAM_1:0:58613925><>" transfer "K P A C U B O<162><STEAM_2:0:535402880><>" (team "CT")
+L 10/26/2022 - 20:16:37: [gamecms_api.amxx] Authentication... "<maxik><STEAM_1:0:58613925>" (Account name "maxik" / Admin index "24") (Service flags "gstmcphufeqojwdt") (Service name "Анти граб* + Интеллектуал + Опер + Адм")
+L 10/26/2022 - 20:18:12: [gamecms_api.amxx] Authentication... "<HyPe><STEAM_1:0:312021417>" (Account name "STEAM_1:0:312021417" / Admin index "10") (Service flags "stmcphufeqojwdt") (Service name "Интеллектуал + Админ*")
+L 10/26/2022 - 20:18:14: [gamecms_api.amxx] Authentication... "<HyPe><STEAM_1:0:312021417>" (Account name "STEAM_1:0:312021417" / Admin index "10") (Service flags "stmcphufeqojwdt") (Service name "Интеллектуал + Админ*")
+L 10/26/2022 - 20:18:31: [gamecms_api.amxx] Authentication... "<maxik><STEAM_1:0:58613925>" (Account name "maxik" / Admin index "24") (Service flags "gstmcphufeqojwdt") (Service name "Анти граб* + Интеллектуал + Опер + Адм")
+L 10/26/2022 - 20:18:35: [gamecms_api.amxx] Authentication... "<maxik><STEAM_1:0:58613925>" (Account name "maxik" / Admin index "24") (Service flags "gstmcphufeqojwdt") (Service name "Анти граб* + Интеллектуал + Опер + Адм")
+L 10/26/2022 - 20:25:48: [gamecms_api.amxx] Authentication... "<Star Platinum><STEAM_2:0:1262329417>" (Account name "Star Platinum" / Admin index "13") (Service flags "stmcphufeqojwt") (Service name "Интеллектуал")
+L 10/26/2022 - 20:25:51: [gamecms_api.amxx] Authentication... "<Star Platinum><STEAM_2:0:1262329417>" (Account name "Star Platinum" / Admin index "13") (Service flags "stmcphufeqojwt") (Service name "Интеллектуал")
+L 10/26/2022 - 20:28:11: [gamecms_api.amxx] Authentication... "<Player><STEAM_0:0:632569382>" (Account name "STEAM_0:0:632569382" / Admin index "4") (Service flags "abcdefghijklmnopqrstuvwt") (Service name "Руководство")
+L 10/26/2022 - 20:28:14: [gamecms_api.amxx] Authentication... "<Player><STEAM_0:0:632569382>" (Account name "STEAM_0:0:632569382" / Admin index "4") (Service flags "abcdefghijklmnopqrstuvwt") (Service name "Руководство")
+L 10/26/2022 - 20:28:22: [gamecms_api.amxx] Authentication... "<Player><STEAM_0:0:632569382>" (Account name "STEAM_0:0:632569382" / Admin index "4") (Service flags "abcdefghijklmnopqrstuvwt") (Service name "Руководство")
+L 10/26/2022 - 20:29:59: [gamecms_api.amxx] Authentication... "<Kukushka><STEAM_2:1:753772918>" (Account name "Kukushka" / Admin index "3") (Service flags "stmdbcphuft") (Service name "Глав. Смотр.")
+L 10/26/2022 - 20:30:04: [gamecms_api.amxx] Authentication... "<Kukushka><STEAM_2:1:753772918>" (Account name "Kukushka" / Admin index "3") (Service flags "stmdbcphuft") (Service name "Глав. Смотр.")
+L 10/26/2022 - 20:46:30: [lite_mapchooser.amxx] Vote: Voting for the nextmap started
+L 10/26/2022 - 20:46:40: [lite_mapchooser.amxx] [End VoteMap] Voting for the nextmap finished. The nextmap will be jail_west_v2
+L 10/26/2022 - 20:46:43: -------- Mapchange to jail_west_v2 --------
+L 10/26/2022 - 20:46:44: [gamecms_api.amxx] Reading GameCMS settings file... OK
+L 10/26/2022 - 20:46:44: [AMXX] Failed to open dictionary file: cstrike/addons/amxmodx/data/lang/jb_blockct.txt
+L 10/26/2022 - 20:46:44: [gamecms_api.amxx] Connection to the GameCMS database is established
+L 10/26/2022 - 20:46:45: [gamecms_api.amxx] "58" services was 'Loaded' from database. Total on server: "58" services.
+L 10/26/2022 - 20:46:45: [pluginmenu.amxx] Can't add menu item "Plugin Cvars" from plugin "pluginmenu.amxx" to menu set because the Menus Front-End plugin itself is not loaded!
+L 10/26/2022 - 20:46:45: [pluginmenu.amxx] Can't add menu item "Plugin Commands" from plugin "pluginmenu.amxx" to menu set because the Menus Front-End plugin itself is not loaded!
+L 10/26/2022 - 20:46:45: [gamecms_api.amxx] Authentication... "<HyPe><STEAM_1:0:312021417>" (Account name "STEAM_1:0:312021417" / Admin index "10") (Service flags "stmcphufeqojwdt") (Service name "Интеллектуал + Админ*")
+L 10/26/2022 - 20:46:45: [gamecms_api.amxx] Authentication... "<Star Platinum><STEAM_2:0:1262329417>" (Account name "Star Platinum" / Admin index "13") (Service flags "stmcphufeqojwt") (Service name "Интеллектуал")
+L 10/26/2022 - 20:46:45: [gamecms_api.amxx] Authentication... "<maxik><STEAM_1:0:58613925>" (Account name "maxik" / Admin index "24") (Service flags "gstmcphufeqojwdt") (Service name "Анти граб* + Интеллектуал + Опер + Адм")
+L 10/26/2022 - 20:46:45: [gamecms_api.amxx] Authentication... "<Kukushka><STEAM_2:1:753772918>" (Account name "Kukushka" / Admin index "3") (Service flags "stmdbcphuft") (Service name "Глав. Смотр.")
+L 10/26/2022 - 20:46:45: [gamecms_api.amxx] Authentication... "<Star Platinum><STEAM_2:0:1262329417>" (Account name "Star Platinum" / Admin index "13") (Service flags "stmcphufeqojwt") (Service name "Интеллектуал")
+L 10/26/2022 - 20:46:45: [gamecms_api.amxx] Authentication... "<Player><STEAM_0:0:632569382>" (Account name "STEAM_0:0:632569382" / Admin index "4") (Service flags "abcdefghijklmnopqrstuvwt") (Service name "Руководство")
+L 10/26/2022 - 20:46:47: [gamecms_api.amxx] Authentication... "<HyPe><STEAM_1:0:312021417>" (Account name "STEAM_1:0:312021417" / Admin index "10") (Service flags "stmcphufeqojwdt") (Service name "Интеллектуал + Админ*")
+L 10/26/2022 - 20:46:48: [gamecms_api.amxx] Authentication... "<maxik><STEAM_1:0:58613925>" (Account name "maxik" / Admin index "24") (Service flags "gstmcphufeqojwdt") (Service name "Анти граб* + Интеллектуал + Опер + Адм")
+L 10/26/2022 - 20:46:48: [gamecms_api.amxx] Authentication... "<Star Platinum><STEAM_2:0:1262329417>" (Account name "Star Platinum" / Admin index "13") (Service flags "stmcphufeqojwt") (Service name "Интеллектуал")
+L 10/26/2022 - 20:46:49: [gamecms_api.amxx] Authentication... "<Kukushka><STEAM_2:1:753772918>" (Account name "Kukushka" / Admin index "3") (Service flags "stmdbcphuft") (Service name "Глав. Смотр.")
+L 10/26/2022 - 20:46:50: [gamecms_api.amxx] Authentication... "<Player><STEAM_0:0:632569382>" (Account name "STEAM_0:0:632569382" / Admin index "4") (Service flags "abcdefghijklmnopqrstuvwt") (Service name "Руководство")
+L 10/26/2022 - 20:46:54: [gamecms_api.amxx] Authentication... "<Player><STEAM_0:0:632569382>" (Account name "STEAM_0:0:632569382" / Admin index "4") (Service flags "abcdefghijklmnopqrstuvwt") (Service name "Руководство")
+L 10/26/2022 - 20:47:04: [gamecms_api.amxx] Authentication... "<HyPe><STEAM_1:0:312021417>" (Account name "STEAM_1:0:312021417" / Admin index "10") (Service flags "stmcphufeqojwdt") (Service name "Интеллектуал + Админ*")
+L 10/26/2022 - 20:47:06: [gamecms_api.amxx] Authentication... "<HyPe><STEAM_1:0:312021417>" (Account name "STEAM_1:0:312021417" / Admin index "10") (Service flags "stmcphufeqojwdt") (Service name "Интеллектуал + Админ*")
+L 10/26/2022 - 20:49:15: [gamecms_api.amxx] Authentication... "<Ту4ка><STEAM_2:0:224549487>" (Account name "Ту4ка" / Admin index "11") (Service flags "stmcphdt") (Service name "Хакер + Паутинка* + Админ*")
+L 10/26/2022 - 20:49:17: [gamecms_api.amxx] Authentication... "<Ту4ка><STEAM_2:0:224549487>" (Account name "Ту4ка" / Admin index "11") (Service flags "stmcphdt") (Service name "Хакер + Паутинка* + Админ*")
+L 10/26/2022 - 20:56:47: [gamecms_api.amxx] Authentication... "<Star Platinum><STEAM_2:0:1262329417>" (Account name "Star Platinum" / Admin index "13") (Service flags "stmcphufeqojwt") (Service name "Интеллектуал")
+L 10/26/2022 - 20:57:18: [plmenu.amxx] Cmd: "Player<189><STEAM_0:0:632569382><>" transfer "Kukushka<188><STEAM_2:1:753772918><>" (team "TERRORIST")
+L 10/26/2022 - 20:58:26: [adminchat.amxx] Chat: "Player<189><STEAM_0:0:632569382><>" tsay "Vsem ky"
+L 10/26/2022 - 20:58:36: [adminchat.amxx] Chat: "Player<189><STEAM_0:0:632569382><>" tsay "Я ваш новый начальник"
+L 10/26/2022 - 20:58:36: [plmenu.amxx] Kick: "Kukushka<188><STEAM_2:1:753772918><>" kick "HyPe<191><STEAM_1:0:312021417><>"
+L 10/26/2022 - 20:58:39: [gamecms_api.amxx] Authentication... "<HyPe><STEAM_1:0:312021417>" (Account name "STEAM_1:0:312021417" / Admin index "10") (Service flags "stmcphufeqojwdt") (Service name "Интеллектуал + Админ*")
+L 10/26/2022 - 20:58:41: [gamecms_api.amxx] Authentication... "<HyPe><STEAM_1:0:312021417>" (Account name "STEAM_1:0:312021417" / Admin index "10") (Service flags "stmcphufeqojwdt") (Service name "Интеллектуал + Админ*")
+L 10/26/2022 - 21:01:43: [plmenu.amxx] Cmd: "Kukushka<188><STEAM_2:1:753772918><>" transfer "HyPe<198><STEAM_1:0:312021417><>" (team "TERRORIST")
+L 10/26/2022 - 21:02:02: [plmenu.amxx] Cmd: "Player<189><STEAM_0:0:632569382><>" transfer "Ту4ка<193><STEAM_2:0:224549487><>" (team "TERRORIST")
+L 10/26/2022 - 21:02:46: [adminchat.amxx] Chat: "Player<189><STEAM_0:0:632569382><>" tsay "Я что все знаю?"
+L 10/26/2022 - 21:05:53: [gamecms_api.amxx] Authentication... "<LinFan><STEAM_0:1:454888830>" (Account name "STEAM_0:1:454888830" / Admin index "27") (Service flags "bstmdvrcphufeqojwyigat") (Service name "Интеллектуал")
+L 10/26/2022 - 21:06:48: [gamecms_api.amxx] Authentication... "<LinFan><STEAM_0:1:454888830>" (Account name "STEAM_0:1:454888830" / Admin index "27") (Service flags "bstmdvrcphufeqojwyigat") (Service name "Интеллектуал")
+L 10/26/2022 - 21:06:59: [gamecms_api.amxx] Authentication... "<LinFan><STEAM_0:1:454888830>" (Account name "STEAM_0:1:454888830" / Admin index "27") (Service flags "bstmdvrcphufeqojwyigat") (Service name "Интеллектуал")
+L 10/26/2022 - 21:07:37: [lite_mapchooser.amxx] Ту4ка проголосовал за смену карты. Осталось: 3 голосов.
+L 10/26/2022 - 21:07:59: [adminvote.amxx] Vote: "Player<189><STEAM_0:0:632569382><>" vote custom (question "Сменить мапу") (option#1 "Да") (option#2 "Нет")
+L 10/26/2022 - 21:08:11: [adminvote.amxx] Vote: Voting successful (got "3") (needed "1") (result "Сменить мапу - "Нет"")
+L 10/26/2022 - 21:12:29: [adminvote.amxx] Vote: "Player<189><STEAM_0:0:632569382><>" vote custom (question "Сменить мапу") (option#1 "Да") (option#2 "Да")
+L 10/26/2022 - 21:12:41: [adminvote.amxx] Vote: Voting successful (got "3") (needed "1") (result "Сменить мапу - "Да"")
+L 10/26/2022 - 21:14:56: [lite_mapchooser.amxx] ss0 проголосовал за смену карты. Осталось: 2 голосов.
+L 10/26/2022 - 21:15:12: [admincmd.amxx] Cmd: "Player<189><STEAM_0:0:632569382><>" changelevel "jail_west_b1"
+L 10/26/2022 - 21:15:14: -------- Mapchange to jail_west_b1 --------
+L 10/26/2022 - 21:15:16: [gamecms_api.amxx] Reading GameCMS settings file... OK
+L 10/26/2022 - 21:15:16: [AMXX] Failed to open dictionary file: cstrike/addons/amxmodx/data/lang/jb_blockct.txt
+L 10/26/2022 - 21:15:16: [gamecms_api.amxx] Connection to the GameCMS database is established
+L 10/26/2022 - 21:15:16: [gamecms_api.amxx] "60" services was 'Loaded' from database. Total on server: "60" services.
+L 10/26/2022 - 21:15:17: [pluginmenu.amxx] Can't add menu item "Plugin Cvars" from plugin "pluginmenu.amxx" to menu set because the Menus Front-End plugin itself is not loaded!
+L 10/26/2022 - 21:15:17: [pluginmenu.amxx] Can't add menu item "Plugin Commands" from plugin "pluginmenu.amxx" to menu set because the Menus Front-End plugin itself is not loaded!
+L 10/26/2022 - 21:15:17: [gamecms_api.amxx] Authentication... "<HyPe><STEAM_1:0:312021417>" (Account name "STEAM_1:0:312021417" / Admin index "10") (Service flags "stmcphufeqojwdt") (Service name "Интеллектуал + Админ*")
+L 10/26/2022 - 21:15:17: [gamecms_api.amxx] Authentication... "<Ту4ка><STEAM_2:0:224549487>" (Account name "Ту4ка" / Admin index "11") (Service flags "stmcphdt") (Service name "Хакер + Паутинка* + Админ*")
+L 10/26/2022 - 21:15:17: [gamecms_api.amxx] Authentication... "<Kukushka><STEAM_2:1:753772918>" (Account name "Kukushka" / Admin index "3") (Service flags "stmdbcphuft") (Service name "Глав. Смотр.")
+L 10/26/2022 - 21:15:17: [gamecms_api.amxx] Authentication... "<maxik><STEAM_1:0:58613925>" (Account name "maxik" / Admin index "24") (Service flags "gstmcphufeqojwdt") (Service name "Анти граб* + Интеллектуал + Опер + Адм")
+L 10/26/2022 - 21:15:17: [gamecms_api.amxx] Authentication... "<Player><STEAM_0:0:632569382>" (Account name "STEAM_0:0:632569382" / Admin index "4") (Service flags "abcdefghijklmnopqrstuvwt") (Service name "Руководство")
+L 10/26/2022 - 21:15:17: [gamecms_api.amxx] Authentication... "<ss0><STEAM_2:0:1952932635>" (Account name "ss0" / Admin index "32") (Service flags "tdsmcphufeqojwt") (Service name "Админ* + Интеллектуал")
+L 10/26/2022 - 21:15:19: [gamecms_api.amxx] Authentication... "<Ту4ка><STEAM_2:0:224549487>" (Account name "Ту4ка" / Admin index "11") (Service flags "stmcphdt") (Service name "Хакер + Паутинка* + Админ*")
+L 10/26/2022 - 21:15:19: [gamecms_api.amxx] Authentication... "<Player><STEAM_0:0:632569382>" (Account name "STEAM_0:0:632569382" / Admin index "4") (Service flags "abcdefghijklmnopqrstuvwt") (Service name "Руководство")
+L 10/26/2022 - 21:15:20: [gamecms_api.amxx] Authentication... "<maxik><STEAM_1:0:58613925>" (Account name "maxik" / Admin index "24") (Service flags "gstmcphufeqojwdt") (Service name "Анти граб* + Интеллектуал + Опер + Адм")
+L 10/26/2022 - 21:15:20: [gamecms_api.amxx] Authentication... "<LinFan><STEAM_0:1:454888830>" (Account name "STEAM_0:1:454888830" / Admin index "27") (Service flags "bstmdvrcphufeqojwyigat") (Service name "Интеллектуал")
+L 10/26/2022 - 21:15:20: [gamecms_api.amxx] Authentication... "<Kukushka><STEAM_2:1:753772918>" (Account name "Kukushka" / Admin index "3") (Service flags "stmdbcphuft") (Service name "Глав. Смотр.")
+L 10/26/2022 - 21:15:22: [gamecms_api.amxx] Authentication... "<Player><STEAM_0:0:632569382>" (Account name "STEAM_0:0:632569382" / Admin index "4") (Service flags "abcdefghijklmnopqrstuvwt") (Service name "Руководство")
+L 10/26/2022 - 21:15:22: [gamecms_api.amxx] Authentication... "<ss0><STEAM_2:0:1952932635>" (Account name "ss0" / Admin index "32") (Service flags "tdsmcphufeqojwt") (Service name "Админ* + Интеллектуал")
+L 10/26/2022 - 21:15:25: [gamecms_api.amxx] Authentication... "<LinFan><STEAM_0:1:454888830>" (Account name "STEAM_0:1:454888830" / Admin index "27") (Service flags "bstmdvrcphufeqojwyigat") (Service name "Интеллектуал")
+L 10/26/2022 - 21:15:29: [gamecms_api.amxx] Authentication... "<HyPe><STEAM_1:0:312021417>" (Account name "STEAM_1:0:312021417" / Admin index "10") (Service flags "stmcphufeqojwdt") (Service name "Интеллектуал + Админ*")
+L 10/26/2022 - 21:15:45: [gamecms_api.amxx] Authentication... "<(1)LinFan><STEAM_0:1:454888830>" (Account name "STEAM_0:1:454888830" / Admin index "27") (Service flags "bstmdvrcphufeqojwyigat") (Service name "Интеллектуал")
+L 10/26/2022 - 21:15:50: [gamecms_api.amxx] Authentication... "<(1)LinFan><STEAM_0:1:454888830>" (Account name "STEAM_0:1:454888830" / Admin index "27") (Service flags "bstmdvrcphufeqojwyigat") (Service name "Интеллектуал")
+L 10/26/2022 - 21:16:00: [gamecms_api.amxx] Authentication... "<LinFan><STEAM_0:1:454888830>" (Account name "STEAM_0:1:454888830" / Admin index "27") (Service flags "bstmdvrcphufeqojwyigat") (Service name "Интеллектуал")
+L 10/26/2022 - 21:16:04: [gamecms_api.amxx] Authentication... "<LinFan><STEAM_0:1:454888830>" (Account name "STEAM_0:1:454888830" / Admin index "27") (Service flags "bstmdvrcphufeqojwyigat") (Service name "Интеллектуал")
+L 10/26/2022 - 21:17:06: [gamecms_api.amxx] Authentication... "<ss0><STEAM_2:0:1952932635>" (Account name "ss0" / Admin index "32") (Service flags "tdsmcphufeqojwt") (Service name "Админ* + Интеллектуал")
+L 10/26/2022 - 21:17:08: [gamecms_api.amxx] Authentication... "<ss0><STEAM_2:0:1952932635>" (Account name "ss0" / Admin index "32") (Service flags "tdsmcphufeqojwt") (Service name "Админ* + Интеллектуал")
+L 10/26/2022 - 21:21:02: [gamecms_api.amxx] Authentication... "<HyPe><STEAM_1:0:312021417>" (Account name "STEAM_1:0:312021417" / Admin index "10") (Service flags "stmcphufeqojwdt") (Service name "Интеллектуал + Админ*")
+L 10/26/2022 - 22:01:23: -------- Mapchange to jaiI_xmf_v2 --------
+L 10/26/2022 - 22:01:24: [gamecms_api.amxx] Reading GameCMS settings file... OK
+L 10/26/2022 - 22:01:24: [AMXX] Failed to open dictionary file: cstrike/addons/amxmodx/data/lang/jb_blockct.txt
+L 10/26/2022 - 22:01:24: [gamecms_api.amxx] Connection to the GameCMS database is established
+L 10/26/2022 - 22:01:25: [gamecms_api.amxx] "60" services was 'Loaded' from database. Total on server: "60" services.
+L 10/26/2022 - 22:01:25: [pluginmenu.amxx] Can't add menu item "Plugin Cvars" from plugin "pluginmenu.amxx" to menu set because the Menus Front-End plugin itself is not loaded!
+L 10/26/2022 - 22:01:25: [pluginmenu.amxx] Can't add menu item "Plugin Commands" from plugin "pluginmenu.amxx" to menu set because the Menus Front-End plugin itself is not loaded!
+L 10/26/2022 - 23:03:19: -------- Mapchange to jail_alayinaisyan_b5 --------
+L 10/26/2022 - 23:03:20: [gamecms_api.amxx] Reading GameCMS settings file... OK
+L 10/26/2022 - 23:03:20: [AMXX] Failed to open dictionary file: cstrike/addons/amxmodx/data/lang/jb_blockct.txt
+L 10/26/2022 - 23:03:20: [gamecms_api.amxx] Connection to the GameCMS database is established
+L 10/26/2022 - 23:03:21: [gamecms_api.amxx] "60" services was 'Loaded' from database. Total on server: "60" services.
+L 10/26/2022 - 23:03:21: [pluginmenu.amxx] Can't add menu item "Plugin Cvars" from plugin "pluginmenu.amxx" to menu set because the Menus Front-End plugin itself is not loaded!
+L 10/26/2022 - 23:03:21: [pluginmenu.amxx] Can't add menu item "Plugin Commands" from plugin "pluginmenu.amxx" to menu set because the Menus Front-End plugin itself is not loaded!

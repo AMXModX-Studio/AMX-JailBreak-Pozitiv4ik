@@ -1,0 +1,25 @@
+[en]
+VOTEGAG_NEEDX = !n This command is unavailable! Need at least !t%d!n players.
+VOTEGAG_VOTED = voted
+VOTEGAG_VOTE = !n Player !t%s!n votegagged !t%s!n!
+VOTEGAG_UNVOTE = !n Player !t%s!n canceled voteban !t%s!n!
+VOTEGAG_SET = * You have votegagged this player *
+VOTEGAG_CLEAR = * You have canceled votegag for this player *
+VOTEGAG_LIMIT = * Too much votegags, max. %d! *
+VOTEGAG_MENU = \rVOTEGAG \yMenu
+VOTEGAG_BACK = Back
+VOTEGAG_NEXT = Next
+VOTEGAG_EXIT = Exit
+
+[ru]
+VOTEGAG_NEEDX = !n Команда недоступна, потому что на сервере менее !t%d-х!n человек!
+VOTEGAG_VOTED = голос
+VOTEGAG_VOTE = !n Игрок !t%s!n проголосовал за gag !t%s!n!
+VOTEGAG_UNVOTE = !n Игрок !t%s!n отменил свой голос за gag !t%s!n!
+VOTEGAG_SET = * Вы проголосовали за gag игрока *
+VOTEGAG_CLEAR = * Вы отменили голос за gag игрока *
+VOTEGAG_LIMIT = * Слишком много голосов, максимум %d! *
+VOTEGAG_MENU = \yМеню \rVOTEGAG'a
+VOTEGAG_BACK = Назад
+VOTEGAG_NEXT = Дальше
+VOTEGAG_EXIT = Выход
