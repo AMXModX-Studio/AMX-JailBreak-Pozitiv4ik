@@ -1,2 +1,2 @@
 # AMX-JailBreak-Pozitiv4ik
-Слив
+Слив JBE сборки от Pozitiv4ik'а (Скамер)
